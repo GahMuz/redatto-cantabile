@@ -53,3 +53,7 @@ Titre confirmé par l’auteur : **L’Arbre des Rois** (D-022, ancien D-017 de 
 `index.html` charge `manuscrit/index.md`, puis les fichiers des chapitres via `lecture/lecteur.js`, sans copie de prose ni génération HTML. Maintenir les liens, l’ordre et les statuts de l’index ; `.nojekyll` préserve les fichiers pour GitHub Pages. Adresse de lecture fournie par l’auteur conservée en tête de ce fichier. Les vérifications Chromium de cette page sont documentées dans le commit de main ; ne pas les présenter comme réalisées à nouveau lors de la fusion.
 
 Vérification de la réconciliation avant fusion : Chromium via HTTP sous `/redatto-cantabile/`, trois chapitres chargés depuis les Markdown actuels, navigation et rendu conformes, âges corrigés, motif collectif et fin « O » vérifiés. Aucun texte narratif changé lors de la fusion.
+
+## Retour de lecture après D-026
+
+D-027 : [RL-16, Palen et Mara](controles/2026-10-07-palen-mara.md). L’antériorité incertaine évoquée par le garde au Conseil affaiblit l’observation propre de Mara ; entretien demandé sans suite écrite. Proposition principale : retirer cette déposition et la demande, conserver l’incertitude générale et le refus du lien causal officiel. Alternative : entretien établissant la limite de Palen. Aucune solution choisie, manuscrit inchangé ; transmission de la note de Mara à Cassian non montrée.

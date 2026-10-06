@@ -54,3 +54,5 @@ Les rapports proposent des corrections sans les appliquer au roman. Une observat
 | 2026-10-07 | [Fond](2026-10-07-cassian-fond.md) | I–II intégralement, avant deux derniers raccords locaux | RL-15 traité ; responsabilité préservée |
 | 2026-10-07 | [Forme](2026-10-07-cassian-forme.md) | I–II intégralement puis amorce médicale finale | Raccord corrigé ; dosage du résumé P3 |
 | 2026-10-07 | [Synthèse](2026-10-07-cassian-synthese.md) | Trois rapports arbitrés, passages et mémoire | Aucun nouveau P1/P2 sur D-026 ; RL-01–14 ouverts |
+
+Contrôle ciblé du coordinateur après D-026 : [Palen et Mara, RL-16](2026-10-07-palen-mara.md). SC-013 et sources de l’observation relues, occurrences vérifiées ; anticipation et entretien sans suite écrite à arbitrer. Aucun chapitre modifié.
