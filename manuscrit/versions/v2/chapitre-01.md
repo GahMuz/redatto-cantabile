@@ -10,7 +10,7 @@ Un peu plus tôt, Mara attendait derrière un manteau brun dont le col lui arriv
 
 Teren soupira.
 
-À quinze ans, Teren avait récemment acquis la conviction que soupirer constituait une réponse acceptable à presque toutes les questions.
+À dix-sept ans, Teren avait récemment acquis la conviction que soupirer constituait une réponse acceptable à presque toutes les questions.
 
 Mara lui donna un coup de coude.
 
@@ -648,7 +648,7 @@ Peut-être.
 
 C'était possible.
 
-Elle avait douze ans.
+Elle avait quatorze ans.
 
 Elle avait faim.
 

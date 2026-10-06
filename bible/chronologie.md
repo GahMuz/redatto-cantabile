@@ -1,6 +1,6 @@
 # Chronologie de référence — V2
 
-Mise à jour le 6 octobre 2026. Chapitres I, II et III reçus, III tronqué sur « O ». Cette page suit la révisions autorisées par D-015 et D-016 et les repères du brouillon actif. Sources : [chapitres et scènes](../manuscrit/versions/v2/index.md). La [chronologie V1](versions/v1/chronologie.md) reste historique. Le plan secret V2 ne décrit pas des événements accomplis.
+Mise à jour le 6 octobre 2026. Chapitres I, II et III reçus, III tronqué sur « O ». Cette page suit les révisions autorisées par D-015, D-016 et D-017 et les repères du brouillon actif. Sources : [chapitres et scènes](../manuscrit/versions/v2/index.md). La [chronologie V1](versions/v1/chronologie.md) reste historique. Le plan secret V2 ne décrit pas des événements accomplis.
 
 ## Conventions
 
@@ -8,7 +8,7 @@ Mise à jour le 6 octobre 2026. Chapitres I, II et III reçus, III tronqué sur 
 
 **Mort du roi** est un autre point de référence : sa date absolue et son écart exact avec J0 ne sont pas fixés ici. Une durée avant la mort d'Aldren ne devient pas automatiquement une durée avant J0.
 
-Séparer narration, document lu, témoignage, déduction et événement annoncé. Une date dans une pièce fictive ne garantit pas sa vérité. **Présent retenu : année 70 de la Concorde** (D-015). Teren est né en 55 ; l'âge de quinze ans suppose que son anniversaire est passé. Le mois courant reste ouvert. L'ordre des événements diffère de l'ordre des révélations.
+Séparer narration, document lu, témoignage, déduction et événement annoncé. Une date dans une pièce fictive ne garantit pas sa vérité. **Présent retenu : année 70 de la Concorde** (D-015). Teren est né en 53 (D-017) ; l'âge de dix-sept ans suppose que son anniversaire est passé. Le mois courant reste ouvert. L'ordre des événements diffère de l'ordre des révélations.
 
 ## Passé historique et familial
 
@@ -22,8 +22,8 @@ Séparer narration, document lu, témoignage, déduction et événement annoncé
 | T-V2-006 | Trois mois après le maintien, puis l’année suivante et deux ans plus tard | Révisions demandées et refusées | Documents lus à J6, SC-038 ; dates suivantes non déduites |
 | T-V2-007 | Examens sur six semaines ; transfert en 56 | 108 dossiers transférés à la Sûreté, 103 avis de levée et cinq maintiens | SC-038 ; les six semaines concernent les examens, pas nécessairement la durée du transfert |
 | T-V2-008 | Année 59, onze ans auparavant | Portrait homme 771 et variantes 772–775 | Registre de l’atelier à J9, SC-044 ; identité du modèle inconnue |
-| T-V2-009 | 17 de Brume, année 55 | Naissance de Teren ; âge actuel quinze ans | Acte lu par Mara, SC-031 ; âge SC-001 ; quinze ans en année 70, après son anniversaire |
-| T-V2-010 | Mara avait quatre ans | Mort de Lena | Actes et récit, SC-031–032 ; Mara actuellement douze ans, sans naissance absolue fixée |
+| T-V2-009 | 17 de Brume, année 53 | Naissance de Teren ; âge actuel dix-sept ans | Acte lu par Mara, SC-031 ; âge SC-001 ; dix-sept ans en année 70, après son anniversaire |
+| T-V2-010 | Mara avait quatre ans | Mort de Lena | Actes et récit, SC-031–032 ; Mara actuellement quatorze ans, quinze dans quatre mois ; décès dix ans auparavant (SC-040), sans date absolue fixée |
 | T-V2-011 | Huit mois avant le présent ; atelier fermé six mois | Mort de Corlan Esve selon rapport et fermeture ultérieure | Rapport et garçon, SC-029, 044 ; ne pas confondre les dates |
 | T-V2-012 | Depuis deux ans | Préparation de Teren au concours | Désir et investissement rapportés, SC-030, 040 |
 
@@ -91,7 +91,7 @@ Le récit alterne des branches : leur succession dans le chapitre ne prouve pas 
 | J1 soir | Admissions et atelier envisagés pour demain | Teren rapporte Admissions ; atelier montré à J9 après accord de la veuve ; aucune visite antérieure inventée |
 | Darien J3 | Regarder Teren « probablement demain » | Intention SC-036 ; enveloppe sans expéditeur confirmé |
 | Delan J8 | Entretien après cours | Annoncé SC-039, non montré |
-| Lettre d'inéligibilité | Réexamen possible à vingt-cinq ans | Condition SC-033, pas délai de traitement actuel |
+| Lettre d'inéligibilité | Réexamen possible à vingt-cinq ans | Condition SC-033 ; huit ans après le présent pour Teren dix-sept ans (D-017), pas délai de traitement actuel |
 | Enveloppe J9 | Révision après cinq années de service satisfaisant | Possibilité SC-041, pas début de service accompli |
 | Circulaire J9 | Réduction possible sur avis antérieur favorable inexécuté | SC-042, aucune durée réduite ni levée accordée |
 
@@ -99,7 +99,7 @@ Le récit alterne des branches : leur succession dans le chapitre ne prouve pas 
 
 | Identifiant | Incompatibilité / inconnue | Action nécessaire |
 | --- | --- | --- |
-| A-T01 | Corrigé : présent 70, Teren né 55, portrait 59 vieux de onze ans | D-015 ; SC-031, 034, 044. Âges absolus de Lena et date de guerre restent ouverts |
+| A-T01 | Corrigé : présent 70, Teren né 53 depuis D-017, portrait 59 vieux de onze ans | D-015 et D-017 ; SC-031, 034, 044. Âges absolus de Lena et date de guerre restent ouverts |
 | A-T02 | Corrigé : examen 53 vieux de dix-sept ans ; transfert 56 vieux de quatorze ans | SC-038, 043 ; ancienneté réelle de l'opération non prouvée |
 | A-T03 | Corrigé dans les scènes concernées : pendaison vieille d’une semaine à J7, entretien Darien cinq jours avant J8 et six jours avant J9 | SC-035, 038, 039, 040, 042 |
 | A-T04 | Corrigé : plus ancienne inscription attestée avant l’aube, propagation au soir ; première absolue inconnue | SC-011, 018 |

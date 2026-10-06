@@ -1,6 +1,6 @@
 # Contrôles
 
-Dernier contrôle : [calendrier et bourgeon D-016](2026-10-06-calendrier-bourgeon-synthese.md). Trois lectures indépendantes intégrales ; raccord initial corrigé et relu, aucun nouveau P1/P2 restant établi. Les rapports précédents décrivent les états historiques.
+Dernier contrôle : [âges D-017](2026-10-06-ages-synthese.md), trois lectures indépendantes ciblées et raccords relus. Aucun P1/P2 restant établi. Le [contrôle intégral D-016](2026-10-06-calendrier-bourgeon-synthese.md) reste la référence pour le calendrier et le bourgeon.
 
 | Date | Rapport | Périmètre lu | Versions / état des sources | Points ouverts |
 | --- | --- | --- | --- | --- |
@@ -26,3 +26,10 @@ Les rapports proposent des corrections sans les appliquer au roman. Une observat
 | 2026-10-06 | [Fond](2026-10-06-calendrier-bourgeon-fond.md) | I–III intégralement | Délais contraignants ; pression politique future P3 |
 | 2026-10-06 | [Forme](2026-10-06-calendrier-bourgeon-forme.md) | I–III intégralement, raccord relu | CF-01 traité ; suggestions P3 |
 | 2026-10-06 | [Synthèse](2026-10-06-calendrier-bourgeon-synthese.md) | Trois rapports arbitrés et mémoire | Aucun nouveau P1/P2 restant établi |
+
+| Date | Contrôle D-017 | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-06 | [Cohérence](2026-10-06-ages-coherence.md) | Scènes d'âge et dépendances | Calculs et raccords traités |
+| 2026-10-06 | [Fond](2026-10-06-ages-fond.md) | Même périmètre ciblé | Démarches, résistances et autonomie compatibles |
+| 2026-10-06 | [Forme](2026-10-06-ages-forme.md) | Même périmètre ciblé | Voix plausibles, remarque P3 sur le doute |
+| 2026-10-06 | [Synthèse](2026-10-06-ages-synthese.md) | Trois lectures arbitrées | Aucun P1/P2 restant établi |

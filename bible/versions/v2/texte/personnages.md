@@ -8,7 +8,7 @@ La [suite II–III](suite-chapitres-02-03.md) actualise connaissances et états 
 
 ## P-V2-003 — Mara Veyre
 
-Douze ans, fille de l'imprimeur Veyre, sœur de Teren (005, 009). Compose des affiches et sait lire ; a composé la phrase sur Oren cent quarante-sept fois la veille (002). Remarque que le portrait gravé ne ressemble guère au condamné (002, 009). Repère un bourgeon pendant l’attente, avant l’arrivée du prisonnier, le montre sans que Teren le distingue (001), puis le retrouve avant la chute. Doute brièvement après la floraison (004–005), puis maintient l’observation devant son père (008).
+Quatorze ans, quinze dans quatre mois, fille de l'imprimeur Veyre, sœur de Teren (005, 009). Compose des affiches et sait lire ; a composé la phrase sur Oren cent quarante-sept fois la veille (002). Remarque que le portrait gravé ne ressemble guère au condamné (002, 009). Repère un bourgeon pendant l’attente, avant l’arrivée du prisonnier, le montre sans que Teren le distingue (001), puis le retrouve avant la chute. Doute brièvement après la floraison (004–005), puis maintient l’observation devant son père (008).
 
 Reste à l'imprimerie, sans poursuite ni recrutement. Lit le bon de 20 000 exemplaires, reconnaît l'écriture d'Ansel et oppose sa date du lundi à l'arrestation du mardi et au procès du jeudi (009). Cache le bon dans sa chaussure pendant le rappel administratif, le rend à son père, qui le brûle (010). **Elle ne possède plus le document** à la fin reçue ; elle en conserve le souvenir. Son malaise devant les contributions est montré, pas encore un engagement révolutionnaire (010).
 
@@ -16,7 +16,7 @@ Ignore les demandes d'Oren à Cassian, le témoignage de Merel, l'examen du corp
 
 ## P-V2-004 — Teren Veyre
 
-Quinze ans, frère de Mara (001). Devait livrer les registres avant midi ; ment sur leur livraison à Corven, présent dans l'atelier, puis est chargé de la faire seul (008). N'a pas vu le bourgeon et ne confirme pas son antériorité (005, 008). Sa possibilité de passer les concours est évoquée par le père, sans attendre l'année suivante (010) ; sa future adhésion politique reste une intention de plan. N'a pas vu Oren vivant après la pendaison dans ces chapitres.
+Dix-sept ans, frère de Mara (001). Devait livrer les registres avant midi ; ment sur leur livraison à Corven, présent dans l'atelier, puis est chargé de la faire seul (008). N'a pas vu le bourgeon et ne confirme pas son antériorité (005, 008). Sa possibilité de passer les concours est évoquée par le père, sans attendre l'année suivante (010) ; sa future adhésion politique reste une intention de plan. N'a pas vu Oren vivant après la pendaison dans ces chapitres.
 
 ## P-V2-008 — Maître Veyre, père
 

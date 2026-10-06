@@ -1,6 +1,6 @@
 # Manuscrit V2 — chapitres reçus
 
-Trois chapitres assemblés à partir de douze pièces, importés le 6 octobre 2026. Statut : **brouillon actif révisé selon D-015 et D-016**, sans confirmation qu'il s'agit de la version définitive. Les sources brutes et le commit fa8cc16 conservent l'état avant révision. Sources et demandes de continuation : SRC-V2-05 à 23 (11, 12 et 20 sont des doublons) dans le [registre](../../../sources/index.md).
+Trois chapitres assemblés à partir de douze pièces, importés le 6 octobre 2026. Statut : **brouillon actif révisé selon D-015, D-016 et D-017**, sans confirmation qu'il s'agit de la version définitive. Les sources brutes et le commit fa8cc16 conservent l'état avant révision. Sources et demandes de continuation : SRC-V2-05 à 23 (11, 12 et 20 sont des doublons) dans le [registre](../../../sources/index.md).
 
 | Identifiant | Titre / copie de lecture | Sources | Fin reçue |
 | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ I : fragment terminal « — Vraiment » de la première pièce retiré au profi
 
 | Identifiant stable | Chapitre / ouverture | Contenu |
 | --- | --- | --- |
-| SC-V2-001 | I : « Le jour où l'Arbre mort fleurit » | Foule, fratrie, bourgeon repéré pendant l’attente avant arrivée et livraison délaissée |
+| SC-V2-001 | I : « Le jour où l'Arbre mort fleurit » | Foule, Mara quatorze ans et Teren dix-sept ans, bourgeon repéré pendant l’attente avant arrivée et livraison délaissée |
 | SC-V2-002 | I : « Pendant trois jours » | Affiches, portrait gravé différent, métier d'archiviste |
 | SC-V2-003 | I : « L'Arbre se dressait derrière lui » | Histoire de l'Arbre et procédure de pendaison |
 | SC-V2-004 | I : « Le prêtre leva les mains » | Condamnation, plaisanterie sur la soupe, bourgeon retrouvé avant la chute après observation pendant l’attente |
@@ -58,7 +58,7 @@ Ces repères suivent les transitions du texte sans insérer d'ancres dans la pro
 | SC-V2-028 | III : « Darien tourna au coin de la rue » | Rapport à Varos, informations de morgue |
 | SC-V2-029 | III : « On frappa. Deux coups » | Garçon, rue des Cendres, visite reportée |
 | SC-V2-030 | III : « Pendant ce temps, Mara découvrait » | Aspiration et suspension de Teren |
-| SC-V2-031 | III : « Pas un livre. Le registre familial » | Dossier de Lena et restriction familiale |
+| SC-V2-031 | III : « Pas un livre. Le registre familial » | Acte de Teren daté 53, dossier de Lena et restriction familiale |
 | SC-V2-032 | III : « En bas, la clochette » | Plaque et histoire de Lena ; fin coupée |
 
 [Dernier état de la mémoire](../../../bible/versions/v2/texte/suite-chapitres-02-03.md).
@@ -76,7 +76,7 @@ Ces repères suivent les transitions du texte sans insérer d'ancres dans la pro
 | SC-V2-037 | III : Varos, requête et registre central | J3–J6 : consultations d’Oren, requête puis attente, classement de Lena maintenu ; examen transmis par O. Vale |
 | SC-V2-038 | III : « Une demande de révision » | J6–J7 : révisions refusées, attente des volumes, Commission et 108 dossiers transférés |
 | SC-V2-039 | III : lendemain, école | J8 : faits / interprétations, bourgeon public, rumeurs après une semaine |
-| SC-V2-040 | III : Jon vient chercher Mara | J8 : recours rejeté six jours après dépôt, 53-7714, toit et promesse à Teren |
+| SC-V2-040 | III : Jon vient chercher Mara | J8 : recours rejeté six jours après dépôt, 53-7714, toit ; Lena morte depuis dix ans et promesse à Teren |
 | SC-V2-041 | III : « Pas de nom. » | Enveloppe, corps techniques et conflit familial |
 | SC-V2-042 | III : « À l’école, Mara garda le formulaire » puis bibliothèque | Circulaire 14-7-B et recommandation antérieure |
 | SC-V2-043 | III : réponse reçue par Varos | Refus d'accès et opérations en cours, hypothèses |

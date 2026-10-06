@@ -1902,7 +1902,7 @@ Elle trouva celui de Teren.
 
 **TEREN VEYRE**
 
-Né le 17 de Brume, année 55 de la Concorde.
+Né le 17 de Brume, année 53 de la Concorde.
 
 Père :
 
@@ -2336,7 +2336,7 @@ Teren ne rentra pas pour dîner.
 
 — Pourquoi ?
 
-— Parce qu'il a quinze ans.
+— Parce qu'il a dix-sept ans.
 
 — Justement.
 
@@ -2492,11 +2492,11 @@ Plus bas :
 
 Mara calcula.
 
-— Dix ans ?
+— Huit ans ?
 
 Son père ne répondit pas.
 
-— Ils lui interdisent le concours pendant dix ans ?
+— Ils lui interdisent le concours pendant huit ans ?
 
 — Pas tous les concours.
 
@@ -2690,9 +2690,9 @@ La bibliothécaire eut un sourire étrange.
 
 — Pourquoi ?
 
-— Parce que tu as douze ans.
+— Parce que tu as quatorze ans.
 
-— Treize dans quatre mois.
+— Quinze dans quatre mois.
 
 — Voilà qui change tout.
 
@@ -2884,7 +2884,7 @@ Mais ce n'était toujours pas la chose qui l'inquiétait le plus.
 
 Le décret datait de l'année 41.
 
-Teren était né en 55. Le décret le précédait de quatorze ans.
+Teren était né en 53. Le décret le précédait de douze ans.
 
 Mara ne savait pas encore quand le classement avait été inscrit dans le dossier de leur mère. Mais la règle avait été préparée avant la naissance de son frère, et elle continuait à l'atteindre aujourd'hui.
 
@@ -3542,9 +3542,9 @@ Darien posa sa cuillère.
 
 — Je sais.
 
-— Et que tu as douze ans.
+— Et que tu as quatorze ans.
 
-— Treize dans—
+— Quinze dans—
 
 — Ça ne fonctionne toujours pas.
 
@@ -3846,7 +3846,7 @@ Elle réfléchissait.
 
 — Pas aujourd'hui.
 
-— Dans dix ans.
+— Dans huit ans.
 
 — Peut-être avant.
 
@@ -5600,7 +5600,7 @@ Mara ne dit rien.
 
 Il essuya ses yeux.
 
-— Maman est morte depuis huit ans et elle arrive encore à me faire virer d'un concours.
+— Maman est morte depuis dix ans et elle arrive encore à me faire virer d'un concours.
 
 — C'est pas elle.
 
@@ -5624,9 +5624,9 @@ Teren eut un petit rire.
 
 — Je suis sérieuse.
 
-— Tu as douze ans.
+— Tu as quatorze ans.
 
-— Treize dans quatre mois.
+— Quinze dans quatre mois.
 
 Il éclata de rire malgré lui.
 
@@ -5810,7 +5810,7 @@ En bas :
 
 Teren ne répondit pas.
 
-— C'est mieux que dix.
+— C'est mieux que huit.
 
 — Oui.
 
@@ -6722,13 +6722,13 @@ L'homme la regarda.
 
 — Tu as quel âge ?
 
-— Treize ans.
+— Quinze ans.
 
 — Vraiment ?
 
 — Bientôt.
 
-— Donc douze.
+— Donc quatorze.
 
 — C'est pas important.
 

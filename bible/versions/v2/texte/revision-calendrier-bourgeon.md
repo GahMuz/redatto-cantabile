@@ -1,5 +1,7 @@
 # Révision du calendrier et du bourgeon — D-016
 
+
+> Âges remplacés depuis par D-017 : Mara quatorze ans, Teren dix-sept ans, naissance de Teren en 53 ; voir la chronologie consolidée.
 6 octobre 2026. Mémoire de la deuxième révision autorisée dans le chat. Trois chapitres V2 au statut brouillon révisé ; III reste incomplet et finit sur « O ». La première révision D-015 est préservée au commit `f66602a` et décrite dans [sa mémoire historique](revision-coherence.md). Les sources brutes restent inchangées.
 
 ## Choix appliqués
