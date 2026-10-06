@@ -1,6 +1,6 @@
 # Point de reprise
 
-Mis à jour le 6 octobre 2026.
+Mis à jour le 7 octobre 2026.
 
 Adresse de lecture fournie par l’auteur : [Lire le roman en ligne](https://gahmuz.github.io/redatto-cantabile/) (D-019). À réutiliser pour les liens de lecture.
 
@@ -25,6 +25,8 @@ Les sources brutes V1/V2 restent inchangées. Les douze morceaux de prose avaien
 **Calendrier :** recours déposé J2, réponse J8 ; registre demandé J4, consulté J6, volumes suivants J7. Circulaire, atelier et refus municipal J9 ; consultation avec Jon après les cours J10. Inscriptions jusqu’à environ J13, couronnement annoncé J14. Merel atteste le graffiti du palais avant l’aube J0, sans savoir si un autre le précède.
 
 ## Contrôle et limites
+
+D-024 : [nouvelle lecture générale](controles/2026-10-07-lecture-synthese.md), trois lectures indépendantes intégrales I–III sur `422c139`, puis arbitrage des passages signalés par l’auteur. Problèmes RL-01–14 ouverts : cartes, réponses de Venn et contrôle des flacons, portée des conclusions de Cassian, ouverture, coïncidences, voix, intérêts et provenance de l’atelier. Aucun chapitre modifié. Le raccord des cartes avait échappé aux précédentes lectures ; leurs conclusions sont historiques et ne valident pas ces points.
 
 D-018 : [trois lectures ciblées du motif](controles/2026-10-06-motif-synthese.md), SC-045 et dépendances ; aucun problème nouveau établi. Rencontre concrète d’une autre famille, sans solution ni alliance ajoutée. État précédent préservé au commit `f1b6eca`.
 

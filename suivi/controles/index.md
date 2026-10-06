@@ -1,6 +1,6 @@
 # Contrôles
 
-Dernier contrôle : [motif collectif D-018](2026-10-06-motif-synthese.md), trois lectures indépendantes ciblées de SC-045 et dépendances. Aucun problème établi ni réparation supplémentaire demandée. Les contrôles précédents gardent leurs périmètres historiques.
+Dernier contrôle : [lecture générale du 7 octobre 2026](2026-10-07-lecture-synthese.md), trois lectures indépendantes intégrales I–III et arbitrage des retours de l’auteur. Plusieurs raccords et réserves P2 ouverts ; aucune prose modifiée. Les rapports antérieurs restent historiques.
 
 | Date | Rapport | Périmètre lu | Versions / état des sources | Points ouverts |
 | --- | --- | --- | --- | --- |
@@ -40,3 +40,10 @@ Les rapports proposent des corrections sans les appliquer au roman. Une observat
 | 2026-10-06 | [Fond](2026-10-06-motif-fond.md) | Même périmètre ciblé | Autre famille avec démarche propre |
 | 2026-10-06 | [Forme](2026-10-06-motif-forme.md) | Même périmètre ciblé | Raccord et rencontre naturels |
 | 2026-10-06 | [Synthèse](2026-10-06-motif-synthese.md) | Trois rapports arbitrés | Aucun problème nouveau établi |
+
+| Date | Lecture générale | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-07 | [Cohérence](2026-10-07-lecture-coherence.md) | I–III intégralement | Cartes, Venn, flacons, ouverture et coïncidence ; P3 locaux |
+| 2026-10-07 | [Fond](2026-10-07-lecture-fond.md) | I–III intégralement | Conclusions, compétences, intérêts, adversaires, provenance |
+| 2026-10-07 | [Forme](2026-10-07-lecture-forme.md) | I–III intégralement | Voix, leçons, image des cartes et focalisation locale |
+| 2026-10-07 | [Synthèse](2026-10-07-lecture-synthese.md) | Trois rapports arbitrés, passages relus | RL-01–14 ouverts ; aucune réécriture |
