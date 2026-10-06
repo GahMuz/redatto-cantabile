@@ -25,6 +25,8 @@ Ces chemins sont un routage explicite depuis AGENTS.md. Ne pas prétendre que le
 
 ## Principes de travail littéraire
 
+Les douze repères généraux de rédaction sont conservés dans `rules/ecriture.md` : cohérence, point de vue, temps, motivations, tension, fonction des scènes, scène et résumé, dialogues, précision et rythme, préparation des dénouements, langue et réécriture. Les appliquer avec discernement ; ils n'imposent ni structure universelle ni choix artistique et restent subordonnés aux consignes de l'auteur.
+
 Avant d'écrire ou de critiquer, lire `rules/ecriture.md` : contraintes et vérifications ordinaires avant révélations, fonction dramatique des scènes, intelligences et voix distinctes, lecture des chapitres assemblés et révision dans l'ordre des dépendances. Cette référence contient la méthode ; les compétences organisent son application et le suivi. Préserver les réactions précises de l'auteur et les réussites du texte. Les propositions de biais des personnages restent à choisir, pas à intégrer comme faits. Une demande « la suite » n'oblige pas à fabriquer une nouvelle chute.
 
 Avant de rédiger une nouvelle scène, proposer à l'auteur plusieurs directions réellement différentes avec de courts résumés, puis attendre son choix. Elles peuvent changer de personnage, de lieu, de registre ou d'enjeu ; ne pas se limiter à de petites variantes du même événement. L'auteur peut combiner les pistes ou en demander d'autres. Une direction déjà choisie n'a pas à être remise en sélection à chaque fragment ; une demande explicite de rédaction directe peut déroger à cette étape.
@@ -40,6 +42,8 @@ Chaque fait de fiche doit renvoyer à sa source : chapitre et scène, ou message
 Conserver les identifiants stables des chapitres et scènes quand leur ordre change. Les sources importées et variantes abandonnées ne sont jamais utilisées comme version active par défaut. Préserver les sources brutes ; modifier le manuscrit actif uniquement dans le périmètre demandé. Pour les réécritures majeures, préserver la version précédente dans Git si elle est déjà enregistrée, sinon dans `archives/`, avec une référence dans le journal des décisions.
 
 ## Fin de séance
+
+Après modification d'un chapitre actif, de son ordre ou de son statut dans `manuscrit/index.md`, régénérer la copie de lecture avec `python3 outils/generer_lecture.py`. `index.html` est un fichier généré ; la présentation se modifie dans `lecture/modele.html`, le texte reste dans les sources Markdown du manuscrit.
 
 Après une modification du texte, actualiser les fiches concernées, la chronologie, les fils narratifs et les index. Invalider les anciens faits dont la scène source a changé ; ne pas seulement ajouter les nouveaux. Actualiser `suivi/etat.md` avec le travail effectué, les points ouverts et les lectures nécessaires à la reprise. Distinguer clairement les fichiers modifiés et ce qui reste à vérifier.
 

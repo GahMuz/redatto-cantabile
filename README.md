@@ -31,6 +31,18 @@ Demande possible : « Importe le chat Écrire un roman fantasy intrigues. Conser
 
 La dernière proposition d'un assistant n'est pas nécessairement ta version préférée. L'import sépare donc le texte, les décisions explicites et les variantes dont le statut reste incertain. Il peut avancer sans attendre sur tout ce qui est établi.
 
+## Lire dans un navigateur
+
+Ouvrir [index.html](index.html) dans un navigateur : sommaire des chapitres actifs, navigation précédent/suivant, taille de texte réglable et mode sombre. La page est autonome, sans serveur ni connexion Internet ; sans JavaScript, tous les chapitres restent lisibles à la suite. Le statut de chaque chapitre est affiché, notamment la fin coupée du chapitre III. Les sources et archives historiques ne sont pas incluses.
+
+Après une modification du manuscrit ou de son index, régénérer la copie de lecture depuis la racine du dépôt :
+
+```sh
+python3 outils/generer_lecture.py
+```
+
+Le script lit les chapitres référencés dans `manuscrit/index.md` et utilise `lecture/modele.html` pour produire `index.html`. Modifier les chapitres Markdown pour le texte, et le modèle pour la présentation ; une modification directe de la page générée serait écrasée. Le rendu couvre les paragraphes, emphases et séparateurs actuellement utilisés dans le manuscrit. Aucune publication en ligne n'est configurée.
+
 ## Écrire et réécrire
 
 Demande possible : « Continue le chapitre suivant en respectant mes dernières décisions et mets à jour la mémoire du roman. »

@@ -22,6 +22,12 @@ Cassian reste à l'état de la fin II et des rapports indirects du début III. C
 
 ## Points ouverts et prochaine étape
 
+L'auteur demande maintenant l'envoi des ajouts D-015 et D-016 sur GitHub. Ils sont regroupés dans le jalon « Ajouter les repères de rédaction et la page de lecture ». Cette synchronisation du dépôt ne configure pas GitHub Pages ; l'affichage public de la page reste à mettre en place.
+
+Page de lecture demandée (D-016) : `index.html` présente les trois chapitres actifs et leurs statuts, avec sommaire, navigation, réglage de taille et mode sombre. Générateur `outils/generer_lecture.py`, modèle `lecture/modele.html`, documentation README et régénération routée dans AGENTS.md. Contrôles Chromium : texte conforme aux sources, navigation, fin « O » préservée, réglages, largeur mobile et accès sans JavaScript. Le contenu HTML a été testé dans le navigateur ; l'ouverture directe en `file://` est bloquée par la politique de ce navigateur de test. Aucun manuscrit modifié, aucune nouvelle critique déclenchée, aucun commit ni publication.
+
+Ajout demandé dans le présent échange (D-015) : douze repères généraux de rédaction intégrés à `rules/ecriture.md`, rappelés dans AGENTS.md. Cohérence, point de vue, temps, motivations, tension, scènes, résumé, dialogues, précision et rythme, dénouements, langue et réécriture ; conseils adaptables aux choix artistiques. Fichiers modifiés : méthode, AGENTS.md, décisions et présent suivi. Aucun manuscrit modifié ; aucune nouvelle critique déclenchée. Ces ajouts ne sont pas encore enregistrés dans un commit.
+
 Consigne de travail la plus récente (D-014) : avant toute nouvelle scène, proposer plusieurs directions vraiment différentes, avec de courts résumés, puis attendre le choix de l'auteur. Possibilité de combiner ou de demander d'autres pistes. Une direction déjà choisie peut être poursuivie ; rédaction directe possible sur demande explicite. Consigne enregistrée dans AGENTS.md, méthode et compétence, incluse dans le troisième jalon Git local demandé par l'auteur ; aucun texte narratif modifié.
 
 La demande suivante porte sur les réparations des incohérences : quatorze groupes d'alternatives et deux corrections locales proposés dans ce chat. Aucun choix reçu à ce stade, aucune solution appliquée. Le commit des consignes ne valide pas ces propositions narratives.

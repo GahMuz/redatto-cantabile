@@ -2,6 +2,25 @@
 
 Référence commune aux compétences d'écriture et de critique. À lire pour préparer, rédiger, réécrire ou évaluer une scène ; inutile pour une question administrative ou un simple import sans analyse littéraire. Les consignes ponctuelles de l'auteur priment. Cette méthode ne fixe ni le destin des personnages ni les solutions des mystères.
 
+## Repères généraux pour rédiger un roman
+
+Ces douze « règles » sont des repères de préparation et de relecture, pas des obligations absolues. Les adapter à l'effet recherché et aux choix de l'auteur ; un écart volontaire peut servir le roman. Ne pas confondre une préférence littéraire avec une incohérence certaine.
+
+1. **Garder une cohérence interne.** Les événements, les personnages et l'univers suivent la logique établie. Une contradiction apparente peut nourrir un mystère, mais sa raison doit être construite ; ne pas inventer une explication uniquement pour masquer une erreur.
+2. **Maîtriser le point de vue.** Déterminer qui raconte, qui perçoit et ce que cette perspective peut savoir. Rendre les changements de narrateur ou de perspective compréhensibles ; distinguer le savoir du personnage de celui du lecteur.
+3. **Choisir les temps du récit.** Écrire au passé, au présent ou selon un dispositif voulu, en évitant les changements involontaires. Situer clairement les retours en arrière et les changements de période.
+4. **Donner des motivations aux personnages.** Leurs décisions découlent de leurs désirs, peurs, attaches et expériences. Ils peuvent être contradictoires, se tromper ou évoluer, sans devenir de simples instruments de l'intrigue. Un désir intime peut porter le récit autant qu'un objectif concret.
+5. **Créer une tension.** Donner au lecteur quelque chose à attendre : réponse, rencontre, décision, issue d'un conflit. Construire des obstacles qui comptent pour les personnages. La tension peut être affective, sociale ou intellectuelle ; elle n'exige pas de l'action spectaculaire permanente.
+6. **Faire évoluer le récit.** Chaque scène a une fonction : développer un personnage, modifier une relation, révéler une information, installer une atmosphère ou faire avancer l'intrigue. Les choix et leurs conséquences portent la progression ; une scène contemplative n'a pas besoin d'un retournement artificiel.
+7. **Montrer les moments importants et résumer les transitions.** Développer les gestes, perceptions et échanges quand ils permettent de vivre un moment décisif. Résumer quand cela sert la clarté ou le rythme : trois jours de trajet sans incident peuvent tenir en une phrase. « Montrer plutôt qu'expliquer » n'est pas une interdiction de raconter.
+8. **Donner une intention aux dialogues.** Les personnages parlent pour obtenir quelque chose, se défendre, séduire, dissimuler ou entretenir une relation. Éviter de leur faire expliquer artificiellement ce qu'ils savent déjà ; laisser une place aux silences et aux sous-entendus.
+9. **Privilégier la précision et varier le rythme.** Choisir les mots et les détails qui produisent l'effet voulu : un geste, une odeur ou un objet peuvent rendre une scène vivante. Descriptions et adjectifs servent une perception ou une atmosphère. Alterner actions, dialogues et réflexion selon les besoins du passage, sans quota ni obligation de brièveté.
+10. **Préparer les grands dénouements.** Appuyer les révélations et les solutions sur des éléments introduits auparavant, même discrètement. Vérifier leurs conséquences et leur crédibilité à la relecture ; ne pas transformer chaque détail en promesse à résoudre.
+11. **Soigner la langue et la présentation.** Vérifier orthographe, grammaire, ponctuation et cohérence de la mise en forme des dialogues. Un écart volontaire peut caractériser une voix ; le distinguer d'une erreur involontaire.
+12. **Réécrire dans un ordre utile.** Le premier jet permet de découvrir le roman ; la réécriture le rend plus clair et plus fort. Traiter la structure, la causalité et les scènes avant le polissage des phrases, dans le périmètre demandé. Un plan préalable, une découverte par l'écriture ou une combinaison des deux sont possibles.
+
+Aucun nombre de chapitres, aucune fin heureuse, aucun héros sympathique ni structure en trois actes ne sont imposés. L'attachement à un personnage, une question intrigante ou une voix singulière peuvent chacun donner envie de poursuivre la lecture. Les repères ci-dessus complètent la méthode propre au dépôt qui suit, sans remplacer les préférences de l'auteur.
+
 ## Préparer les contraintes avant les révélations
 
 Relire les scènes sources et établir les seules contraintes utiles : moment, lieux, objets disponibles, règles du monde, informations détenues par chaque personnage et par le lecteur. Séparer le document, son authenticité, son contenu et l'interprétation qu'on en tire.
