@@ -1,0 +1,4 @@
+# Conserver les pièces originales et les copies archivées octet pour octet.
+sources/** -text
+archives/** -text
+manuscrit/versions/v1/*.txt -text
