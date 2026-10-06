@@ -7,6 +7,10 @@ description: Relire L'histoire sans début pour contrôler continuité, connaiss
 
 Lire `AGENTS.md`, l'état de reprise et les index. Déterminer le périmètre demandé et les versions actives. Utiliser `modeles/fiches.md` pour le rapport. Un contrôle n'autorise pas une réécriture du manuscrit.
 
+Pour un contrôle littéraire de scènes, lire la [méthode commune](../../rules/ecriture.md) ; pour un contrôle des seuls liens, sources ou fichiers, rester dans ce périmètre sans imposer une analyse dramatique.
+
+Pour le calendrier et les connaissances, consulter la [chronologie consolidée](../../bible/chronologie.md), puis relire ses scènes sources. Vérifier les branches parallèles, les événements après minuit, les délais de transmission et les actions seulement annoncées. La table ne résout pas les contradictions à la place du manuscrit.
+
 ## Lire les preuves
 
 Lire intégralement les chapitres contrôlés. Consulter les fiches et passages extérieurs seulement quand une observation en dépend. S'il existe plusieurs versions, vérifier leur statut avant de comparer les faits. Ne pas annoncer un contrôle complet sur la base de résumés ou de messages tronqués.

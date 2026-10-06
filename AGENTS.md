@@ -6,6 +6,8 @@ Ce dépôt accompagne un roman en cours. Répondre en français. L'auteur garde 
 
 Lire `suivi/etat.md`, `bible/style.md` et les décisions actives dans `suivi/decisions.md`. Utiliser `manuscrit/index.md` et `bible/index.md` pour trouver les seuls chapitres et fiches pertinents. Ne pas charger toute la bibliothèque à chaque demande. Relire le texte intégral des scènes dont une action, une révélation ou une formulation dépend ; un résumé sert à retrouver un passage, pas à le remplacer.
 
+Avant de préparer, écrire, réécrire ou contrôler une scène, consulter les entrées pertinentes de `bible/chronologie.md`, référence consolidée : passé, journées, événements parallèles, acquisition du savoir et échéances. Après import ou modification, actualiser les entrées affectées. Une date contradictoire reste signalée jusqu'à arbitrage ; ne pas choisir silencieusement une année ni transformer une action annoncée en événement accompli.
+
 ## Procédures du dépôt
 
 Les compétences sont conservées dans `skills/` pour être versionnées et lisibles. Elles ne nécessitent aucun service externe. Lire la procédure correspondant à la demande avant de l'exécuter :
@@ -13,8 +15,17 @@ Les compétences sont conservées dans `skills/` pour être versionnées et lisi
 - Importer une conversation, des chapitres ou des préférences : `skills/importer-roman/SKILL.md`.
 - Écrire, réécrire ou actualiser la mémoire après une modification : `skills/ecrire-roman/SKILL.md`.
 - Relire, contrôler la cohérence ou rechercher les conséquences d'une réécriture : `skills/controler-roman/SKILL.md`.
+- Organiser la critique de cohérence, du fond et de la forme : `skills/critiquer-roman/SKILL.md`.
+
+## Contrôle critique automatique
+
+L'auteur a demandé plusieurs agents critiques le 6 octobre 2026. Après un nouvel import de prose ou une modification substantielle du manuscrit, appliquer `skills/critiquer-roman/SKILL.md` dans la séance : trois lectures indépendantes si la délégation est disponible, puis une synthèse arbitrée. Contrôle ciblé des modifications et de leurs dépendances ; audit intégral sur demande, chapitre achevé ou changement de structure. Ne pas déclencher pour les seules fiches, rapports ou corrections typographiques. Ne pas réécrire le roman à partir des rapports sans demande de l'auteur. Ce routage ne constitue pas une surveillance en arrière-plan.
 
 Ces chemins sont un routage explicite depuis AGENTS.md. Ne pas prétendre que les skills sont inscrits dans le sélecteur de l'application : la découverte native de skills locaux utilise `.agents/skills`.
+
+## Principes de travail littéraire
+
+Avant d'écrire ou de critiquer, lire `rules/ecriture.md` : contraintes et vérifications ordinaires avant révélations, fonction dramatique des scènes, intelligences et voix distinctes, lecture des chapitres assemblés et révision dans l'ordre des dépendances. Cette référence contient la méthode ; les compétences organisent son application et le suivi. Préserver les réactions précises de l'auteur et les réussites du texte. Les propositions de biais des personnages restent à choisir, pas à intégrer comme faits. Une demande « la suite » n'oblige pas à fabriquer une nouvelle chute.
 
 ## Autorité et incertitudes
 

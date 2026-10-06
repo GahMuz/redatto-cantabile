@@ -46,6 +46,8 @@ Garçon non nommé, environ dix ans, maigre et cheveux noirs : fournit adresse d
 
 ## Chronologie supplémentaire
 
+Calendrier consolidé dans la [chronologie de référence](../../../chronologie.md), qui précise notamment le passage du jour civil J0 à J1 après minuit. Les lignes ci-dessous conservent la couverture de ce supplément.
+
 - J0 : visite de Madame Ervan puis dossiers médicaux et Venn ; quatre heures de collecte, trente-deux dossiers à la tombée du jour ; tri jusqu'à minuit, sortie vers une heure (021–025). Ordre montré, horaires exacts antérieurs non fixés.
 - Registres examinés : équitation le 9, somnifère le 11, hausse de dose le 12, fournisseur le 13, cuisinier le 14, alimentation le 15 ; premières consultations d'Oren les 18, 21 et 24 du mois précédent (024). Mois courant et année non donnés.
 - J1 : matin familial et paiement des droits annoncé comme ayant eu lieu hier ; visite de Darien ; scènes Varos ; soir d'exercices, lettre et dossier familial (026–032). Jon prévoit le Bureau des Admissions demain ; Varos prévoit rue des Cendres demain. Rendez-vous non encore réalisés.

@@ -8,6 +8,7 @@ Un atelier d'écriture pour conserver le texte du roman, les choix de l'auteur e
 | --- | --- |
 | `manuscrit/` | Chapitres dans leur version de travail actuelle et index des scènes |
 | `bible/` | Personnages, lieux, règles du monde, chronologie et fils narratifs |
+| `bible/chronologie.md` | Calendrier consolidé : événements, journées parallèles, révélations, échéances et dates à arbitrer |
 | `bible/style.md` | Références appréciées, effets recherchés et choses à éviter |
 | `suivi/decisions.md` | Choix de l'auteur, changements et conséquences |
 | `suivi/etat.md` | Point de reprise d'une séance à l'autre |
@@ -15,6 +16,7 @@ Un atelier d'écriture pour conserver le texte du roman, les choix de l'auteur e
 | `sources/` | Échanges et textes importés, conservés comme pièces originales |
 | `modeles/fiches.md` | Formats pour créer une fiche quand elle devient utile |
 | `skills/` | Procédures d'import, d'écriture et de contrôle |
+| `rules/ecriture.md` | Méthode commune de préparation des scènes et de révision |
 | `AGENTS.md` | Consignes de travail et chargement des procédures |
 
 Les dossiers se remplissent à partir du contenu réel. La [V1 fournie](manuscrit/versions/v1/index.md) et sa [bible historique](bible/versions/v1/index.md) sont maintenant importées, séparément de la rédaction V2 et de ses intentions de conception. Aucun fait n'a été inventé pour compléter les inconnues.
@@ -40,6 +42,8 @@ Avant d'écrire, l'agent relit les passages nécessaires et les fiches concerné
 Demande possible : « Contrôle les chapitres 1 à 3 : continuité des personnages, chronologie, indices et respect de mes préférences. Produis un rapport sans réécrire. »
 
 Une contradiction doit montrer les deux passages en cause. Une préférence littéraire doit être distinguée d'une incohérence factuelle. Une ambiguïté voulue ou un mystère ouvert n'est pas une erreur. Le contrôle indique précisément ce qu'il a lu et ce qu'il n'a pas vérifié.
+
+La [procédure de critique](skills/critiquer-roman/SKILL.md) organise trois lecteurs indépendants : cohérence et vraisemblance, fond et profondeur, forme et rythme. Elle est déclenchée dans la séance après un nouvel import de prose ou une modification substantielle, puis les constats sont arbitrés dans une synthèse. Les critiques proposent des réparations ; elles ne réécrivent pas le roman automatiquement. Ce fonctionnement ne surveille pas les fichiers en arrière-plan.
 
 ## Versions et utilisation
 

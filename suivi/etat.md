@@ -26,8 +26,20 @@ Importer la suite après « O » et les retours de l'auteur ; ne pas produire au
 
 Dates historiques contradictoires (53 + 17 contre 59 + 7, naissance de Teren en 62), durée jusqu'à majorité et emploi de « hier » à revoir. Notes antérieures sur les graffitis toujours ouvertes. Aucune correction de prose effectuée.
 
-Corrections explicites actives : implication crédible des enfants, rejet des prophéties. Plan secret non individuellement approuvé ; Alessa n'apparaît pas encore. Premier jalon Git local : atelier et imports V1/V2 au 6 octobre 2026, chapitre III encore incomplet. Aucun audit exhaustif ni synchronisation ChatGPT effectué.
+Corrections explicites actives : implication crédible des enfants, rejet des prophéties. Plan secret non individuellement approuvé ; Alessa n'apparaît pas encore. Premier jalon Git local : `3d669f5`, atelier et imports V1/V2 au 6 octobre 2026, chapitre III encore incomplet. Trois lectures critiques intégrales I–III désormais effectuées ; aucune synchronisation ChatGPT.
+
+## Dernière demande et contrôle critique
+
+L'auteur a demandé un contrôle du dossier et plusieurs agents critiques automatiques, en donnant l'exemple de la famille et du corps d'Oren. [Synthèse](controles/2026-10-06-synthese-critique.md), rapports indépendants et observations RC-01 à RC-10 ouverts. Priorités : identifications ordinaires et trajet du corps ; validité du procès et motif du silence d'Oren ; calendrier ; résistance à Mara ; différenciation des voix et conséquences des découvertes. La notoriété ne prouve pas que la sœur soit connue de tous, mais les neuf témoins et l'examen d'Helven rendent sa prétendue unicité injustifiée.
+
+Sources, doublons et assemblages vérifiés conformes ; navigation mise à jour et index personnages/lieux renseignés. Pas de prose réécrite. Ces changements font partie du deuxième jalon Git local demandé par l'auteur, avec les règles d'écriture, les rapports critiques et la chronologie. La prochaine étape peut être une révision ciblée si l'auteur la demande ; poursuivre l'import reste possible.
+
+Procédure `skills/critiquer-roman/SKILL.md` installée et routée : contrôle après ajout de prose ou modification substantielle dans une séance, trois lecteurs si disponibles, puis arbitrage. Aucun service de surveillance ni calendrier. Les rapports seuls ne déclenchent pas de relance et n'autorisent aucune réécriture automatique.
+
+Méthode de préparation et révision désormais conservée dans `rules/ecriture.md`, appelée par AGENTS.md et les compétences concernées : contraintes, vérifications évidentes, fonction de scène, voix distinctes, lecture continue et ordre des réparations. Les biais de personnages suggérés restent des propositions. Mise à jour des instructions uniquement, sans nouvelle critique déclenchée ni modification du manuscrit ; incluse dans le deuxième jalon Git local.
 
 ## Lectures pour reprendre
 
-[Manuscrit et scènes](../manuscrit/versions/v2/index.md), [dernière mémoire du chapitre III](../bible/versions/v2/texte/suite-chapitre-03-decret.md), [rapport ciblé](controles/2026-10-06-import-v2.md), décisions et style. Relire les scènes intégrales avant de poursuivre ou de trancher un fait ; ne pas utiliser le plan secret comme savoir des personnages.
+Une [chronologie consolidée](../bible/chronologie.md) rassemble le passé historique, les journées J0–J4, les branches parallèles, les révélations et les échéances. Trente-cinq repères T-V2 et huit arbitrages A-T suivis. Année présente, date de mort d'Aldren et déictiques contradictoires laissés ouverts ; passage après minuit distingué du jour de la pendaison. Consultation routée depuis AGENTS.md, méthode et compétences. Incluse dans le deuxième jalon Git local demandé par l'auteur ; aucune prose modifiée ni publication en ligne.
+
+[Manuscrit et scènes](../manuscrit/versions/v2/index.md), [chronologie de référence](../bible/chronologie.md), [dernière mémoire du chapitre III](../bible/versions/v2/texte/suite-chapitre-03-decret.md), [synthèse critique](controles/2026-10-06-synthese-critique.md), décisions et style. Relire les scènes intégrales avant de poursuivre ou de trancher un fait ; ne pas utiliser le plan secret comme savoir des personnages.

@@ -1,5 +1,7 @@
 # Chronologie et fils du texte V2
 
+> Calendrier désormais consolidé dans [bible/chronologie.md](../../../chronologie.md). La table ci-dessous garde la couverture des premières scènes ; consulter la référence consolidée pour les journées, révélations, échéances et arbitrages actuels. Les fils restent suivis ici et dans les suppléments.
+
 > Couverture antérieure : lire aussi la [mise à jour des scènes 033–045](suite-chapitre-03-decret.md). Les états ci-dessous sont ceux de leurs scènes sources, pas tous ceux de la fin actuelle : inéligibilité confirmée, recours rejeté, atelier visité et connaissances élargies.
 
 Sources : [SC-V2-001 à 020](../../../../manuscrit/versions/v2/index.md). J0 désigne le jour de l'exécution. Les incompatibilités ne sont pas résolues en inventant des dates.

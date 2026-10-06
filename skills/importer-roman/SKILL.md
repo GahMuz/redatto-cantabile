@@ -24,3 +24,7 @@ Préserver le texte lors de l'extraction, à l'exception des enveloppes de prés
 Extraire d'abord les préférences explicites dans `bible/style.md` et les décisions dans `suivi/decisions.md`. À partir du manuscrit actif, créer les fiches utiles, la chronologie et les fils narratifs, puis leurs index. Chaque affirmation porte une source précise ; séparer fait, croyance, hypothèse et proposition. Ne pas inventer de résolution aux mystères.
 
 Mettre à jour `suivi/etat.md`. Indiquer les sources couvertes, les chapitres extraits, les choix incertains et les informations manquantes. Un import partiel reste explicitement partiel. Poser seulement les questions de version que les échanges ne permettent pas de résoudre, en continuant les extractions indépendantes.
+
+Après un nouvel import de prose, appliquer `skills/critiquer-roman/SKILL.md` sur les passages ajoutés et leurs dépendances. Conserver les sources brutes et le texte assemblé ; les remarques critiques n'autorisent pas leur correction.
+
+Consolider les nouveaux repères dans [bible/chronologie.md](../../bible/chronologie.md) : événements, moments de révélation, échéances et contradictions. Conserver les identifiants existants et les anciens suppléments comme couvertures historiques ; ne pas choisir de dates pour faire disparaître une incompatibilité.

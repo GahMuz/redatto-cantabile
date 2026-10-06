@@ -40,6 +40,8 @@ Joss ami de Teren et le Joss présenté à l'école comme frère cadet de cet am
 
 ## Chronologie relative de la suite
 
+Pour le calendrier global, les révélations et les échéances, utiliser la [chronologie de référence](../../../chronologie.md). Cette section conserve la couverture de la suite III.
+
 - J0 : pendaison ; J1 : ouverture de III, enquête initiale et coffre familial.
 - Fin J1 : Teren rentre vers 23 h 30 après les Admissions ; inéligibilité confirmée (033).
 - J2 : bibliothèque et archives de district, Darien à la place puis soupe ; rapport à Varos. Registres centraux : arrivée à 17 h 57, lecture puis extension de recherche jusqu'à environ 20 h (034–038).

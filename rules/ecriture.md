@@ -1,0 +1,52 @@
+# Méthode d'écriture et de révision du roman
+
+Référence commune aux compétences d'écriture et de critique. À lire pour préparer, rédiger, réécrire ou évaluer une scène ; inutile pour une question administrative ou un simple import sans analyse littéraire. Les consignes ponctuelles de l'auteur priment. Cette méthode ne fixe ni le destin des personnages ni les solutions des mystères.
+
+## Préparer les contraintes avant les révélations
+
+Relire les scènes sources et établir les seules contraintes utiles : moment, lieux, objets disponibles, règles du monde, informations détenues par chaque personnage et par le lecteur. Séparer le document, son authenticité, son contenu et l'interprétation qu'on en tire.
+
+Consulter la [chronologie de référence](../bible/chronologie.md) pour ces scènes : dates, branches parallèles, transmissions et délais. Distinguer le moment d'un événement de sa révélation ; ne pas mélanger le jour de la mort du roi avec celui de la pendaison ni dater une intention comme une action réalisée. Après modification, actualiser les repères concernés et vérifier leurs dépendances.
+
+Dans une enquête, chercher les vérifications ordinaires avant de multiplier les hypothèses : témoins accessibles, proches, registres, confrontation, provenance et trajet d'un objet ou d'un corps. Si ces démarches menacent le mystère, construire une résistance crédible, avec un intérêt et des conséquences, ou revoir le mystère. Ne pas rendre tous les personnages négligents pour protéger une révélation. Une célébrité publique n'implique pas une connaissance universelle de la biographie, mais les témoins directs ne disparaissent pas pour autant.
+
+Ne pas inventer rétroactivement une institution, un empêchement ou une connaissance comme si le manuscrit les avait déjà établis. Une nouvelle solution doit être préparée dans le texte concerné, avec ses dépendances, et rester une proposition tant qu'elle n'est pas retenue.
+
+## Donner une fonction dramatique à la scène
+
+Avant rédaction, formuler brièvement pour le travail interne : qui veut quoi maintenant, ce qui lui résiste, le choix ou changement auquel la scène conduit, et ses conséquences. Une découverte documentaire devient dramatique lorsqu'elle modifie aussi une possibilité d'action, une relation, un avantage, une exposition ou un délai.
+
+Ne pas transformer cette préparation en gabarit visible dans la prose. Une scène de repos, de deuil, de quotidien ou de contemplation peut avoir une fonction sensible ou relationnelle sans produire un retournement. Ne pas forcer une perte spectaculaire à chaque scène ; surveiller plutôt les succès sans coût et les refus qui deviennent systématiquement des aides.
+
+## Différencier l'intelligence et la voix
+
+Pour les protagonistes concernés, s'appuyer sur leurs désirs, compétences, attaches, biais et limites déjà montrés. Leur façon d'évaluer les preuves et de gagner ou perdre une conversation doit leur appartenir. Un personnage brillant peut mal lire une situation ; un interlocuteur peut avoir raison sans être meilleur raisonneur.
+
+Les biais proposés pour Cassian, Mara et Varos dans la discussion restent des pistes à choisir, pas des faits canoniques. Ne pas attribuer à tous la même prudence logique, ni utiliser toujours le même personnage comme naïf destiné à faire briller son partenaire. Donner aux désaccords des conséquences qui ne se résolvent pas toutes par un bon mot.
+
+Préserver l'humour et les phrases marquantes appréciés par l'auteur. Vérifier leur fréquence, leur coût et leur appartenance à une voix ; ni quota de traits d'esprit ni interdiction des phrases courtes.
+
+## Rédiger et relire une unité continue
+
+Une demande « la suite » reprend une action ou une scène dans sa continuité ; elle n'impose pas une révélation ni une chute à chaque réponse. Respecter la longueur et le point d'arrêt demandés par l'auteur. Préparer la scène entière lorsque cela aide, sans dépasser pour autant le périmètre autorisé.
+
+Après des ajouts successifs, relire la scène puis le chapitre assemblé : raccords, journées, répétitions de questions, lieux consultés, démonstrations et effets de suspense. Évaluer le rythme du texte continu, pas seulement l'efficacité de chaque fragment de chat. Distinguer une fin réellement tronquée d'une suspension artistique.
+
+Laisser aux révélations une conséquence sensible ou affective lorsque la situation l'appelle. Une information nouvelle ne répare pas automatiquement une blessure ou une relation. Faire sentir les bénéfices et les coûts du système politique par des intérêts et des situations, pas seulement par des explications.
+
+## Réviser dans l'ordre des dépendances
+
+1. Causalité, motivations, informations détenues, règles institutionnelles, calendrier et objets.
+2. Fonction et progression des scènes : conflits, conséquences, étapes redondantes, rapports de pouvoir.
+3. Différenciation des voix, exposition, rythme et texture sensible.
+4. Formulations locales et correction de langue.
+
+Adapter cet ordre à la demande : une correction ciblée de phrase n'autorise pas à restructurer le chapitre. Pour une révision substantielle, éviter de polir longuement un passage dont la fonction reste à décider. Préserver les réussites identifiées dans les rapports, sans les rendre intouchables.
+
+## Conserver les réactions et arbitrer la critique
+
+Noter les réactions précises de l'auteur, les passages qu'il veut préserver et ce qu'il veut changer, avec leurs sources et leur portée. Ne pas convertir un avis d'un critique en préférence de l'auteur. Mettre à jour les fiches à partir du texte réellement modifié.
+
+Les critiques indépendantes cherchent des objections utiles ; leur accord ne constitue pas une preuve et leurs suggestions peuvent se contredire. Arbitrer à partir du texte, des objectifs de l'auteur et de l'effet recherché. Distinguer contradiction certaine, faiblesse de vraisemblance et préférence littéraire. Ne pas appliquer toutes les recommandations ni engager une réécriture automatiquement à la réception d'un rapport.
+
+Pour l'exécution et le suivi, utiliser les procédures [écrire](../skills/ecrire-roman/SKILL.md), [contrôler](../skills/controler-roman/SKILL.md) et [critiquer](../skills/critiquer-roman/SKILL.md). Cette référence commune évite de recopier la méthode dans chacune.

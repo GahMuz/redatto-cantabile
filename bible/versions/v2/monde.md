@@ -1,6 +1,6 @@
 # Monde et symbole — conception V2
 
-Pour les faits des deux chapitres reçus, lire [lieux, institutions et objets](texte/lieux-monde.md). Ce document conserve le plan proposé.
+Pour les faits des trois chapitres reçus (III incomplet), lire le [dernier état écrit](texte/suite-chapitre-03-decret.md) et les [lieux, institutions et objets des premières scènes](texte/lieux-monde.md). Ce document conserve le plan proposé.
 
 ## Concorde proposée
 

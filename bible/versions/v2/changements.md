@@ -28,4 +28,4 @@ SRC-V2-04, E-003 nomme Cassian, Eléane, Varos et Oren comme contributeurs indir
 - **Oren :** relation entre archiviste, condamné, corps disparu et homme du final non résolue. Le final proposé ne fournit pas une identité vraie (§3, §5, §9).
 - **Validation :** aucune réaction de l'auteur sur le plan secret livré après « ok go » ; ne pas le figer comme bible définitivement adoptée.
 
-Ces observations portent sur la conception. Deux chapitres ont depuis été reçus : [mémoire du texte](texte/personnages.md) et [notes d'import](../../../suivi/controles/2026-10-06-import-v2.md) distinctes.
+Ces observations portent sur la conception. Trois chapitres ont depuis été reçus, le III incomplet : [dernier état du texte](texte/suite-chapitre-03-decret.md) et [notes d'import](../../../suivi/controles/2026-10-06-import-v2.md) distinctes.

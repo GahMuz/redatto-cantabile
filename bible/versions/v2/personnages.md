@@ -1,6 +1,6 @@
 # Personnages et informations — conception V2
 
-Statut commun : portraits proposés par l'assistant, essentiellement dans SRC-V2-03, section 3. Deux chapitres sont désormais reçus : le [registre des personnages écrits](texte/personnages.md) suit leur réalisation séparément des portraits envisagés. Identifiants propres à V2 ; rapprochements de noms avec V1 possibles, faits non hérités automatiquement.
+Statut commun : portraits proposés par l'assistant, essentiellement dans SRC-V2-03, section 3. Trois chapitres sont désormais reçus, le III incomplet : le [dernier état écrit](texte/suite-chapitre-03-decret.md) et le [registre des premières scènes](texte/personnages.md) suivent leur réalisation séparément des portraits envisagés. Identifiants propres à V2 ; rapprochements de noms avec V1 possibles, faits non hérités automatiquement.
 
 | Identifiant | Personnage envisagé | Désir, moyens et limite | Information proposée / inconnue |
 | --- | --- | --- | --- |
