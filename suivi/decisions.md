@@ -53,3 +53,6 @@ D-017 — 6 octobre 2026, demande explicite de l'auteur : « mara et teren un pe
 
 
 D-018 — 6 octobre 2026 : l’auteur sélectionne explicitement 14A, « Le motif de Valdorne est largement partagé », plaque relevant d'une histoire collective et rencontre d'autres familles. 14B (supprimer la correspondance) n'est plus une alternative en attente ; le métier de Jon demeure établi sans constituer le choix principal. Révision ciblée de SC-045 : à J10, Mara et Jon croisent une femme et son fils venus chercher un extrait pour leur propre démarche ; plaque au même motif observée, héritée de sa mère originaire de Valdorne selon son témoignage. Famille non nommée, pas d'alliés recrutés ni de nouveau lien avec Oren. Sens précis du signe et objet de leur dossier inconnus. Sources brutes et fin « O » conservées ; état précédent préservé au commit f1b6eca.
+
+
+D-019 — 6 octobre 2026 : l’auteur demande de retenir l’adresse permettant de lire le roman : [https://gahmuz.github.io/redatto-cantabile/](https://gahmuz.github.io/redatto-cantabile/). Adresse conservée dans README.md et suivi/etat.md pour les prochaines séances et les liens de lecture. Aucune modification du manuscrit ni publication déclenchée par cette demande.

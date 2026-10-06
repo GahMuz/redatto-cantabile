@@ -2,6 +2,8 @@
 
 Mis à jour le 6 octobre 2026.
 
+Adresse de lecture fournie par l’auteur : [Lire le roman en ligne](https://gahmuz.github.io/redatto-cantabile/) (D-019). À réutiliser pour les liens de lecture.
+
 ## État actif
 
 Trois chapitres V2 au statut **brouillon révisé**, suite aux choix acceptés par l'auteur dans le présent chat (« ok », puis « vas y » ; D-015), puis aux précisions D-016 et au vieillissement de deux ans D-017. I et II clos ; III toujours incomplet, fin conservée sur **« O »**, après « Une fois. Deux fois. ». Aucune continuation reconstituée.
