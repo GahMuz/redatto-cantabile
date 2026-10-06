@@ -230,7 +230,7 @@ Elle lut :
 
 **CONCOURS D'ADMISSION AU SERVICE DE LA CONCORDE**
 
-**Inscriptions ouvertes jusqu'au 18.**
+**Inscriptions ouvertes pendant encore douze jours.**
 
 Elle regarda Teren.
 
@@ -2574,7 +2574,9 @@ Elle ne dormit pas.
 
 ***
 
-Le lendemain matin, Mara alla lire le décret.
+Le lendemain matin, Jon partit déposer le recours. Il emporta les actes de famille et la lettre des Admissions ; il revint avec un reçu, aucune réponse et des commandes à finir avant le soir.
+
+Mara alla à l'école. Pendant la copie, elle écrivit « 14-7 » dans la marge de son cahier, puis effaça les chiffres avant que Delan passe entre les tables. À la sortie des cours, elle prit le chemin de la bibliothèque.
 
 Pas parce qu'elle voulait défier son père.
 
@@ -2742,7 +2744,17 @@ Et beaucoup plus poussiéreuses.
 
 Mara présenta le papier.
 
-L'archiviste lui apporta un volume énorme.
+L'archiviste consulta un inventaire, puis lui donna un ticket.
+
+— Le volume est au dépôt. Revenez demain, après quinze heures.
+
+— Je peux attendre.
+
+— Ici, oui. Mais il ne sera pas là plus tôt.
+
+Elle rentra composer les convocations que Jon avait promises. Le lendemain, elle dut finir ses cours avant de revenir aux Archives avec son ticket.
+
+Cette fois, l'archiviste lui apporta un volume énorme.
 
 **MESURES TRANSITOIRES — ANNÉE 28**
 
@@ -2880,7 +2892,7 @@ Quelqu'un avait pensé très loin.
 
 ***
 
-Elle sortit des Archives vers midi.
+Elle sortit des Archives vers seize heures.
 
 La rue était bondée.
 
@@ -4020,49 +4032,33 @@ Elle ne répondit pas immédiatement.
 
 — Avant quoi ?
 
-— La chute.
+— Qu'ils l'amènent sur la place. On attendait devant l'échafaud.
 
-Darien resta parfaitement immobile.
+Darien resta immobile.
 
-Mara continua :
+— Tu regardais l'Arbre ?
 
-— Oren regardait la branche.
+— Il y avait que ça à regarder. Les gens devant bougeaient pas, Teren voulait rentrer. J'ai vu du vert au bout d'une branche.
 
-— Il l'a vu ?
+— Tu l'as montré à ton frère ?
 
-— Je crois.
+— J'ai essayé. Il trouvait pas où. Après, quelqu'un a crié que les gardes arrivaient.
 
-— Tu crois ou tu sais ?
+Darien approcha sa main de sa sacoche.
 
-Elle détestait toujours cette question.
+— Combien de temps avant la chute ?
 
-— Il regardait dans cette direction.
+— Je sais pas. Ils ont lu la sentence après. Et Oren a parlé de la soupe.
 
-— Combien de temps avant ?
+— Donc tu n'as pas remarqué le bourgeon en suivant son regard ?
 
-— Quelques secondes.
+— Non. Mais lui, il a regardé la branche quand le bourreau s'est approché.
 
-— Une minute ?
+— La même ?
 
-— Je sais pas.
+— Je crois. Je peux pas regarder avec ses yeux.
 
-— Avant que le prêtre lui demande ses dernières paroles ?
-
-Mara essaya de remettre les choses dans l'ordre. Elle revoyait Oren lever les yeux, puis le bourreau serrer la corde. Le vert venait avec ces images, mais elle ne savait plus à laquelle il appartenait.
-
-— Il avait déjà regardé la branche. Le bourgeon, je l'ai peut-être remarqué après sa plaisanterie.
-
-Darien approcha sa main de sa sacoche, puis la retira.
-
-— Tu l'as montré à Teren ?
-
-— J'ai essayé. Il l'a pas vu. Et puis la trappe s'est ouverte.
-
-— Ça, tu t'en souviens ?
-
-— Oui. J'avais encore sa manche dans la main.
-
-Darien regarda la table. Quelques secondes avant la chute, peut-être davantage ; il aurait voulu un ordre plus net. Il ne l'obtiendrait pas d'elle.
+Darien laissa sa sacoche fermée. L'arrivée des gardes lui donnait un repère ; elle ne lui donnait ni une durée exacte ni ce que le condamné avait vu.
 
 Il sortit une pièce.
 
@@ -4132,7 +4128,7 @@ Il sortit un morceau de papier.
 
 Écrivit :
 
-**Bourgeon visible avant exécution.**
+**Bourgeon visible avant l'arrivée du prisonnier.**
 
 Puis :
 
@@ -4158,7 +4154,7 @@ Il prit un deuxième papier.
 
 Écrivit simplement :
 
-**Bourgeon observé avant la chute selon un témoin. Moment par rapport aux dernières paroles incertain. Source unique. À confirmer.**
+**Bourgeon observé pendant l'attente, avant l'arrivée du prisonnier, selon un témoin. Durée inconnue. Regard d'Oren vers la branche rapporté séparément. Source unique. À confirmer.**
 
 La patronne sourit.
 
@@ -4178,15 +4174,15 @@ Deux fois.
 
 Puis il la posa.
 
-— Avant les dernières paroles ?
+— Avant l'arrivée du prisonnier ?
 
-— Elle ne sait plus. Elle se souvient d'avoir tiré la manche de son frère avant la chute.
+— Elle le situe pendant l'attente. Son frère n'a pas distingué ce qu'elle lui montrait.
 
 Varos souligna les deux dernières phrases de la note.
 
 Darien s'assit.
 
-— Mais Oren aurait regardé le bourgeon.
+— Mais Oren aurait ensuite regardé cette branche.
 
 — D'après elle.
 
@@ -4328,9 +4324,9 @@ Varos prit son manteau.
 
 ***
 
-Le Bureau central des Registres fermait à dix-huit heures.
+Le lendemain, Varos dut faire viser son autorisation avant de se rendre au Bureau central des Registres. Le guichet fermait à dix-huit heures.
 
-Varos arriva à dix-sept heures cinquante-sept.
+Il arriva à dix-sept heures cinquante-sept.
 
 L'employé au guichet le détesta immédiatement.
 
@@ -4396,11 +4392,13 @@ Puis les noms.
 
 ***
 
-Cela prit quarante minutes.
+Cela prit deux jours.
 
-Pas des jours.
+Varos revint une première fois trop tôt. Le registre n'avait pas été localisé ; la fonctionnaire lui rendit sa demande avec la même référence, sans le faire entrer.
 
-La femme revint avec un registre.
+Pendant ces deux jours, Darien se renseigna sur les coursiers des affiches. Mara retourna en classe et composa chaque soir les feuillets que Jon laissait sur sa table. Lorsqu'elle demandait des nouvelles du recours, il lui montrait le reçu, toujours seul.
+
+Le surlendemain de la demande de Varos, la fonctionnaire les fit enfin asseoir, Darien et lui, devant un registre.
 
 — J'ai quelque chose.
 
@@ -4624,29 +4622,27 @@ Trois.
 
 La fonctionnaire soupira.
 
-— Ce soir ?
+— Il faut demander deux autres volumes au dépôt.
 
-— Oui.
+— Pour ce soir ?
 
-— Nous fermons depuis quarante-sept minutes.
+— Le transport est parti.
 
 Varos sortit une pièce d'or.
 
-— Demain matin serait parfaitement acceptable.
+Elle ne la prit pas.
 
-Elle regarda la pièce.
+— Il est parti, Monsieur Varos.
 
-— Je vais voir ce que je peux faire ce soir.
+Darien regarda l'horloge, puis les numéros qu'ils avaient relevés.
 
-Darien la suivit des yeux.
+— Gardez-nous une place demain. Nous viendrons dès l'ouverture.
 
-— Vous auriez pu commencer par ça.
-
-— J'aurais payé plus cher.
+Elle inscrivit leurs noms dans son registre de rendez-vous. Varos rangea sa pièce.
 
 ***
 
-Ils attendirent vingt minutes.
+Le lendemain matin, ils attendirent encore vingt minutes.
 
 La femme revint avec deux volumes.
 
@@ -4866,7 +4862,7 @@ Darien sourit.
 
 Ils quittèrent les Archives.
 
-Il était presque vingt heures.
+Il était presque seize heures. Ils avaient passé la journée sur les volumes.
 
 Darien demanda :
 
@@ -4878,7 +4874,7 @@ Darien demanda :
 
 — Nous avons découvert que dix-sept ans auparavant, Oren travaillait sur cent huit dossiers classifiés.
 
-— Et qu'il a été pendu avant-hier pour avoir tué le roi.
+— Et qu'il a été pendu il y a une semaine pour avoir tué le roi.
 
 — Deux faits.
 
@@ -4926,11 +4922,11 @@ Varos regarda la liste dans sa main.
 
 — Oui.
 
-Darien reprit sa marche. Il n'avait pas fallu de pièce d'or pour que la Sûreté soit avertie ; Varos allait payer cette fois avec son nom.
+Darien reprit sa marche. La pièce d'or n'avait rien accéléré ; pour obtenir les décisions, Varos allait maintenant devoir donner son nom à la Sûreté.
 
 ***
 
-Le lendemain matin, Teren ne descendit pas déjeuner.
+Le lendemain matin, une semaine après la visite de Darien à l'imprimerie, Teren ne descendit pas déjeuner.
 
 Mara mangea seule avec son père.
 
@@ -4938,7 +4934,7 @@ Personne ne parla.
 
 À la fin, elle demanda :
 
-— Tu vas faire le recours ?
+— Tu vas chercher la réponse du recours ?
 
 — Oui.
 
@@ -4954,9 +4950,9 @@ Personne ne parla.
 
 — Parce que tu vas à l'école.
 
-Mara avait oublié.
+Mara aurait voulu manquer les cours pour l'accompagner.
 
-Cela lui sembla profondément injuste.
+Elle avait déjà passé plusieurs journées à attendre cette réponse tout en recopiant des leçons qui ne parlaient jamais de leur situation.
 
 — Teren y va ?
 
@@ -5000,7 +4996,11 @@ Elle préférait la troisième.
 
 ***
 
-À midi, la cour de l'école ne parlait que d'Oren.
+À midi, la cour de l'école parlait encore d'Oren.
+
+Depuis une semaine, les récits avaient changé. On ne discutait plus seulement des fleurs : on répétait les noms des hommes du tribunal, on réclamait une nouvelle enquête, on disait que le couronnement serait empêché. Les murs blanchis la veille portaient déjà d'autres mots. Dans l'atelier de Jon, les clients avaient commencé à demander qui avait commandé les affiches.
+
+Les enfants ramenaient tout cela dans la cour.
 
 — Mon père dit qu'il est revenu d'entre les morts.
 
@@ -5220,7 +5220,7 @@ Elle regretta immédiatement.
 
 Elle regarda le tableau.
 
-— J'ai vu un bourgeon avant qu'ils le pendent.
+— J'ai vu un bourgeon pendant qu'on attendait. Avant qu'ils amènent Oren.
 
 Silence.
 
@@ -5360,7 +5360,7 @@ Il ferma les yeux.
 
 — Qui ?
 
-— L'homme venu à la boutique. Je l'ai revu hier.
+— L'homme venu à la boutique. Je l'ai revu il y a cinq jours.
 
 — Darien ?
 
@@ -5408,19 +5408,19 @@ Après quelques mètres :
 
 Mara s'arrêta.
 
-— Déjà ?
+— Tu l'as reçue ?
 
-— Oui.
+— Ce matin. Ils m'avaient dit de repasser.
 
-— Pourquoi ?
+— Pourquoi ils refusent ?
 
 — Classification confirmée.
 
-— Ils ont vérifié en une matinée ?
+— Ils ont mis six jours à écrire ça ?
 
 Son père eut un rire amer.
 
-— Apparemment, l'administration peut être très rapide lorsqu'elle sait déjà ce qu'elle veut répondre.
+— Et la personne qui m'a remis le papier ne savait pas m'expliquer davantage que celle qui avait pris la demande.
 
 Mara pensa à Oren.
 
@@ -6130,13 +6130,13 @@ En caractères minuscules :
 
 Elle sourit.
 
-Si Darien avait envoyé cette lettre, il venait de lui donner une référence vers ce qu'il lui avait refusé deux jours auparavant.
+Si Darien avait envoyé cette lettre, il venait de lui donner une référence vers ce qu'il lui avait refusé six jours auparavant.
 
 Une porte vers le décret.
 
 ***
 
-Une heure plus tard, elle était à la bibliothèque.
+À l'école, Mara garda le formulaire plié dans son cahier. Elle dut attendre la fin des cours avant de retourner à la bibliothèque.
 
 Maîtresse Correl leva les yeux.
 
@@ -6144,13 +6144,13 @@ Maîtresse Correl leva les yeux.
 
 — Bonjour.
 
-— Tu n'es pas à l'école ?
+— Tes cours sont finis ?
 
-Mara réfléchit.
+Mara posa son cartable près de ses pieds.
 
-— Non.
+— Oui.
 
-— C'est étonnamment honnête.
+Correl regarda le formulaire dépassant du cahier.
 
 — J'ai besoin d'une circulaire.
 
@@ -6396,7 +6396,7 @@ Varos replia la lettre. Son sourire avait disparu.
 
 Darien posa une autre enveloppe sur la table.
 
-— J'ai le rapport sur l'atelier des Cendres.
+— J'ai le rapport sur l'atelier des Cendres. La veuve a enfin donné son accord pour l'inventaire ; jusque-là, le voisin refusait de nous ouvrir.
 
 Varos l'ouvrit.
 
@@ -6674,7 +6674,7 @@ Varos conserva les deux avis avec le reçu. L'identité du modèle restait vide 
 
 ***
 
-Mara arriva aux Archives municipales au milieu de l'après-midi.
+Mara arriva aux Archives municipales en fin d'après-midi, après sa visite à la bibliothèque.
 
 Elle demanda :
 
@@ -6778,9 +6778,13 @@ Jon revint avec le registre familial.
 
 — Tu viens me montrer la référence. Ensuite, les papiers restent avec moi, et on en parle avec lui.
 
-Mara acquiesça. Elle aurait préféré un oui sans conditions ; il fallait choisir avant que les bureaux ferment.
+Mara acquiesça. Elle aurait préféré un oui sans conditions.
 
-Ils revinrent aux Archives une heure avant la fermeture. L'employé vérifia les actes, fit signer Jon et apporta le registre des décisions de la Commission. Le dossier complet demeurait classifié.
+— Demain, dit Jon. J'ai promis ces convocations pour l'ouverture. Tu m'aides à les finir et je pourrai fermer plus tôt.
+
+Elle reprit son composteur. Jon vérifia la première ligne sans rien dire ; elle avait posé un chiffre à l'envers.
+
+Le lendemain, après les cours, il l'attendait devant l'école avec les actes de famille. Ils se présentèrent aux Archives une heure avant la fermeture. L'employé vérifia les actes, fit signer Jon et apporta le registre des décisions de la Commission. Le dossier complet demeurait classifié.
 
 — Vous pouvez relever une référence. Pour un extrait certifié, il faudra une demande distincte.
 

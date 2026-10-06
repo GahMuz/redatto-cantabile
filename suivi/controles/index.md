@@ -1,6 +1,6 @@
 # Contrôles
 
-Dernier contrôle : [synthèse après réparations](2026-10-06-revision-synthese.md). Trois lectures indépendantes intégrales de la V2 révisée ; anciennes observations reprises et arbitrées. Les rapports précédents décrivent l’état avant révision.
+Dernier contrôle : [calendrier et bourgeon D-016](2026-10-06-calendrier-bourgeon-synthese.md). Trois lectures indépendantes intégrales ; raccord initial corrigé et relu, aucun nouveau P1/P2 restant établi. Les rapports précédents décrivent les états historiques.
 
 | Date | Rapport | Périmètre lu | Versions / état des sources | Points ouverts |
 | --- | --- | --- | --- | --- |
@@ -19,3 +19,10 @@ Les rapports proposent des corrections sans les appliquer au roman. Une observat
 | 2026-10-06 | [Fond](2026-10-06-revision-fond.md) | I–III intégralement | Refus et autonomie renforcés ; suggestions P3 |
 | 2026-10-06 | [Forme](2026-10-06-revision-forme.md) | I–III intégralement et ajustements ciblés | Voix/pédagogie améliorées, dosage encore ouvert |
 | 2026-10-06 | [Synthèse](2026-10-06-revision-synthese.md) | Trois rapports arbitrés et scènes relues | RC-01–07 corrigés ; RC-08–10 partiellement ouverts |
+
+| Date | Contrôle après D-016 | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-06 | [Cohérence](2026-10-06-calendrier-bourgeon-coherence.md) | I–III intégralement | J0–J10 et témoignages concordent |
+| 2026-10-06 | [Fond](2026-10-06-calendrier-bourgeon-fond.md) | I–III intégralement | Délais contraignants ; pression politique future P3 |
+| 2026-10-06 | [Forme](2026-10-06-calendrier-bourgeon-forme.md) | I–III intégralement, raccord relu | CF-01 traité ; suggestions P3 |
+| 2026-10-06 | [Synthèse](2026-10-06-calendrier-bourgeon-synthese.md) | Trois rapports arbitrés et mémoire | Aucun nouveau P1/P2 restant établi |

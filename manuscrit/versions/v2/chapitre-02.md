@@ -740,7 +740,7 @@ Il fronça les sourcils.
 
 — Onze heures quarante-neuf.
 
-— Et la première inscription ?
+— Et le plus ancien signalement que vous avez retrouvé ?
 
 Serdan consulta ses notes.
 
@@ -784,7 +784,7 @@ Cassian estimait que cinq étaient utiles.
 
 Ce qui constituait une excellente réunion gouvernementale.
 
-Adrien devait être proclamé roi dans sept jours.
+Adrien devait être proclamé roi dans quatorze jours. Il fallait prévenir les Marches et laisser arriver leurs représentants ; le Conseil refusait une proclamation à laquelle la moitié d'entre elles ne pourrait pas assister.
 
 Eléane assurerait la régence jusqu'à son couronnement.
 
@@ -1060,7 +1060,7 @@ Puis le garde.
 
 — Laquelle ?
 
-— La première.
+— Celle du palais. Nous avons trouvé quelqu'un qui l'a vue avant l'aube.
 
 Il quitta la chambre.
 
@@ -1442,7 +1442,13 @@ Cassian revint vers Merel.
 
 Cassian calcula.
 
-— Donc l'inscription était en train d'être écrite vers quatre heures quarante-cinq.
+— Donc cette inscription était en train d'être écrite vers quatre heures quarante-cinq.
+
+— Vous savez si c'était la première ? demanda Serdan.
+
+Merel secoua la tête.
+
+— Je livre le palais. Je fais pas le tour des murs de la ville.
 
 Serdan regarda le mur.
 

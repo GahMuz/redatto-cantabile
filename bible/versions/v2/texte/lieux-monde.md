@@ -7,14 +7,14 @@ Sources : [index des scènes](../../../../manuscrit/versions/v2/index.md). Les �
 | Élément | État dans les chapitres reçus | Source |
 | --- | --- | --- |
 | Place du Roi | Foule, ancien tribunal, palais et échafaud ; fermée par ordre d'Eléane, public derrière les barrières après évacuation | 001, 006, 018 |
-| Arbre | Jadis utilisé pour les traîtres ; réputation de bois mort transmise par les aïeux ; fleurs blanches après la chute et bourgeon vu avant par Mara | 003–005 |
+| Arbre | Jadis utilisé pour les traîtres ; réputation de bois mort transmise par les aïeux ; fleurs blanches après la chute et bourgeon vu pendant l’attente, avant l’arrivée du prisonnier, par Mara | 001, 003–005 |
 | Branche coupée | Sur la table du Conseil, auteur du prélèvement inconnu, coupée avant l'ordre selon Serdan ; Olven constate des tissus vivants | 013–014 |
 | Imprimerie Veyre | Rez-de-chaussée de la maison, presse, casses, arrière-boutique séparée par un rideau, poêle, clochette et verrou ; clients Admissions, Service des Eaux, prières et association Saint-Avelle ; quatre rues du lieu de jeu selon transition | 008–010 |
 | Bon de commande | 20 000 affiches pour le district, gravure fournie, diffusion prioritaire ; daté lundi, écriture attribuée à Ansel ; caché puis brûlé | 009–010 |
 | Documents saisis | Affiches, rebuts, épreuves, gravure et registre annuel emportés par deux fonctionnaires | 010 |
 | Conseil | Portrait d'Aldren, trône laissé vide, Eléane à côté ; décision de régence et couronnement | 013, 016 |
 | Appartements du roi | Scellés après sa mort ; deux gardes ; autorisation pour Cassian, interdiction d'emporter ; trois tiroirs dont lettres privées absentes | 017 |
-| Mur du graffiti | À moins de cent pas de l'Arbre, nettoyé avant l'enquête de Cassian ; Merel interrogé à proximité | 018 |
+| Mur du graffiti | À moins de cent pas de l'Arbre, nettoyé avant l'enquête de Cassian ; Merel interrogé à proximité ; inscription avant l’aube attestée, première absolue inconnue | 018 |
 | Corps du condamné | Encore pendu puis descendu sur ordre de Cassian ; morgue comme destination ordonnée, transport et réception contresignés rapportés en 025 | 019 |
 | Archives judiciaires | Comptoir, consultation du dossier scellé autorisée au sceau royal ; trois volumes apportés, quatrième aux Archives médicales ; requête du défenseur et feuillets de séance conservés dans le troisième | 020 |
 | Pièces de justice | 17 : dossier médical demandé six semaines avant la mort ; 23 : registres pharmaceutiques ; 31 : préparation des médicaments ; 42 : lettre au roi | 020 |

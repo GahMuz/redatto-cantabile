@@ -1,4 +1,6 @@
-# Mémoire des réparations — V2
+# Bilan des premières réparations — V2 (D-015)
+
+> Couverture historique de D-015 : calendrier et bourgeon remplacés par D-016. Pour le brouillon actif, lire [la révision calendrier/bourgeon](revision-calendrier-bourgeon.md) et la chronologie consolidée. Les lignes ci-dessous décrivent l’état du commit f66602a.
 
 6 octobre 2026. Direction retenue dans le présent chat (D-015), appliquée aux trois chapitres actifs. Statut : **brouillon révisé à relire par l'auteur**. Version précédente enregistrée au commit `fa8cc16`. Les sources brutes et variantes historiques ne sont pas modifiées. Les identifiants de scènes restent stables ; III s'arrête toujours sur « O ».
 

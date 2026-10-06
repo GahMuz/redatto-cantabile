@@ -8,7 +8,7 @@ La [suite II–III](suite-chapitres-02-03.md) actualise connaissances et états 
 
 ## P-V2-003 — Mara Veyre
 
-Douze ans, fille de l'imprimeur Veyre, sœur de Teren (005, 009). Compose des affiches et sait lire ; a composé la phrase sur Oren cent quarante-sept fois la veille (002). Remarque que le portrait gravé ne ressemble guère au condamné (002, 009). Voit un bourgeon avant la chute, le montre sans que Teren le distingue ; doute brièvement de son observation (004–005), puis la maintient devant son père (008).
+Douze ans, fille de l'imprimeur Veyre, sœur de Teren (005, 009). Compose des affiches et sait lire ; a composé la phrase sur Oren cent quarante-sept fois la veille (002). Remarque que le portrait gravé ne ressemble guère au condamné (002, 009). Repère un bourgeon pendant l’attente, avant l’arrivée du prisonnier, le montre sans que Teren le distingue (001), puis le retrouve avant la chute. Doute brièvement après la floraison (004–005), puis maintient l’observation devant son père (008).
 
 Reste à l'imprimerie, sans poursuite ni recrutement. Lit le bon de 20 000 exemplaires, reconnaît l'écriture d'Ansel et oppose sa date du lundi à l'arrestation du mardi et au procès du jeudi (009). Cache le bon dans sa chaussure pendant le rappel administratif, le rend à son père, qui le brûle (010). **Elle ne possède plus le document** à la fin reçue ; elle en conserve le souvenir. Son malaise devant les contributions est montré, pas encore un engagement révolutionnaire (010).
 
@@ -32,7 +32,7 @@ Dernier état au II : après l'audit et le morguier, Cassian décide de retourne
 
 ## P-V2-002 — Eléane
 
-Reine veuve, mère d'Adrien (006, 013). Ferme la place, interdit prélèvements et branches, convoque Cassian (006). Au Conseil, refuse une explication officielle précipitée ; accepte de corriger la chronologie incertaine du communiqué (013). Assurera la régence jusqu'au couronnement prévu dans sept jours (016). Elle ne recherche pas Mara dans le texte reçu ; ne lui attribuer aucun repérage hérité de V1.
+Reine veuve, mère d'Adrien (006, 013). Ferme la place, interdit prélèvements et branches, convoque Cassian (006). Au Conseil, refuse une explication officielle précipitée ; accepte de corriger la chronologie incertaine du communiqué (013). Assurera la régence jusqu'au couronnement prévu dans quatorze jours (016). Elle ne recherche pas Mara dans le texte reçu ; ne lui attribuer aucun repérage hérité de V1.
 
 ## P-V2-006 — Homme exécuté sous le nom d'Oren Vale
 
@@ -45,7 +45,7 @@ Mort constatée par Helven, qui décrit une rupture cervicale ; aucune dispariti
 | Identifiant | Personnage | Informations disponibles | Sources |
 | --- | --- | --- | --- |
 | P-V2-009 | Aldren Orme | Quatrième roi de la Concorde ; frère de Cassian, père d'Adrien ; mort, chambre scellée, lettres privées manquantes | 004, 013, 017 |
-| P-V2-010 | Adrien | Dix-neuf ans ; fils aîné, futur roi dans sept jours ; rit aux saillies | 006, 013–016 |
+| P-V2-010 | Adrien | Dix-neuf ans ; fils aîné, futur roi dans quatorze jours ; rit aux saillies | 006, 013–016 |
 | P-V2-011 | Severin | Patriarche ; défend la sacralité et souhaite une cérémonie de purification | 013, 019 |
 | P-V2-012 | Serdan | Capitaine de la garde ; rapports, témoins, sécurisation et descente du corps | 007, 013–019 |
 | P-V2-013 | Maître Corven | Destinataire des registres, présent à l'atelier pendant le mensonge de Teren | 008 |

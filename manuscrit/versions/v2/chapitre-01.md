@@ -6,27 +6,13 @@ Le jour où l'Arbre mort fleurit, personne ne remarqua que le condamné avait le
 
 Personne, sauf Mara.
 
-Et Mara regardait surtout parce qu'elle s'ennuyait.
+Un peu plus tôt, Mara attendait derrière un manteau brun dont le col lui arrivait au nez. Les gardes n'étaient pas encore sortis du palais.
 
-— Il nous voit.
-
-Teren ne répondit pas.
-
-— Je te dis qu'il nous voit.
-
-— Il voit dix mille personnes.
-
-— Non. Nous.
-
-Son frère soupira.
+Teren soupira.
 
 À quinze ans, Teren avait récemment acquis la conviction que soupirer constituait une réponse acceptable à presque toutes les questions.
 
 Mara lui donna un coup de coude.
-
-— Regarde.
-
-— J'essaie justement.
 
 Il lui écrasa le pied.
 
@@ -114,6 +100,52 @@ Elle aimait son frère.
 
 Elle aimait surtout l'emmerder.
 
+L'arche du palais restait vide. Mara se hissa sur la pointe des pieds, puis renonça. On ne faisait même pas entrer les gardes.
+
+Au-dessus de l'échafaud, les branches de l'Arbre dépassaient les têtes. Elle suivit leurs coudes, leurs fourches, la plus basse qui revenait vers le tronc. Au bout, une petite saillie lui sembla différente.
+
+Un bourgeon.
+
+Minuscule.
+
+Presque invisible.
+
+Au bout d'une branche morte.
+
+Mara plissa les yeux.
+
+Vert.
+
+Elle tira la manche de Teren.
+
+— Regarde.
+
+— Quoi ?
+
+— Là-haut.
+
+— Où ?
+
+— Sur la branche.
+
+— Quelle branche ?
+
+— Celle qui ressemble à un bras.
+
+Teren leva les yeux.
+
+Toutes les branches ressemblaient à des bras.
+
+— Très utile.
+
+— À gauche.
+
+— Ta gauche ou la mienne ?
+
+Mara le regarda.
+
+— On a la même gauche, imbécile.
+
 Devant eux, quelqu'un cria :
 
 — Ils arrivent !
@@ -131,6 +163,16 @@ Puis un prêtre.
 Puis le condamné.
 
 Oren Vale.
+
+Mara regarda ses yeux ouverts.
+
+— Il nous voit.
+
+— Il voit dix mille personnes, dit Teren.
+
+— Non. Nous.
+
+Son frère ne répondit pas.
 
 ***
 
@@ -334,11 +376,7 @@ Il ne semblait pas avoir peur du bourreau.
 
 Il regardait une branche.
 
-Mara suivit son regard.
-
-Du bois gris.
-
-Rien d'autre.
+Mara suivit son regard. Il semblait aller vers la branche qu'elle avait montrée à Teren. Elle ne pouvait pas savoir s'il distinguait le petit point vert.
 
 Le bourreau lui passa la corde autour du cou.
 
@@ -418,49 +456,9 @@ Sur l'échafaud, Oren avait cessé de sourire.
 
 Il regardait de nouveau l'Arbre.
 
-Et Mara vit alors ce qui attirait son attention.
+Mara retrouva le point vert qu'elle avait remarqué pendant l'attente. Il était toujours là, au bout de la branche.
 
-Un bourgeon.
-
-Minuscule.
-
-Presque invisible.
-
-Au bout d'une branche morte.
-
-Mara plissa les yeux.
-
-Vert.
-
-Elle tira la manche de Teren.
-
-— Regarde.
-
-— Quoi ?
-
-— Là-haut.
-
-— Où ?
-
-— Sur la branche.
-
-— Quelle branche ?
-
-— Celle qui ressemble à un bras.
-
-Teren leva les yeux.
-
-Toutes les branches ressemblaient à des bras.
-
-— Très utile.
-
-— À gauche.
-
-— Ta gauche ou la mienne ?
-
-Mara le regarda.
-
-— On a la même gauche, imbécile.
+Elle allait demander de nouveau à Teren de regarder.
 
 Le levier claqua.
 
@@ -634,7 +632,7 @@ Il la regarda.
 
 — Quel bourgeon ?
 
-— Juste avant qu'ils le pendent.
+— Pendant qu'on attendait. Les gardes étaient même pas encore sortis.
 
 Teren fronça les sourcils.
 
@@ -1894,6 +1892,8 @@ Ils avaient déjà été recopiés sur onze murs. Chaque fois qu'une patrouille 
 
 Personne, parmi ceux qui les répétaient, ne savait qui avait commencé.
 
-Le premier signalement enregistré datait de midi passé. Pour les bureaux du palais, l'inscription était une conséquence de la floraison.
+Le plus ancien signalement retrouvé dans les rapports de garde datait de midi passé. Pour les bureaux du palais, l'inscription était une conséquence de la floraison.
 
-Merel, le boulanger de la rue Haute, l'avait pourtant vue avant l'aube, alors qu'Oren Vale était encore vivant.
+Merel, le boulanger de la rue Haute, avait pourtant vu un homme tracer ces mots avant l'aube, alors qu'Oren Vale était encore vivant.
+
+Il ignorait si quelqu'un les avait déjà écrits ailleurs.

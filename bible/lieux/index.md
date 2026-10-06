@@ -1,6 +1,6 @@
 # Lieux
 
-Brouillon actif révisé D-015 : [lieux V2](../versions/v2/texte/lieux-monde.md). Les [lieux historiques de la V1](../versions/v1/lieux.md) sont suivis séparément.
+Brouillon actif révisé D-015/D-016 : [lieux V2](../versions/v2/texte/lieux-monde.md). Les [lieux historiques de la V1](../versions/v1/lieux.md) sont suivis séparément.
 
 | Identifiant | Nom et alias | Fiche | Scènes sources | Dernière mise à jour |
 | --- | --- | --- | --- | --- |
@@ -16,4 +16,4 @@ Créer une fiche pour les lieux récurrents ou ceux dont la disposition et l'acc
 
 [Actualisation la plus récente du chapitre III](../versions/v2/texte/suite-chapitre-03-decret.md) : scènes 033–045. Elle prime sur les anciens états pour les connaissances, documents, lieux, chronologie et fils modifiés.
 
-Révision du 6 octobre 2026 : voir [la mémoire des réparations](../versions/v2/texte/revision-coherence.md). Les sources importées restent historiques.
+Révision du 6 octobre 2026 : voir [la mémoire des réparations](../versions/v2/texte/revision-calendrier-bourgeon.md). Les sources importées restent historiques.

@@ -15,22 +15,22 @@ Sources : [SC-V2-001 à 020](../../../../manuscrit/versions/v2/index.md). J0 dé
 | Jeudi, selon Mara | Procès | 009 |
 | « Depuis trois jours », selon Helven | Durée d'emprisonnement évoquée à l'examen | 019 |
 | Hier, selon Solan | Mort d'Ervan, après le roi, accident déclaré | 020 |
-| Avant l'aube, environ 4 h 45, selon Merel et calcul de Cassian | Homme écrit le premier graffiti | 018 |
+| Avant l'aube, environ 4 h 45, selon Merel et calcul de Cassian | Homme écrit le graffiti attesté par Merel, sans preuve que ce soit le premier | 018 |
 | 11 h 37 et 11 h 49, registre cité par Serdan | Début de l'exécution puis sentence exécutée | 013 |
-| Quelques secondes autour de la chute | Floraison ; bourgeon antérieur observé par Mara, gardes divisés | 004–005, 013 |
+| Quelques secondes autour de la chute | Floraison ; bourgeon déjà observé par Mara pendant l’attente avant l’arrivée, gardes divisés | 001, 004–005, 013 |
 | Environ deux minutes après, selon Serdan | Helven constate la mort | 013 |
 | Retour des enfants puis rappel administratif | Bon découvert, caché et détruit | 008–010 |
 | 12 h 17, rapport | Première inscription signalée ; date d'écriture distincte | 015 |
 | Conseil puis visites | Décisions, chambre, témoignage, corps descendu et dossiers consultés | 016–020 |
-| Dans sept jours, décision du Conseil | Couronnement d'Adrien ; régence d'Eléane jusque-là | 016 |
+| Dans quatorze jours, décision du Conseil | Couronnement d'Adrien ; régence d'Eléane jusque-là | 016 |
 
-Révision D-015 : la fin I raconte la propagation au soir ; Merel voit la première inscription avant l'aube de J0. Le signalement officiel de 12 h 17 ne date pas l'écriture (011, 018).
+Révision D-015 : la fin I raconte la propagation au soir ; Merel voit une inscription avant l’aube de J0, plus ancienne attestée mais pas première absolue. Le signalement officiel de 12 h 17 ne date pas l'écriture (011, 018).
 
 ## État des fils réellement installés
 
 | Fil | Installation / évolution écrite | Dernier état et limites |
 | --- | --- | --- |
-| F-V2-T01 — Floraison et secondes | Bourgeon, gardes divergents, retrait de « ensuite », examen Olven (004–005, 013–014) | Vie constatée, cause inconnue ; Palen demandé mais pas encore entendu |
+| F-V2-T01 — Floraison et secondes | Bourgeon pendant l’attente, gardes divergents, retrait de « ensuite », examen Olven (004–005, 013–014) | Vie constatée, cause inconnue ; Palen demandé mais pas encore entendu |
 | F-V2-T02 — Portrait et identité | Gravure différente, homme mort examiné, divergence gaucher/droitier (002, 009, 019) | Indices, pas preuve de substitution ; final secret du plan non révélé |
 | F-V2-T03 — Affiches avant jugement | Bon du lundi pour coupable arrêté mardi et jugé jeudi (009) | Original brûlé ; saisie des autres pièces et du registre (010) ; Cassian ne connaît pas cette découverte |
 | F-V2-T04 — Famille et protection | Livraison ratée, concours évoqués, peur du père (008–010) | Mara reste chez elle ; pas de fratrie déjà engagée dans des camps opposés |
