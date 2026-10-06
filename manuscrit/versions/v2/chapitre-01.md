@@ -1234,6 +1234,10 @@ Cela lui semblait triste.
 
 Elle passa derrière la grande presse.
 
+Le long du mur, les paquets attendaient leurs destinataires : formulaires des Admissions, relevés du Service des Eaux, feuillets de prières. Une association d'anciens de Saint-Avelle avait commandé des cartes de secours. Jon avait posé celles-ci à part ; leurs souscripteurs payaient chacun quelques deniers, rarement le même jour.
+
+Mara savait reconnaître ces clients à leur papier avant de connaître leurs visages.
+
 Sur les tables s'alignaient les casses de caractères : minuscules en bas, capitales en haut, signes, espaces, chiffres.
 
 Des milliers de petites pièces de plomb capables de dire n'importe quoi à condition qu'un homme accepte de les ranger dans le bon ordre.
@@ -1840,7 +1844,7 @@ Mara ne comprit pas.
 
 — Quel rapport ?
 
-— Cette boutique est à nous. Cette maison est à nous. Vous mangez tous les jours. Ton frère pourra passer les concours l'année prochaine. Toi aussi, plus tard, si tu veux.
+— Cette boutique est à nous. Cette maison est à nous. Vous mangez tous les jours. Ton frère pourra passer les concours. Toi aussi, plus tard, si tu veux.
 
 — Mais ils avaient commandé—
 
@@ -1882,26 +1886,14 @@ Maintenant, pour une raison qu'elle n'aurait pas su expliquer, ils lui semblaien
 
 ***
 
-À la tombée de la nuit, quelqu'un écrivit six mots sur le mur du palais.
-
-Personne ne le vit faire.
-
-Le garde qui les découvrit reçut l'ordre de les effacer.
-
-Il obéit.
-
-À l'aube, ils étaient revenus.
-
-Cette fois sur trois murs.
-
-Puis sur onze.
-
-À midi, on pouvait les lire dans tous les quartiers de la capitale.
+À la tombée de la nuit, les gardes effaçaient encore les cinq mots apparus sur le mur du palais.
 
 **VOUS AVEZ PENDU UN INNOCENT.**
 
-Personne ne savait qui avait commencé.
+Ils avaient déjà été recopiés sur onze murs. Chaque fois qu'une patrouille quittait une rue, quelqu'un attendait qu'elle tourne au coin.
 
-Personne ne savait pourquoi.
+Personne, parmi ceux qui les répétaient, ne savait qui avait commencé.
 
-Et surtout, personne ne remarqua que le premier graffiti avait été écrit alors qu'Oren Vale était encore vivant.
+Le premier signalement enregistré datait de midi passé. Pour les bureaux du palais, l'inscription était une conséquence de la floraison.
+
+Merel, le boulanger de la rue Haute, l'avait pourtant vue avant l'aube, alors qu'Oren Vale était encore vivant.

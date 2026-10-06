@@ -1,6 +1,6 @@
 # Manuscrit V2 — chapitres reçus
 
-Trois chapitres assemblés à partir de douze pièces, importés le 6 octobre 2026. Statut : **dernière rédaction reçue, brouillon**, sans confirmation qu'il s'agit de la version définitive. Sources et demandes de continuation : SRC-V2-05 à 23 (11, 12 et 20 sont des doublons) dans le [registre](../../../sources/index.md).
+Trois chapitres assemblés à partir de douze pièces, importés le 6 octobre 2026. Statut : **brouillon actif révisé selon D-015**, sans confirmation qu'il s'agit de la version définitive. Les sources brutes et le commit fa8cc16 conservent l'état avant révision. Sources et demandes de continuation : SRC-V2-05 à 23 (11, 12 et 20 sont des doublons) dans le [registre](../../../sources/index.md).
 
 | Identifiant | Titre / copie de lecture | Sources | Fin reçue |
 | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Trois chapitres assemblés à partir de douze pièces, importés le 6 octobre 20
 
 Nouvelle transmission : deux pièces SRC-V2-11 et 12 identiques à SRC-V2-08, vérifiées par SHA-256. Leur contenu n'est pas ajouté une seconde fois. Voir le [registre des doublons](../../../sources/v2/10-echanges-et-doublons.md). Ces pièces étaient des doublons ; la transmission suivante a depuis prolongé II.
 
-I : fragment terminal « — Vraiment » de la première pièce retiré au profit de la reprise complète « — Vraiment ? » de la seconde. II : « On frappa. » répété en frontière, conservé une seule fois. Les autres passages sont conservés dans leur ordre, sans correction narrative ; seul l'espacement du raccord II est normalisé. Les sources brutes restent inchangées.
+I : fragment terminal « — Vraiment » de la première pièce retiré au profit de la reprise complète « — Vraiment ? » de la seconde. II : « On frappa. » répété en frontière, conservé une seule fois. Lors de l'import, les autres passages avaient été conservés dans leur ordre, sans correction narrative ; la révision D-015 modifie désormais le brouillon actif. Les sources brutes restent inchangées.
 
 ## Scènes et repères
 
@@ -28,7 +28,7 @@ I : fragment terminal « — Vraiment » de la première pièce retiré au profi
 | SC-V2-008 | I : « À quatre rues de là » | Retour à l'atelier ; mensonge de Teren, Corven et récit du bourgeon |
 | SC-V2-009 | I : « L'imprimerie des Veyre » | Bon daté du lundi ; arrestation mardi ; père effrayé |
 | SC-V2-010 | I : « Puis on frappa à la porte » | Rappel des documents ; bon caché puis brûlé ; protection de la vie familiale |
-| SC-V2-011 | I : « À la tombée de la nuit » | Diffusion des graffitis ; déclaration finale sur leur antériorité |
+| SC-V2-011 | I : « À la tombée de la nuit » | Propagation au soir, cinq mots ; première inscription avant l'aube vue par Merel |
 | SC-V2-012 | II : « Cassian Orme arriva au palais » | Palais agité et gardes supplémentaires |
 | SC-V2-013 | II : « Ils étaient neuf » | Conseil, branche coupée, horaires, témoignages divergents et rumeurs |
 | SC-V2-014 | II : « La porte s'ouvrit » | Olven examine la branche ; elle est vivante, origine non expliquée |
@@ -36,8 +36,8 @@ I : fragment terminal « — Vraiment » de la première pièce retiré au profi
 | SC-V2-016 | II : « Le Conseil dura encore deux heures » | Régence, couronnement dans sept jours ; échange Cassian–Eléane |
 | SC-V2-017 | II : « Il commença par les appartements » | Lettres manquantes, trace rectangulaire, interruption de Serdan |
 | SC-V2-018 | II : « Le mur se trouvait » | Merel dit avoir vu un écrivain avant l'aube ; estimation 4 h 45 et odeur d'encre |
-| SC-V2-019 | II : « Ils marchèrent jusqu'à l'échafaud » | Corps descendu sur ordre de Cassian ; Helven ; indices de gaucher face au dossier droitier |
-| SC-V2-020 | II : « Les Archives judiciaires occupaient » | Solan, preuves d'accès, trois lettres, demandes d'entretien et Ervan mort |
+| SC-V2-019 | II : « Ils marchèrent jusqu'à l'échafaud » | Corps descendu sur ordre de Cassian ; Helven ; traces de plume à gauche, porteurs consignés et gardiens convoqués |
+| SC-V2-020 | II : « Les Archives judiciaires occupaient » | Solan, neuf témoins, défense du mandat écartée, feuillets tronqués, demandes d'entretien et Ervan mort |
 
 Ces repères suivent les transitions du texte sans insérer d'ancres dans la prose. La [mémoire du texte V2](../../../bible/versions/v2/texte/personnages.md) les utilise comme sources. Voir également les [points repérés à l'import](../../../suivi/controles/2026-10-06-import-v2.md).
 ## Raccords de la suite
@@ -51,8 +51,8 @@ Ces repères suivent les transitions du texte sans insérer d'ancres dans la pro
 | SC-V2-021 | II : « Chaque fois que je trouve quelqu'un » | Madame Ervan, accident rapporté, annotations |
 | SC-V2-022 | II : « Une heure plus tard, Cassian » | Archives médicales et accumulation possible |
 | SC-V2-023 | II : « Maître Venn avait trente-deux ans » | Entretien et changements de vie d'Aldren |
-| SC-V2-024 | II : « Où sont consignées ces décisions » | Collecte, théorie abandonnée, audit retrouvé |
-| SC-V2-025 | II : « Il était presque une heure du matin » | Morguier et Lysa alléguée |
+| SC-V2-024 | II : « Où sont consignées ces décisions » | Collecte, théorie abandonnée, registre complet confronté à la requête de défense ; demande signalée à la Sûreté |
+| SC-V2-025 | II : « Il était presque une heure du matin » | Reconnaissances du corps, origine contestée par Lysa alléguée, extrait de décès à vérifier |
 | SC-V2-026 | III : « Le lendemain de la mort d'Oren Vale » | Matin et paiement du concours |
 | SC-V2-027 | III : « Puis quelqu'un frappa » | Darien chez Veyre et carte douteuse |
 | SC-V2-028 | III : « Darien tourna au coin de la rue » | Rapport à Varos, informations de morgue |
@@ -73,14 +73,14 @@ Ces repères suivent les transitions du texte sans insérer d'ancres dans la pro
 | SC-V2-034 | III : bibliothèque puis archives de district | Décret restreint, ordonnance de 28 et modification de 41 |
 | SC-V2-035 | III : place de l'Arbre, Darien | Mara suit Darien et demande l'accès au concours |
 | SC-V2-036 | III : gargote et note déchirée | Refus du marché, récit de Valdorne et témoignage du bourgeon |
-| SC-V2-037 | III : Varos, registre central | Consultations d'Oren, classement de Lena signé O. Vale |
+| SC-V2-037 | III : Varos, registre central | Consultations d'Oren, classement de Lena maintenu ; examen transmis par O. Vale |
 | SC-V2-038 | III : « Une demande de révision » | Révisions refusées, Commission et 108 dossiers transférés |
 | SC-V2-039 | III : lendemain, école | Faits / interprétations, récit public du bourgeon, rumeurs |
 | SC-V2-040 | III : Jon vient chercher Mara | Recours rejeté, 53-7714, toit et promesse à Teren |
 | SC-V2-041 | III : « Pas de nom. » | Enveloppe, corps techniques et conflit familial |
 | SC-V2-042 | III : « Une heure plus tard » à la bibliothèque | Circulaire 14-7-B et recommandation antérieure |
 | SC-V2-043 | III : réponse reçue par Varos | Refus d'accès et opérations en cours, hypothèses |
-| SC-V2-044 | III : Darien, rapport puis atelier | Corlan Esve, portrait ancien 771, variantes et motif |
-| SC-V2-045 | III : archives municipales | Dossier transféré, registre consulté, levée recommandée par Oren |
+| SC-V2-044 | III : Darien, rapport puis atelier | Corlan Esve, portrait 771 daté 59, variantes et motif collectif ; expertise après découverte |
+| SC-V2-045 | III : archives municipales | Refus à Mara, accord limité de Teren, registre consulté avec Jon ; levée recommandée par Oren |
 
 [Dernière mémoire du texte](../../../bible/versions/v2/texte/suite-chapitre-03-decret.md) : scènes 033–045, connaissances actualisées et procédures.

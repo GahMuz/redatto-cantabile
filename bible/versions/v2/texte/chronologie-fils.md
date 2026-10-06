@@ -24,7 +24,7 @@ Sources : [SC-V2-001 à 020](../../../../manuscrit/versions/v2/index.md). J0 dé
 | Conseil puis visites | Décisions, chambre, témoignage, corps descendu et dossiers consultés | 016–020 |
 | Dans sept jours, décision du Conseil | Couronnement d'Adrien ; régence d'Eléane jusque-là | 016 |
 
-La fin du chapitre I raconte aussi un premier graffiti à la tombée de la nuit, puis une diffusion à l'aube et à midi, tout en affirmant qu'il précédait la mort d'Oren (011). Ce calendrier reste à clarifier face aux heures explicites du chapitre II. Voir le rapport d'import ; ne pas ordonner arbitrairement cette séquence.
+Révision D-015 : la fin I raconte la propagation au soir ; Merel voit la première inscription avant l'aube de J0. Le signalement officiel de 12 h 17 ne date pas l'écriture (011, 018).
 
 ## État des fils réellement installés
 
@@ -34,8 +34,8 @@ La fin du chapitre I raconte aussi un premier graffiti à la tombée de la nuit,
 | F-V2-T02 — Portrait et identité | Gravure différente, homme mort examiné, divergence gaucher/droitier (002, 009, 019) | Indices, pas preuve de substitution ; final secret du plan non révélé |
 | F-V2-T03 — Affiches avant jugement | Bon du lundi pour coupable arrêté mardi et jugé jeudi (009) | Original brûlé ; saisie des autres pièces et du registre (010) ; Cassian ne connaît pas cette découverte |
 | F-V2-T04 — Famille et protection | Livraison ratée, concours évoqués, peur du père (008–010) | Mara reste chez elle ; pas de fratrie déjà engagée dans des camps opposés |
-| F-V2-T05 — Graffitis anticipés | Diffusion, premier signalement, témoignage du boulanger (011, 015, 018) | Auteur inconnu, encre suggère un milieu sans identifier un imprimeur ; calendrier ambigu |
-| F-V2-T06 — Dossier trop solide | Accès authentifiés, lettres d'alerte utilisées à charge, interrogatoires (020) | Demandes de Cassian ignorées ; anomalies d'Oren absentes du dossier ; raison non établie |
+| F-V2-T05 — Graffitis anticipés | Diffusion, premier signalement, témoignage du boulanger (011, 015, 018) | Auteur inconnu, encre suggère un milieu sans identifier un imprimeur ; calendrier harmonisé par D-015 |
+| F-V2-T06 — Dossier trop solide | Accès authentifiés, lettres d'alerte utilisées à charge, interrogatoires (020) | Demande d'entretien de Cassian ignorée ; explications d'Oren tronquées dans les extraits mais retrouvées dans les feuillets. Défense du mandat écartée en urgence (020, 024) |
 | F-V2-T07 — Ervan | Dernier entretien : « trop tard » ; magistrat mort hier (020) | Accident rapporté, meurtre non démontré ; Cassian rassemble les dossiers |
 | F-V2-T08 — Chambre du roi | Lettres privées absentes et rectangle sans poussière (017) | Objet et personne qui l'a retiré inconnus ; inspection interrompue |
 | F-V2-T09 — Interprétation politique | Rumeurs, débat religieux, communiqué, régence et couronnement (006, 013–016) | Pas d'explication officielle arrêtée ; pas de prophétie |

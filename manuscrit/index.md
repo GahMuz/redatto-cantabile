@@ -1,6 +1,6 @@
 # Manuscrit — versions actives
 
-La V2 est la dernière rédaction reçue : trois chapitres, statut brouillon. Elle sert de référence au suivi de cet import, sans approbation définitive de chaque détail. La V1 reste historique.
+La V2 est le brouillon actif révisé selon D-015 : trois chapitres, sans approbation définitive de chaque formulation. Les sources importées conservent la rédaction antérieure. La V1 reste historique.
 
 ## Versions historiques
 
@@ -12,9 +12,9 @@ Les [chapitres V2](versions/v2/index.md) et les [échanges de conception](../bib
 
 | Identifiant stable | Ordre de lecture | Titre | Fichier | Statut du texte | Source / choix de version |
 | --- | --- | --- | --- | --- | --- |
-| CH-V2-001 | 1 | Le pendu | [Texte](versions/v2/chapitre-01.md) | Brouillon, clôture annoncée par l'assistant | SRC-V2-05 + 06 ; raccord dédoublonné |
-| CH-V2-002 | 2 | Trois reines | [Texte](versions/v2/chapitre-02.md) | Brouillon, clôture puis passage au III | SRC-V2-07 + 08 + 13 + 14 |
-| CH-V2-003 | 3 | Ce qui est écrit | [Texte](versions/v2/chapitre-03.md) | Brouillon, fin coupée sur « O » | SRC-V2-15 + 16 + 18 + 19 + 21 + 22 |
+| CH-V2-001 | 1 | Le pendu | [Texte](versions/v2/chapitre-01.md) | Brouillon révisé D-015, chapitre clos | SRC-V2-05 + 06 ; raccord dédoublonné |
+| CH-V2-002 | 2 | Trois reines | [Texte](versions/v2/chapitre-02.md) | Brouillon révisé D-015, chapitre clos | SRC-V2-07 + 08 + 13 + 14 |
+| CH-V2-003 | 3 | Ce qui est écrit | [Texte](versions/v2/chapitre-03.md) | Brouillon révisé D-015, fin coupée sur « O » | SRC-V2-15 + 16 + 18 + 19 + 21 + 22 |
 
 Statuts : brouillon, retenu par l'auteur, à réviser. Garder un identifiant tel que CH-001 même si le chapitre change de place. Les variantes restent dans les sources ou archives, hors de cette liste active.
 

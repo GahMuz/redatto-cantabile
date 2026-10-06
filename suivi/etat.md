@@ -2,48 +2,36 @@
 
 Mis à jour le 6 octobre 2026.
 
-## Dernier état reçu
+## État actif
 
-V2 : trois chapitres, douze morceaux de prose importés, au statut brouillon. I « Le pendu » et II « Trois reines » sont clos dans les échanges ; III « Ce qui est écrit » est en cours et finit sur **« O »**, après « Une fois. Deux fois. ». Aucune fin reconstruite.
+Trois chapitres V2 au statut **brouillon révisé**, suite aux choix acceptés par l'auteur dans le présent chat (« ok », puis « vas y » ; D-015). I et II clos ; III toujours incomplet, fin conservée sur **« O »**, après « Une fois. Deux fois. ». Aucune continuation reconstituée.
 
-Quatre sources nouvelles SRC-V2-18, 19, 21 et 22 copiées à l'identique ; occurrence 20 identique à 19, non réinsérée ; échanges SRC-V2-23 transcrits. Raccords documentés dans l'index. Ancien état III préservé dans [l'archive](../archives/imports/v2/chapitre-03-avant-suite-01.md). Quinze pièces brutes V2 uniques au total, dont trois de conception. V1 et plan secret restent séparés.
+Choix appliqués : 1C+2C+3B pour identité/procès, présent 70 et naissance 55, quatre journées après J0, graffiti avant l'aube puis propagation, mémoire incertaine du bourgeon, expertise après découverte ; métier de Mara et refus nécessitant Jon, moins de leçons répétées, demandes qui exposent l'enquête, bénéfice concret de la Concorde pour Teren et motif collectif. Cinq mots pour le graffiti ; calcul avant majorité retiré.
+
+Les sources brutes V1/V2 restent inchangées. Les douze morceaux de prose avaient été assemblés avant cette révision ;15 pièces brutes V2 uniques, dont trois de conception, doublons 11/12/20 non réinsérés. La fidélité d'assemblage documentée à l'import s'applique à l'état antérieur, préservé par Git au commit `fa8cc16`. Premier jalon `3d669f5`, deuxième `07f1812`, troisième `fa8cc16`.
 
 ## Dernières connaissances à préserver
 
-Mara veut aider son frère à passer le concours. Teren a reçu une inéligibilité temporaire selon 14-7 ; le recours de Jon a été rejeté. L'enveloppe anonyme propose un accès aux corps techniques puis une révision après cinq ans. Teren voulait les Archives ; aucun choix final montré. Mara croit Darien expéditeur sans confirmation.
+**Cassian :** défense du mandat déjà produite et écartée en urgence ; feuillets intégraux distinguent réponses d'Oren et extraits certifiés. Registre complet confirme la comparaison ignorée. Reçu de sa demande destiné à la Sûreté. Corps reconnu par trois collègues, deux gardiens et Helven ; porteurs et réception contresignés. Lysa alléguée conteste l'origine avec extrait de décès d'un enfant Oren, à vérifier. Vérifications demandées, résultats non reçus. Cause médicale et identité d'origine non résolues ; aucune substitution ni survie établie.
 
-Mara a lu la circulaire publique 14-7-B, article 23, puis un registre municipal : classement de Lena maintenu, avis de levée recommandé par Vale, Oren. Elle connaît cette recommandation et a copié la référence, pas les autres recherches de Varos. Son dernier passage reste tronqué. Jon garde la décision du recours ; volume consulté interdit de sortie. Plaque familiale et matrice sont deux objets distincts.
+**Mara, Jon, Teren :** restriction 14-7 et recours rejeté conservés. Enveloppe propose corps techniques puis révision après cinq années, expéditeur inconnu. Teren voulait les Archives ; ne choisit aucune admission. Mara trouve au catalogue le texte antérieur au décret, puis lit la circulaire 14-7-B. Refus municipal tenu ; revient avec Jon après accord limité de Teren (« vous déposez rien à ma place »). Jon présente actes et signe ; consulte avec Mara. Elle copie référence 53-7714 et avis de levée recommandé par Vale, Oren. Extrait certifié non obtenu, pas de recours réussi. Jon garde les papiers. Teren n'apprend pas automatiquement la découverte finale. Plaque familiale au coffre.
 
-Varos et Darien ont lu le maintien initial et les demandes de révision d'Oren, puis le mandat collectif et les 108 dossiers transférés. Accès refusé au titre d'opérations en cours : explication réelle inconnue. Atelier des Cendres visité ; matrice 771 retrouvée, portrait ancien et variantes, signe de Valdorne au revers. Ils ignorent encore le motif de la plaque possédée par Mara.
+**Varos et Darien :** décision de maintien distinguée de l'examen transmis par Oren. Révisions refusées, mandat collectif et 108 dossiers transférés en 56. Refus invoque opérations en cours ; liste transmise au service détenteur, qui apprend leur recherche. Contre-attaque non montrée. Atelier visité J4 ; cuivres 771–775 emportés sous inventaire, expertise après découverte. Date 59 lue au registre, onze ans avant présent 70. Signe collectif de Valdorne, sens inconnu ; ignorent le motif de la plaque de Mara.
 
-Darien reçoit le récit du bourgeon et remet une note sans nom de source, à confirmer. Mara en parle ensuite devant Delan et sa classe ; entretien demandé par l'enseignant non montré. Ni recrutement ni rébellion décidés.
+**Bourgeon :** scèneI après paroles et avant chute ; Mara ne situe plus précisément le moment par rapport aux paroles dans son témoignageJ2. Note Darien indique incertitude, source unique, à confirmer. Mara en parleJ3 devant classe et Delan ; entretien annoncé non montré. Pas de recrutement ni rébellion décidés.
 
-Cassian reste à l'état de la fin II et des rapports indirects du début III. Causalité médicale, identité du mort et de Lysa non résolues. Le corps a été reçu à la morgue selon son employé ; il n'a pas disparu et aucune survie d'Oren n'est établie. Bon original des affiches brûlé.
+## Contrôle et limites
 
-## Points ouverts et prochaine étape
+Trois lecteurs indépendants ont lu I–III intégralement après révision. [Synthèse du contrôle](controles/2026-10-06-revision-synthese.md) : aucun nouveau problème P1 établi ; RC-01–07 corrigés dans le périmètre, RC-08–10 améliorés avec appréciations encore ouvertes sur pédagogie, voix et conséquences adverses futures. Raccords locaux et reprise de découverte de Cassian ajustés puis relus. Chronologie, fiches et index réconciliés. Les anciens rapports restent historiques.
 
-Consigne de travail la plus récente (D-014) : avant toute nouvelle scène, proposer plusieurs directions vraiment différentes, avec de courts résumés, puis attendre le choix de l'auteur. Possibilité de combiner ou de demander d'autres pistes. Une direction déjà choisie peut être poursuivie ; rédaction directe possible sur demande explicite. Consigne enregistrée dans AGENTS.md, méthode et compétence, incluse dans le troisième jalon Git local demandé par l'auteur ; aucun texte narratif modifié.
+Présent 70 retenu ; guerre et naissance de Lena non datées, mort d'Aldren/mois/jour de semaine non fixés, âge légal de majorité ouvert. Oren 41 selon dossier implique vingt-quatre ans en 53, sans prouver son identité. Ne pas transformer un avis en admission, un courrier transmis en riposte ou l'extrait de Lysa en fait vérifié.
 
-La demande suivante porte sur les réparations des incohérences : quatorze groupes d'alternatives et deux corrections locales proposés dans ce chat. Aucun choix reçu à ce stade, aucune solution appliquée. Le commit des consignes ne valide pas ces propositions narratives.
+## Prochaine étape
 
-Importer la suite après « O » et les retours de l'auteur ; ne pas produire automatiquement une continuation pendant cette collecte. Nouveaux fils : recommandation non appliquée, recevabilité du document, autonomie de Teren, expéditeur de l'enveloppe, 108 dossiers et modèle du portrait.
+Relire le brouillon avec l'auteur. Pour une nouvelle scène, D-014 reste active : plusieurs directions vraiment différentes, courts résumés, puis choix ; direction déjà choisie poursuivable sans nouvelle sélection. Ne pas poursuivre automatiquement après « O ». Reprendre copie recevable de l'avis, autonomie de Teren, réaction à l'exposition des enquêtes et vérification de l'extrait de Lysa quand une suite est demandée.
 
-Dates historiques contradictoires (53 + 17 contre 59 + 7, naissance de Teren en 62), durée jusqu'à majorité et emploi de « hier » à revoir. Notes antérieures sur les graffitis toujours ouvertes. Aucune correction de prose effectuée.
-
-Corrections explicites actives : implication crédible des enfants, rejet des prophéties. Plan secret non individuellement approuvé ; Alessa n'apparaît pas encore. Premier jalon Git local : `3d669f5`, atelier et imports V1/V2 au 6 octobre 2026, chapitre III encore incomplet. Trois lectures critiques intégrales I–III désormais effectuées ; aucune synchronisation ChatGPT.
-
-## Dernière demande et contrôle critique
-
-L'auteur a demandé un contrôle du dossier et plusieurs agents critiques automatiques, en donnant l'exemple de la famille et du corps d'Oren. [Synthèse](controles/2026-10-06-synthese-critique.md), rapports indépendants et observations RC-01 à RC-10 ouverts. Priorités : identifications ordinaires et trajet du corps ; validité du procès et motif du silence d'Oren ; calendrier ; résistance à Mara ; différenciation des voix et conséquences des découvertes. La notoriété ne prouve pas que la sœur soit connue de tous, mais les neuf témoins et l'examen d'Helven rendent sa prétendue unicité injustifiée.
-
-Sources, doublons et assemblages vérifiés conformes ; navigation mise à jour et index personnages/lieux renseignés. Pas de prose réécrite. Ces changements font partie du deuxième jalon Git local demandé par l'auteur, avec les règles d'écriture, les rapports critiques et la chronologie. La prochaine étape peut être une révision ciblée si l'auteur la demande ; poursuivre l'import reste possible.
-
-Procédure `skills/critiquer-roman/SKILL.md` installée et routée : contrôle après ajout de prose ou modification substantielle dans une séance, trois lecteurs si disponibles, puis arbitrage. Aucun service de surveillance ni calendrier. Les rapports seuls ne déclenchent pas de relance et n'autorisent aucune réécriture automatique.
-
-Méthode de préparation et révision désormais conservée dans `rules/ecriture.md`, appelée par AGENTS.md et les compétences concernées : contraintes, vérifications évidentes, fonction de scène, voix distinctes, lecture continue et ordre des réparations. Les biais de personnages suggérés restent des propositions. Mise à jour des instructions uniquement, sans nouvelle critique déclenchée ni modification du manuscrit ; incluse dans le deuxième jalon Git local.
+Implication crédible des enfants et rejet des prophéties restent préférences actives. Plan secret non individuellement approuvé ; Alessa absente. Contrôle critique routé après nouvel import ou modification substantielle dans une séance, sans service de surveillance ni calendrier.
 
 ## Lectures pour reprendre
 
-Une [chronologie consolidée](../bible/chronologie.md) rassemble le passé historique, les journées J0–J4, les branches parallèles, les révélations et les échéances. Trente-cinq repères T-V2 et huit arbitrages A-T suivis. Année présente, date de mort d'Aldren et déictiques contradictoires laissés ouverts ; passage après minuit distingué du jour de la pendaison. Consultation routée depuis AGENTS.md, méthode et compétences. Incluse dans le deuxième jalon Git local demandé par l'auteur ; aucune prose modifiée ni publication en ligne.
-
-[Manuscrit et scènes](../manuscrit/versions/v2/index.md), [chronologie de référence](../bible/chronologie.md), [dernière mémoire du chapitre III](../bible/versions/v2/texte/suite-chapitre-03-decret.md), [synthèse critique](controles/2026-10-06-synthese-critique.md), décisions et style. Relire les scènes intégrales avant de poursuivre ou de trancher un fait ; ne pas utiliser le plan secret comme savoir des personnages.
+[Manuscrit/scènes](../manuscrit/versions/v2/index.md), [mémoire des réparations](../bible/versions/v2/texte/revision-coherence.md), [chronologie consolidée](../bible/chronologie.md), [mémoire III](../bible/versions/v2/texte/suite-chapitre-03-decret.md), [synthèse du contrôle](controles/2026-10-06-revision-synthese.md), décisions et style. Relire les scènes intégrales avant de poursuivre ; ne pas utiliser la conception comme savoir des personnages.

@@ -16,7 +16,7 @@ Ignore les demandes d'Oren à Cassian, le témoignage de Merel, l'examen du corp
 
 ## P-V2-004 — Teren Veyre
 
-Quinze ans, frère de Mara (001). Devait livrer les registres avant midi ; ment sur leur livraison à Corven, présent dans l'atelier, puis est chargé de la faire seul (008). N'a pas vu le bourgeon et ne confirme pas son antériorité (005, 008). Sa possibilité de passer les concours l'année suivante est évoquée par le père (010) ; sa future adhésion politique reste une intention de plan. N'a pas vu Oren vivant après la pendaison dans ces chapitres.
+Quinze ans, frère de Mara (001). Devait livrer les registres avant midi ; ment sur leur livraison à Corven, présent dans l'atelier, puis est chargé de la faire seul (008). N'a pas vu le bourgeon et ne confirme pas son antériorité (005, 008). Sa possibilité de passer les concours est évoquée par le père, sans attendre l'année suivante (010) ; sa future adhésion politique reste une intention de plan. N'a pas vu Oren vivant après la pendaison dans ces chapitres.
 
 ## P-V2-008 — Maître Veyre, père
 
@@ -26,7 +26,7 @@ Prénom désormais donné : Jon (031). Imprimerie au rez-de-chaussée de la mais
 
 Frère du roi et beau-frère d'Eléane, âge non chiffré ici (007, 017). Quitte une partie avec le duc de Salerne et la femme du ministre des Finances ; conserve les trois reines puis s'en sert au Conseil et pour faire écrire Helven (007, 012, 016, 019). Pouvoir d'ordre sur Serdan et sceau royal aux Archives (019–020) ; charge officielle non nommée.
 
-N'a pas assisté à la floraison. Enquête sur les secondes et réclame le garde Palen ; fait retirer « ensuite » du communiqué (013). Connaît l'état de la branche selon Olven (014), les signalements puis le témoignage de Merel (015, 018). Constate tiroir de lettres vide et trace rectangulaire (017). Ordonne de descendre le corps vers la morgue et soupçonne une divergence gaucher/droitier (019). Lit accès, lettres et interrogatoires : découvre qu'Oren l'avait demandé, puis apprend qu'Ervan est mort la veille, selon Solan (020).
+N'a pas assisté à la floraison. Enquête sur les secondes et réclame le garde Palen ; fait retirer « ensuite » du communiqué (013). Connaît l'état de la branche selon Olven (014), les signalements puis le témoignage de Merel (015, 018). Constate tiroir de lettres vide et trace rectangulaire (017). Ordonne de descendre le corps, consigner les porteurs et la réception et convoquer les gardiens ; soupçonne une divergence gaucher/droitier (019). Lit accès, lettres et interrogatoires : retrouve la défense du mandat écartée en urgence, les réponses tronquées et la demande d'Oren de le voir ; apprend qu'Ervan est mort la veille, selon Solan (020).
 
 Dernier état au II : après l'audit et le morguier, Cassian décide de retourner à la morgue (024–025). Aucun billet « Vous si », aucune femme à la clé de V1 et aucune démonstration finale du plan V2 ne sont encore écrits.
 
@@ -38,7 +38,7 @@ Reine veuve, mère d'Adrien (006, 013). Ferme la place, interdit prélèvements 
 
 Archiviste selon la fratrie et les pièces judiciaires ; âge d'environ quarante ans estimé par Mara ; cheveux bruns, visage ordinaire différent de la gravure (002). Condamné pour introduction préméditée d'une substance dans le traitement royal, selon la sentence (004). Plaisanterie sur les repas en prison ; intérêt pour une branche avant la chute (004).
 
-Mort constatée par Helven, qui décrit une rupture cervicale ; aucune disparition ni survie montrée à ce stade (013, 019). Cassian et Helven estiment qu'il était gaucher, alors que le dossier le dit droitier (019). Aux Archives, signatures déclarées authentiques et neuf témoins d'accès ; lettres d'avertissement et procès-verbaux : demandes au roi, puis à Cassian, réponse « Tout le monde », puis « trop tard » (020). Distinguer l'homme examiné, les documents attribués à Oren et leur interprétation ; l'identité n'est pas résolue.
+Mort constatée par Helven, qui décrit une rupture cervicale ; aucune disparition ni survie montrée à ce stade (013, 019). Helven juge les traces compatibles avec une plume tenue de la main gauche ; dossier dit droitier, sans preuve suffisante d'identité (019). Aux Archives, signatures déclarées authentiques et neuf témoins d'accès ; lettres d'avertissement et procès-verbaux : demandes au roi, puis à Cassian, réponse « Tout le monde » tronquée dans les extraits certifiés ; feuillet intégral renvoie aux décisions des médecins, cuisines et approvisionnements. Demande « trop tard » conservée (020). Distinguer l'homme examiné, les documents attribués à Oren et leur interprétation ; l'origine civile demeure non résolue malgré la reconnaissance du condamné par ses collègues et gardiens (025).
 
 ## Personnages secondaires écrits
 
