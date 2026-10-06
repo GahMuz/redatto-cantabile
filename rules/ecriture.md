@@ -14,6 +14,18 @@ Ne pas inventer rétroactivement une institution, un empêchement ou une connais
 
 ## Donner une fonction dramatique à la scène
 
+### Proposer les directions avant de rédiger
+
+L'auteur demande plusieurs alternatives avant chaque nouvelle scène pour choisir celle qui lui plaît. Après la lecture du contexte, proposer normalement trois ou quatre pistes, identifiées et titrées, avec un résumé de quelques phrases chacune. Exposer ce qui se passe et ce que cette direction apporte, sans rédiger déjà la scène ni imposer le formulaire de préparation à l'auteur.
+
+Chercher une vraie diversité : personnages ou points de vue, lieux, conflit, registre, proximité avec l'intrigue actuelle et conséquences peuvent différer fortement. Une scène familiale, une manœuvre politique et un événement ailleurs dans le monde peuvent être des options concurrentes ; trois façons d'obtenir le même dossier ne suffisent pas à cette demande. Ne pas forcer ces exemples comme catégories obligatoires.
+
+Les alternatives restent compatibles avec les faits établis, ou signalent clairement les éléments qu'il faudrait réviser pour les rendre possibles. Elles sont des propositions : ne pas les ajouter comme faits dans la chronologie ou les fiches. Le plan secret n'oblige pas à choisir une direction particulière.
+
+Attendre le choix de l'auteur avant la prose et les modifications narratives. Il peut sélectionner, combiner, modifier ou refuser les pistes. Ne pas choisir à sa place parce qu'il ne répond pas ; un « go » ambigu après plusieurs options ne désigne pas automatiquement la première. Une fois la direction choisie, la rédiger dans le périmètre demandé sans demander une nouvelle approbation de routine. Ne pas refaire le choix à chaque fragment de cette même scène. Respecter une demande explicite de rédiger directement sans alternatives.
+
+### Préparer la direction retenue
+
 Avant rédaction, formuler brièvement pour le travail interne : qui veut quoi maintenant, ce qui lui résiste, le choix ou changement auquel la scène conduit, et ses conséquences. Une découverte documentaire devient dramatique lorsqu'elle modifie aussi une possibilité d'action, une relation, un avantage, une exposition ou un délai.
 
 Ne pas transformer cette préparation en gabarit visible dans la prose. Une scène de repos, de deuil, de quotidien ou de contemplation peut avoir une fonction sensible ou relationnelle sans produire un retournement. Ne pas forcer une perte spectaculaire à chaque scène ; surveiller plutôt les succès sans coût et les refus qui deviennent systématiquement des aides.

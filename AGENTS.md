@@ -27,6 +27,8 @@ Ces chemins sont un routage explicite depuis AGENTS.md. Ne pas prétendre que le
 
 Avant d'écrire ou de critiquer, lire `rules/ecriture.md` : contraintes et vérifications ordinaires avant révélations, fonction dramatique des scènes, intelligences et voix distinctes, lecture des chapitres assemblés et révision dans l'ordre des dépendances. Cette référence contient la méthode ; les compétences organisent son application et le suivi. Préserver les réactions précises de l'auteur et les réussites du texte. Les propositions de biais des personnages restent à choisir, pas à intégrer comme faits. Une demande « la suite » n'oblige pas à fabriquer une nouvelle chute.
 
+Avant de rédiger une nouvelle scène, proposer à l'auteur plusieurs directions réellement différentes avec de courts résumés, puis attendre son choix. Elles peuvent changer de personnage, de lieu, de registre ou d'enjeu ; ne pas se limiter à de petites variantes du même événement. L'auteur peut combiner les pistes ou en demander d'autres. Une direction déjà choisie n'a pas à être remise en sélection à chaque fragment ; une demande explicite de rédaction directe peut déroger à cette étape.
+
 ## Autorité et incertitudes
 
 Les consignes actuelles de l'auteur priment. Une décision explicite peut rendre le manuscrit obsolète : signaler alors les passages à mettre en accord. Pour décrire ce qui est actuellement écrit, les chapitres actifs priment sur les fiches dérivées. Une contradiction entre décision et texte doit rester visible jusqu'à sa résolution.

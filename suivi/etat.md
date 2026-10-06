@@ -22,6 +22,10 @@ Cassian reste à l'état de la fin II et des rapports indirects du début III. C
 
 ## Points ouverts et prochaine étape
 
+Consigne de travail la plus récente (D-014) : avant toute nouvelle scène, proposer plusieurs directions vraiment différentes, avec de courts résumés, puis attendre le choix de l'auteur. Possibilité de combiner ou de demander d'autres pistes. Une direction déjà choisie peut être poursuivie ; rédaction directe possible sur demande explicite. Consigne enregistrée dans AGENTS.md, méthode et compétence, incluse dans le troisième jalon Git local demandé par l'auteur ; aucun texte narratif modifié.
+
+La demande suivante porte sur les réparations des incohérences : quatorze groupes d'alternatives et deux corrections locales proposés dans ce chat. Aucun choix reçu à ce stade, aucune solution appliquée. Le commit des consignes ne valide pas ces propositions narratives.
+
 Importer la suite après « O » et les retours de l'auteur ; ne pas produire automatiquement une continuation pendant cette collecte. Nouveaux fils : recommandation non appliquée, recevabilité du document, autonomie de Teren, expéditeur de l'enveloppe, 108 dossiers et modèle du portrait.
 
 Dates historiques contradictoires (53 + 17 contre 59 + 7, naissance de Teren en 62), durée jusqu'à majorité et emploi de « hier » à revoir. Notes antérieures sur les graffitis toujours ouvertes. Aucune correction de prose effectuée.

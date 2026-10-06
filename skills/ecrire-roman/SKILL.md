@@ -21,6 +21,8 @@ Si le texte n'est pas encore importé, ne pas inventer la suite en prétendant r
 
 ## Écrire dans le périmètre demandé
 
+Pour une nouvelle scène, présenter d'abord les alternatives courtes et réellement divergentes selon la méthode commune, puis attendre le choix de l'auteur. Cette étape précède la rédaction et toute modification du manuscrit ; les idées non retenues ne deviennent pas des faits du roman. Si la direction est déjà choisie, poursuivre son exécution sans relancer la sélection à chaque réponse. Une demande explicite de rédaction directe prime.
+
 Respecter les préférences sourcées et les corrections les plus récentes. Adapter les fiches à la créativité du roman, sans imposer un plan ou faire de chaque détail une promesse. Marquer une nouvelle version comme brouillon tant que l'auteur ne l'a pas retenue. Lors d'une réécriture importante, préserver la version précédente selon `AGENTS.md` et conserver les identifiants des scènes qui subsistent.
 
 Travailler dans la continuité de l'unité dramatique et relire les raccords ainsi que le chapitre assemblé après des ajouts successifs. Pour une révision substantielle, traiter les problèmes de causalité et de motivation avant le polissage, selon l'ordre de la méthode commune. Respecter une demande limitée à un passage ou à une formulation.
