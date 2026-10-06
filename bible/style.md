@@ -2,6 +2,10 @@
 
 État : préférences initiales et corrections V2 importées le 6 octobre 2026. Sources : [SRC-V1-05, E-001](../sources/v1/05-echanges.md) et [SRC-V2-04](../sources/v2/04-echanges.md). Les retours V2 priment sur les propositions incompatibles de V1.
 
+## Titre du roman
+
+**L’Arbre des Rois**, confirmé par l’auteur le 6 octobre 2026 dans le présent échange (D-022). « L’histoire sans début » désigne le projet ChatGPT d’origine, pas le titre du roman.
+
 ## Références et effets recherchés
 
 | Livre / auteur / scène | Ce que l'auteur apprécie précisément | Application possible | Source |

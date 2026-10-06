@@ -1,6 +1,6 @@
 ---
 name: ecrire-roman
-description: Écrire ou réécrire L'histoire sans début dans ce dépôt et maintenir les fiches, connaissances des personnages, chronologie et fils narratifs à partir du texte modifié.
+description: Écrire ou réécrire L’Arbre des Rois dans ce dépôt et maintenir les fiches, connaissances des personnages, chronologie et fils narratifs à partir du texte modifié.
 ---
 
 # Écrire et maintenir la mémoire

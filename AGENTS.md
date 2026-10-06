@@ -1,4 +1,4 @@
-# L'histoire sans début — consignes de travail
+# L’Arbre des Rois — consignes de travail
 
 Ce dépôt accompagne un roman en cours. Répondre en français. L'auteur garde la direction artistique ; les outils de suivi doivent servir l'écriture et accepter les réécritures.
 
@@ -25,6 +25,8 @@ Ces chemins sont un routage explicite depuis AGENTS.md. Ne pas prétendre que le
 
 ## Principes de travail littéraire
 
+Les douze repères généraux de rédaction sont conservés dans `rules/ecriture.md` : cohérence, point de vue, temps, motivations, tension, fonction des scènes, scène et résumé, dialogues, précision et rythme, préparation des dénouements, langue et réécriture. Les appliquer avec discernement ; ils n'imposent ni structure universelle ni choix artistique et restent subordonnés aux consignes de l'auteur.
+
 Avant d'écrire ou de critiquer, lire `rules/ecriture.md` : contraintes et vérifications ordinaires avant révélations, fonction dramatique des scènes, intelligences et voix distinctes, lecture des chapitres assemblés et révision dans l'ordre des dépendances. Cette référence contient la méthode ; les compétences organisent son application et le suivi. Préserver les réactions précises de l'auteur et les réussites du texte. Les propositions de biais des personnages restent à choisir, pas à intégrer comme faits. Une demande « la suite » n'oblige pas à fabriquer une nouvelle chute.
 
 Avant de rédiger une nouvelle scène, proposer à l'auteur plusieurs directions réellement différentes avec de courts résumés, puis attendre son choix. Elles peuvent changer de personnage, de lieu, de registre ou d'enjeu ; ne pas se limiter à de petites variantes du même événement. L'auteur peut combiner les pistes ou en demander d'autres. Une direction déjà choisie n'a pas à être remise en sélection à chaque fragment ; une demande explicite de rédaction directe peut déroger à cette étape.
@@ -40,6 +42,8 @@ Chaque fait de fiche doit renvoyer à sa source : chapitre et scène, ou message
 Conserver les identifiants stables des chapitres et scènes quand leur ordre change. Les sources importées et variantes abandonnées ne sont jamais utilisées comme version active par défaut. Préserver les sources brutes ; modifier le manuscrit actif uniquement dans le périmètre demandé. Pour les réécritures majeures, préserver la version précédente dans Git si elle est déjà enregistrée, sinon dans `archives/`, avec une référence dans le journal des décisions.
 
 ## Fin de séance
+
+La page `index.html` charge directement `manuscrit/index.md` et les fichiers Markdown des chapitres via `lecture/lecteur.js`. Après modification du manuscrit, maintenir l'index actif (liens, ordre et statuts) ; ne pas recopier le texte dans la page ni réintroduire une génération HTML. La présentation se modifie directement dans `index.html`. Vérifier la lecture via HTTP, notamment sous le chemin du dépôt pour GitHub Pages ; `.nojekyll` préserve les fichiers servis tels quels.
 
 Après une modification du texte, actualiser les fiches concernées, la chronologie, les fils narratifs et les index. Invalider les anciens faits dont la scène source a changé ; ne pas seulement ajouter les nouveaux. Actualiser `suivi/etat.md` avec le travail effectué, les points ouverts et les lectures nécessaires à la reprise. Distinguer clairement les fichiers modifiés et ce qui reste à vérifier.
 

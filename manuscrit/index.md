@@ -4,7 +4,7 @@ La V2 est le brouillon actif révisé selon D-015, D-016, D-017 et D-018 : trois
 
 ## Versions historiques
 
-[V1 — L'Arbre des Rois](versions/v1/index.md) : chapitres I à III, avec fins coupées dans les fichiers des chapitres II et III. Le titre reste provisoire.
+[V1 — L'Arbre des Rois](versions/v1/index.md) : chapitres I à III, avec fins coupées dans les fichiers des chapitres II et III. Le titre « L’Arbre des Rois » est confirmé par l’auteur le 6 octobre 2026 (D-022).
 
 Les [chapitres V2](versions/v2/index.md) et les [échanges de conception](../bible/versions/v2/index.md) sont reçus. Ne pas utiliser V1 comme suite de V2.
 

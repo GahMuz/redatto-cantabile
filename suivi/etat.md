@@ -43,3 +43,11 @@ Pistes 10–14 appréciées et consignées dans la mémoire D-016 ; D-018 retien
 ## Lectures pour reprendre
 
 [Manuscrit/scènes](../manuscrit/versions/v2/index.md), [mémoire des réparations](../bible/versions/v2/texte/revision-calendrier-bourgeon.md), [chronologie consolidée](../bible/chronologie.md), [mémoire III](../bible/versions/v2/texte/suite-chapitre-03-decret.md), [synthèse du contrôle](controles/2026-10-06-calendrier-bourgeon-synthese.md), décisions et style. Relire les scènes intégrales avant de poursuivre ; ne pas utiliser la conception comme savoir des personnages.
+
+## Page de lecture et changements de main réconciliés
+
+Titre confirmé par l’auteur : **L’Arbre des Rois** (D-022, ancien D-017 de main), enregistré dans `6bb3fbd`. Les douze repères de rédaction ajoutés par `a9d21a8` restent actifs (D-020). La page initiale (D-021) a été remplacée dans `ba120a0` par le chargement direct des Markdown (D-023).
+
+`index.html` charge `manuscrit/index.md`, puis les fichiers des chapitres via `lecture/lecteur.js`, sans copie de prose ni génération HTML. Maintenir les liens, l’ordre et les statuts de l’index ; `.nojekyll` préserve les fichiers pour GitHub Pages. Adresse de lecture fournie par l’auteur conservée en tête de ce fichier. Les vérifications Chromium de cette page sont documentées dans le commit de main ; ne pas les présenter comme réalisées à nouveau lors de la fusion.
+
+Vérification de la réconciliation avant fusion : Chromium via HTTP sous `/redatto-cantabile/`, trois chapitres chargés depuis les Markdown actuels, navigation et rendu conformes, âges corrigés, motif collectif et fin « O » vérifiés. Aucun texte narratif changé lors de la fusion.

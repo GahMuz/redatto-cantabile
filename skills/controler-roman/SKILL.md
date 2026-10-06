@@ -1,6 +1,6 @@
 ---
 name: controler-roman
-description: Relire L'histoire sans début pour contrôler continuité, connaissances, chronologie, indices et préférences stylistiques, ou analyser les conséquences d'une réécriture, avec un rapport sourcé.
+description: Relire L’Arbre des Rois pour contrôler continuité, connaissances, chronologie, indices et préférences stylistiques, ou analyser les conséquences d'une réécriture, avec un rapport sourcé.
 ---
 
 # Contrôler le roman

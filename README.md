@@ -1,4 +1,4 @@
-# L'histoire sans début
+# L’Arbre des Rois
 
 Un atelier d'écriture pour conserver le texte du roman, les choix de l'auteur et une mémoire consultable au fil des chapitres.
 
@@ -32,6 +32,22 @@ Le projet ChatGPT « l'histoire sans debut » et son chat « Écrire un roman fa
 Demande possible : « Importe le chat Écrire un roman fantasy intrigues. Conserve les échanges bruts, retrouve mes préférences et les dernières versions des chapitres, puis signale les choix de version incertains. »
 
 La dernière proposition d'un assistant n'est pas nécessairement ta version préférée. L'import sépare donc le texte, les décisions explicites et les variantes dont le statut reste incertain. Il peut avancer sans attendre sur tout ce qui est établi.
+
+## Lire dans un navigateur
+
+[index.html](index.html) charge directement `manuscrit/index.md` pour construire le sommaire, puis le fichier Markdown du chapitre sélectionné. Le texte reste uniquement dans `manuscrit/versions/…/chapitre-….md` : aucune copie des chapitres n'est intégrée à la page et aucune génération n'est nécessaire après une modification. Les fichiers sont demandés sans cache navigateur à chaque ouverture de chapitre ; après une modification de l'index, recharger la page pour actualiser le sommaire.
+
+La lecture propose une navigation précédent/suivant, une taille de texte réglable et un mode sombre. Le statut de chaque chapitre est affiché, notamment la fin coupée du chapitre III. Seuls les chapitres référencés dans l'index actif sont chargés. `lecture/lecteur.js` assure le chargement et rend les paragraphes, emphases et séparateurs utilisés dans le manuscrit, sans dépendance externe. La présentation se modifie directement dans `index.html`.
+
+Ouvrir la page via GitHub Pages ou un serveur HTTP local. Depuis la racine du dépôt :
+
+```sh
+python3 -m http.server 8000
+```
+
+Puis consulter <http://localhost:8000/>. Le double-clic sur `index.html` (`file://`) ne convient pas au chargement des fichiers Markdown ; un message l'indique. JavaScript est nécessaire à la lecture ; un lien vers l'index Markdown reste disponible s'il est désactivé.
+
+Le fichier `.nojekyll` permet à GitHub Pages de servir les fichiers du dépôt tels quels. L'activation de GitHub Pages reste à effectuer ; après publication, les modifications envoyées sur GitHub seront disponibles une fois son déploiement terminé.
 
 ## Écrire et réécrire
 

@@ -5,7 +5,7 @@
 | D-001 | 2026-10-06, échange initial d'origine non daté | Fantasy avec intrigues et manigances ; références et effets appréciés | Intention explicite ; évolutive | SRC-V1-05, E-001 | — | bible/style.md | Préférences initiales extraites |
 | D-002 | 2026-10-06 | L'ensemble fourni est la V1 | Retenu, statut de version explicite | SRC-V1-05, E-005 | — | manuscrit/versions/v1 ; bible/versions/v1 | V1 conservée séparément ; version actuelle non désignée |
 
-Le titre « L'Arbre des Rois », le nombre de tomes, la survie ou non d'Oren et les grandes solutions des mystères ne font pas l'objet d'une décision explicite de l'auteur dans les échanges reçus. Les choix de l'assistant restent associés à leur version et à leur source.
+Le titre « L’Arbre des Rois » est désormais confirmé par l’auteur (D-022). Le nombre de tomes, la survie ou non d’Oren et les grandes solutions des mystères ne font pas l’objet d’une décision explicite de l’auteur dans les échanges reçus. Les choix de l'assistant restent associés à leur version et à leur source.
 
 Statuts : retenu, proposé, abandonné, remplacé, à clarifier. Une décision remplacée garde sa trace mais cesse d'être une consigne active. Si une décision retenue contredit le texte actuel, noter les passages à réviser et l'état de leur mise en accord.
 
@@ -56,3 +56,16 @@ D-018 — 6 octobre 2026 : l’auteur sélectionne explicitement 14A, « Le moti
 
 
 D-019 — 6 octobre 2026 : l’auteur demande de retenir l’adresse permettant de lire le roman : [https://gahmuz.github.io/redatto-cantabile/](https://gahmuz.github.io/redatto-cantabile/). Adresse conservée dans README.md et suivi/etat.md pour les prochaines séances et les liens de lecture. Aucune modification du manuscrit ni publication déclenchée par cette demande.
+
+
+## Décisions de la branche principale réconciliées à la fusion
+
+Les identifiants D-015 à D-018 utilisés indépendamment sur `main` ont été renommés D-020 à D-023 pour éviter les collisions avec les décisions de révision. Leur contenu et leurs références Git sont conservés ; les anciens identifiants restent visibles dans l’historique.
+
+D-020 — 6 octobre 2026, demande de l'auteur dans le présent échange : « tu as acces au repository ajoute cela au agents.md ou ailleurs si c'est plus adapté », après la liste des douze règles générales de rédaction d'un roman. Repères ajoutés dans `rules/ecriture.md`, avec un rappel dans AGENTS.md. Conseils souples de préparation et de relecture, soumis aux choix artistiques et aux consignes de l'auteur ; aucun plan, dénouement ou fait narratif décidé. Aucun manuscrit modifié.
+
+D-021 — Implémentation initiale remplacée par D-023 pour le mode de chargement. 6 octobre 2026, demande de l'auteur dans le présent échange : prévoir une page `index.html` permettant de lire les chapitres. Copie HTML autonome créée à partir de l'index actif, avec sommaire, navigation, taille réglable et mode sombre. Génération locale par `outils/generer_lecture.py` et modèle `lecture/modele.html`, mise à jour routée dans AGENTS.md. Aucune prose réécrite ni publication en ligne.
+
+D-022 — 6 octobre 2026, correction explicite de l’auteur dans le présent échange : « le titre c'est l'arbre des rois pas l'histoire sans debut ». Titre retenu : **L’Arbre des Rois**. Présentation du dépôt, page de lecture, index actif et descriptions des procédures mis en accord. L’ancien nom du projet ChatGPT reste une référence historique de provenance ; aucun texte narratif modifié.
+
+D-023 — 6 octobre 2026, correction explicite de l’auteur : `index.html` doit lire les fichiers Markdown des chapitres au lieu d’en recopier le contenu pour éviter les problèmes de synchronisation. Remplace la génération de D-021 : chargement direct de `manuscrit/index.md`, puis des chapitres qu’il référence, avec requêtes sans cache navigateur. Suppression du générateur et du modèle dupliqué ; lecture via HTTP (GitHub Pages ou serveur local). `.nojekyll` ajouté pour servir les sources telles quelles. Aucun manuscrit modifié.

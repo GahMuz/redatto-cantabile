@@ -1,6 +1,6 @@
 ---
 name: importer-roman
-description: Importer des échanges et chapitres de L'histoire sans début dans ce dépôt, retrouver les décisions de l'auteur et séparer versions actives, variantes et incertitudes.
+description: Importer des échanges et chapitres de L’Arbre des Rois dans ce dépôt, retrouver les décisions de l'auteur et séparer versions actives, variantes et incertitudes.
 ---
 
 # Importer le roman
