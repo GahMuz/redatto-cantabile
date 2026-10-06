@@ -1,4 +1,4 @@
-# L'histoire sans début — consignes de travail
+# L’Arbre des Rois — consignes de travail
 
 Ce dépôt accompagne un roman en cours. Répondre en français. L'auteur garde la direction artistique ; les outils de suivi doivent servir l'écriture et accepter les réécritures.
 

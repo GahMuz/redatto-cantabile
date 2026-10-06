@@ -22,6 +22,8 @@ Cassian reste à l'état de la fin II et des rapports indirects du début III. C
 
 ## Points ouverts et prochaine étape
 
+Titre confirmé par l’auteur : **L’Arbre des Rois** (D-017). Page de lecture et présentation du dépôt corrigées ; ancien nom du projet conservé seulement comme provenance historique. Aucun manuscrit modifié. Correction à enregistrer et envoyer sur GitHub avec le jalon « Corriger le titre du roman en L’Arbre des Rois ».
+
 L'auteur demande maintenant l'envoi des ajouts D-015 et D-016 sur GitHub. Ils sont regroupés dans le jalon « Ajouter les repères de rédaction et la page de lecture ». Cette synchronisation du dépôt ne configure pas GitHub Pages ; l'affichage public de la page reste à mettre en place.
 
 Page de lecture demandée (D-016) : `index.html` présente les trois chapitres actifs et leurs statuts, avec sommaire, navigation, réglage de taille et mode sombre. Générateur `outils/generer_lecture.py`, modèle `lecture/modele.html`, documentation README et régénération routée dans AGENTS.md. Contrôles Chromium : texte conforme aux sources, navigation, fin « O » préservée, réglages, largeur mobile et accès sans JavaScript. Le contenu HTML a été testé dans le navigateur ; l'ouverture directe en `file://` est bloquée par la politique de ce navigateur de test. Aucun manuscrit modifié, aucune nouvelle critique déclenchée, aucun commit ni publication.

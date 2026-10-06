@@ -5,7 +5,7 @@
 | D-001 | 2026-10-06, échange initial d'origine non daté | Fantasy avec intrigues et manigances ; références et effets appréciés | Intention explicite ; évolutive | SRC-V1-05, E-001 | — | bible/style.md | Préférences initiales extraites |
 | D-002 | 2026-10-06 | L'ensemble fourni est la V1 | Retenu, statut de version explicite | SRC-V1-05, E-005 | — | manuscrit/versions/v1 ; bible/versions/v1 | V1 conservée séparément ; version actuelle non désignée |
 
-Le titre « L'Arbre des Rois », le nombre de tomes, la survie ou non d'Oren et les grandes solutions des mystères ne font pas l'objet d'une décision explicite de l'auteur dans les échanges reçus. Les choix de l'assistant restent associés à leur version et à leur source.
+Le titre « L’Arbre des Rois » est désormais confirmé par l’auteur (D-017). Le nombre de tomes, la survie ou non d’Oren et les grandes solutions des mystères ne font pas l’objet d’une décision explicite de l’auteur dans les échanges reçus. Les choix de l'assistant restent associés à leur version et à leur source.
 
 Statuts : retenu, proposé, abandonné, remplacé, à clarifier. Une décision remplacée garde sa trace mais cesse d'être une consigne active. Si une décision retenue contredit le texte actuel, noter les passages à réviser et l'état de leur mise en accord.
 
@@ -45,3 +45,5 @@ D-014 — 6 octobre 2026, consigne explicite de l'auteur : avant d'écrire une n
 D-015 — 6 octobre 2026, demande de l'auteur dans le présent échange : « tu as acces au repository ajoute cela au agents.md ou ailleurs si c'est plus adapté », après la liste des douze règles générales de rédaction d'un roman. Repères ajoutés dans `rules/ecriture.md`, avec un rappel dans AGENTS.md. Conseils souples de préparation et de relecture, soumis aux choix artistiques et aux consignes de l'auteur ; aucun plan, dénouement ou fait narratif décidé. Aucun manuscrit modifié.
 
 D-016 — 6 octobre 2026, demande de l'auteur dans le présent échange : prévoir une page `index.html` permettant de lire les chapitres. Copie HTML autonome créée à partir de l'index actif, avec sommaire, navigation, taille réglable et mode sombre. Génération locale par `outils/generer_lecture.py` et modèle `lecture/modele.html`, mise à jour routée dans AGENTS.md. Aucune prose réécrite ni publication en ligne.
+
+D-017 — 6 octobre 2026, correction explicite de l’auteur dans le présent échange : « le titre c'est l'arbre des rois pas l'histoire sans debut ». Titre retenu : **L’Arbre des Rois**. Présentation du dépôt, page de lecture, index actif et descriptions des procédures mis en accord. L’ancien nom du projet ChatGPT reste une référence historique de provenance ; aucun texte narratif modifié.
