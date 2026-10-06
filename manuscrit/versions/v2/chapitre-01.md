@@ -150,7 +150,7 @@ La foule se contracta.
 
 Mara fut poussée contre Teren.
 
-Des gardes apparurent sous l'arche du palais.
+Des gardes débouchèrent sur la place.
 
 Douze hommes.
 
@@ -652,179 +652,83 @@ Le capitaine acquiesça.
 
 Eléane soupira.
 
-— Probablement là où il ne devrait pas être.
+— À la prison. Il voulait encore voir Oren.
 
 ***
 
-Cassian Orme se trouvait effectivement là où il ne devait pas être.
+Cassian Orme attendait dans le vestibule de la prison.
 
-Dans la poche de son manteau, il avait un refus d'entretien avec Oren Vale.
+Sur la table, son refus d'entretien avec Oren Vale portait la marque de son sceau. Il l'avait reçu ce matin, renvoyé, puis apporté lui-même. Le directeur l'avait fait attendre pendant qu'il vérifiait l'ordre de la Cour.
 
-Il l'avait reçu ce matin. Après le jugement, seul le prêtre pouvait encore voir le condamné. Cassian avait fait renvoyer sa demande avec son sceau. La réponse n'avait pas changé.
+Depuis la mort d'Aldren, Cassian réclamait les pièces de l'enquête. On lui avait envoyé une synthèse : une concentration mortelle de véradine, les accès d'un archiviste aux documents médicaux, neuf témoins. Il avait demandé les analyses complètes et les procès-verbaux. Le procès s'était achevé avant qu'il les reçoive.
 
-Depuis la mort d'Aldren, il réclamait les pièces de l'enquête. On lui avait envoyé une synthèse : une concentration mortelle de véradine, les accès d'un archiviste aux documents médicaux, neuf témoins. Il avait demandé les analyses complètes et les procès-verbaux. Le procès s'était achevé avant qu'il les reçoive.
+La porte intérieure s'ouvrit.
 
-Il avait essayé d'obtenir du temps. La condamnation avait tenu lieu de réponse.
+Le directeur posa un registre près du refus.
 
-À présent, il avait trois reines en main et la femme du ministre des Finances sur ses genoux.
+— Après le jugement, seul le prêtre était autorisé à le voir.
 
-Il considérait que l'une des deux situations était excellente.
+Cassian resta debout.
 
-L'autre allait lui coûter beaucoup d'argent.
+— Et maintenant ?
 
-— Trois cents, annonça le duc de Salerne.
+— L'escorte est partie pour la place. Il n'est plus ici.
 
-Cassian regarda ses cartes.
-
-— Cinq.
-
-— Cinq cents ?
-
-— Non. Cinq couronnes.
-
-Le duc éclata de rire.
-
-— Vous vous couchez ?
-
-— Je réfléchis.
-
-— Avec trois cartes ?
-
-— Je fais beaucoup de choses avec trois cartes.
-
-La femme sur ses genoux lui mordit l'oreille.
-
-— Certaines mieux que d'autres, murmura-t-elle.
-
-La porte s'ouvrit.
-
-Un jeune garde entra.
-
-Essoufflé.
-
-Cassian leva les yeux.
-
-— Si le palais brûle, fermez la porte. Il y a un courant d'air.
-
-— Monseigneur…
-
-— Si ma belle-sœur vous envoie, dites-lui que vous ne m'avez pas trouvé.
-
-— C'est la reine qui m'envoie.
-
-— C'est précisément ce que je viens de dire.
-
-— L'Arbre a fleuri.
-
-Cassian posa une carte.
-
-— Quel arbre ?
-
-Le garde le regarda.
-
-— L'Arbre.
-
-Cassian posa la deuxième.
-
-Puis la troisième.
-
-La femme descendit de ses genoux.
-
-— Celui de la place ?
-
-Le garde acquiesça.
-
-— Pendant l'exécution.
-
-Personne ne parla.
-
-Le duc de Salerne éclata de rire.
-
-Personne ne l'imita.
-
-Il s'arrêta.
-
-Cassian regarda ses cartes abandonnées.
+Cassian regarda la porte par laquelle l'homme venait d'entrer.
 
 — Depuis combien de temps ?
 
-— Quelques minutes.
+Le directeur lui montra l'heure inscrite au registre.
 
-— Et Oren ?
+Cassian avait été dans ce vestibule au moment du départ.
 
-— Mort.
+— Vous auriez pu me le dire.
 
-— Certain ?
+— Vous demandiez un entretien autorisé, monseigneur. Je ne pouvais pas l'accorder.
 
-Le garde hésita.
+Il poussa le refus vers lui. La réponse n'avait pas changé.
 
-Cassian leva les yeux.
+Cassian reprit le papier.
 
-— Je vous conseille de comprendre très rapidement pourquoi je viens de vous poser cette question.
+— Faites inscrire mon arrivée et l'heure de cette réponse. Sur ma demande, pas seulement dans votre registre.
 
-— Son cou s'est brisé, monseigneur.
+Le directeur hésita, puis prit sa plume. Cassian attendit qu'il ait signé.
 
-— Ce n'était pas ma question.
+Dehors, un jeune garde du palais cherchait son chemin entre les voitures arrêtées devant la prison. Il reconnut Cassian sur les marches.
 
-Le garde pâlit.
+— Monseigneur. La reine vous demande au Conseil.
 
-Cassian se leva.
+Cassian plia la feuille.
 
-— Qui contrôle la place ?
+— L'exécution est terminée ?
 
-— Le capitaine Serdan.
+— Oui.
 
-— L'Église ?
+Il ne bougea pas tout de suite. Il aurait voulu connaître la voix de cet homme autrement que par ce que les greffiers en avaient conservé.
 
-— Le patriarche était présent.
+— Il a dit quelque chose ?
 
-— Excellent.
+— Je l'ignore. On m'a envoyé vous chercher dès que l'Arbre a fleuri.
 
-Cassian attrapa son manteau.
+Cassian leva les yeux vers lui.
 
-— Pourquoi excellent ? demanda la femme.
+— L'Arbre de la place ?
 
-Il l'embrassa sur le front.
+— Oui, monseigneur. Des feuilles et des fleurs. Pendant l'exécution.
 
-— Parce que lorsqu'un phénomène inexplicable se produit devant dix mille personnes, la première chose dont on a besoin est d'un homme absolument certain de connaître l'explication.
+Les cloches commencèrent à sonner. Cassian regarda le refus dans sa main, puis le rangea à l'intérieur de son manteau.
 
-Il se dirigea vers la porte.
+— La mort a été constatée ?
 
-Le duc regarda les cartes abandonnées.
+— Le capitaine Serdan pourra vous répondre.
 
-— Vous aviez quoi ?
+— Allons le trouver.
 
-Cassian continua sans se retourner.
-
-— Trois reines.
-
-Le duc retourna les cartes.
-
-Trois reines.
-
-— Vous quittez la table avec ça ?
-
-Cassian s'arrêta sur le seuil.
-
-Il revint prendre les trois cartes sous les doigts du duc et les glissa dans sa poche.
-
-Les cloches de la capitale commencèrent à sonner.
-
-Une.
-
-Puis deux.
-
-Puis dix.
-
-Puis toutes.
-
-Il écouta quelques secondes.
-
-— Je crois que je viens d'en perdre une.
+Il descendit les marches avec le garde.
 
 ***
 
-À quatre rues de là, Mara et Teren couraient.
+Dans une autre rue, Mara et Teren couraient.
 
 Pas parce que quelqu'un les poursuivait.
 

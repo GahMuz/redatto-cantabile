@@ -24,7 +24,7 @@ Prénom désormais donné : Jon (031). Imprimerie au rez-de-chaussée de la mais
 
 ## P-V2-001 — Cassian Orme
 
-Frère du roi et beau-frère d'Eléane, âge non chiffré ici (007, 017). Quitte une partie avec le duc de Salerne et la femme du ministre des Finances ; récupère les trois reines après que le duc les retourne, puis s’en sert au Conseil et pour faire écrire Helven (007, 012, 016, 019). Pouvoir d'ordre sur Serdan et sceau royal aux Archives (019–020) ; charge officielle non nommée.
+Frère du roi et beau-frère d'Eléane, âge non chiffré ici (007, 017). Attend en prison pour renouveler sa demande d’entretien avec Oren ; apprend trop tard le départ de l’escorte et fait inscrire l’heure de la réponse. Conserve ce refus au Conseil, puis fait écrire Helven sur un feuillet vierge de son carnet (007, 012, 016, 019 ; D-033). Pouvoir d'ordre sur Serdan et sceau royal aux Archives (019–020) ; charge officielle non nommée.
 
 Depuis la mort d’Aldren, réclame les pièces et reçoit seulement une synthèse. Demande délai et entretien avec Oren ; refus reçu et renouvelé le matin J0 (007). N’a pas assisté au procès : attendait les copies, admet qu’il aurait pu venir. Après la floraison, Eléane ordonne les vérifications par la régence et signe accès aux pièces et appartements (016).
 
@@ -60,6 +60,6 @@ Mort constatée par Helven, qui décrit une rupture cervicale ; aucune dispariti
 | P-V2-020 | Directrice Solan | Apporte les dossiers judiciaires, décrit expertises et témoins ; rapporte la mort d'Ervan | 020 |
 | P-V2-021 | Magistrat Ervan | Dernier interrogateur selon registre ; mort hier après le roi, accident selon Solan | 020 |
 
-Duc d'Avel, duc de Salerne, ministre des Lois, ministre des Finances et son épouse : rôles écrits, noms personnels non donnés. Varos et Darien apparaissent désormais au III avec un garçon non nommé (027–029). Alessa et Lucern restent absents des passages reçus.
+Duc d'Avel et ministre des Lois : rôles écrits, noms personnels non donnés. Duc de Salerne et couple du ministre des Finances retirés du texte actif en D-033. Varos et Darien apparaissent désormais au III avec un garçon non nommé (027–029). Alessa et Lucern restent absents des passages reçus.
 
 D-028, Mara : yeux ouverts et blanc injecté de sang perçus après la pendaison (004–005) ; image intrusive distrait du bourgeon jusqu’au récit à Jon (008), revient devant les affiches et lors de sa réflexion III. Pas de regard vivant dirigé vers elle ni de preuve de survie. [Mémoire des retouches](revision-points.md).

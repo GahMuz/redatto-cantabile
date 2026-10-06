@@ -22,3 +22,5 @@ D-026 : [révision de l’enquête antérieure de Cassian](versions/v2/texte/rev
 D-028 : [retouches de lecture et connaissances actualisées](versions/v2/texte/revision-points.md), I–III révisés, III toujours fin « O ».
 
 D-031 : Oren garde le silence avant pendaison et regarde la branche (SC-004), récit de Mara raccordé (SC-036). Motivation et perception demeurent inconnues ; aucun nouveau message ou signe ajouté.
+
+D-033 : [Cassian en prison et retrait des cartes](versions/v2/texte/revision-prison.md), I–II et titre II révisés ; démarches de D-026 préservées, III inchangé.

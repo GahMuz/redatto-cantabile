@@ -5,7 +5,7 @@ Trois chapitres assemblés à partir de douze pièces, importés le 6 octobre 20
 | Identifiant | Titre / copie de lecture | Sources | Fin reçue |
 | --- | --- | --- | --- |
 | CH-V2-001 | [Le pendu](chapitre-01.md) | SRC-V2-05 + 06 | Chapitre clos selon le commentaire de l'assistant ; fin sur l’antériorité du graffiti attesté par Merel |
-| CH-V2-002 | [Trois reines](chapitre-02.md) | SRC-V2-07 + 08 + 13 + 14 | Fin « J'aimerais enfin savoir de quoi. » ; passage au III dans l'échange |
+| CH-V2-002 | [Les pièces](chapitre-02.md) | SRC-V2-07 + 08 + 13 + 14 | Fin active D-033 « Et revoir celui qu’on a pendu. » ; fin reçue conservée dans les sources |
 | CH-V2-003 | [Ce qui est écrit](chapitre-03.md) | SRC-V2-15 + 16 + 18 + 19 + 21 + 22 | Chapitre en cours ; fin coupée sur « O » |
 
 ## Raccords d'import
@@ -24,19 +24,19 @@ I : fragment terminal « — Vraiment » de la première pièce retiré au profi
 | SC-V2-004 | I : « Le prêtre leva les mains » | Condamnation, silence d’Oren face à la demande de dernières paroles, regard sur la branche et bourgeon retrouvé avant la chute |
 | SC-V2-005 | I : « Des milliers. » | Floraison et interprétations ; les enfants rentrent |
 | SC-V2-006 | I : « Sur la tribune royale » | Eléane protège la place et convoque Cassian |
-| SC-V2-007 | I : « Cassian Orme se trouvait effectivement » | Démarches antérieures et refus d’entretien reçu le matin ; jeu, trois reines et convocation |
-| SC-V2-008 | I : « À quatre rues de là » | Retour à l'atelier ; mensonge de Teren, Corven et récit du bourgeon |
+| SC-V2-007 | I : « Cassian Orme attendait dans le vestibule » | Démarches antérieures, dernier refus en prison après départ de l’escorte, réponse datée et convocation après floraison |
+| SC-V2-008 | I : « Dans une autre rue » | Retour à l'atelier ; mensonge de Teren, Corven et récit du bourgeon |
 | SC-V2-009 | I : « L'imprimerie des Veyre » | Rappel annoncé, bon comptable ouvert lundi, validation du titre inconnue/épreuve absente ; arrestation mardi et peur du père |
 | SC-V2-010 | I : « Puis on frappa à la porte » | Rappel après intervalle ; bon gardé par Jon, manquant consigné puis brûlé ; protection familiale |
 | SC-V2-011 | I : « À la tombée de la nuit » | Propagation au soir, cinq mots ; inscription vue par Merel avant l’aube, plus ancienne attestée |
-| SC-V2-012 | II : « Cassian Orme arriva au palais » | Palais agité et gardes supplémentaires |
+| SC-V2-012 | II : « Cassian Orme arriva au palais » | Palais agité, gardes supplémentaires et refus d’entretien annoté par le directeur |
 | SC-V2-013 | II : « Ils étaient neuf » | Conseil, branche coupée, horaires, témoignages divergents et rumeurs |
 | SC-V2-014 | II : « La porte s'ouvrit » | Olven examine la branche ; elle est vivante, origine non expliquée |
 | SC-V2-015 | II : « Un secrétaire entra » | Onze inscriptions ; première signalée à 12 h 17 |
 | SC-V2-016 | II : « Le Conseil dura encore deux heures » | Régence, couronnement dans quatorze jours ; démarches antérieures de Cassian, absence au procès, autorisations nouvelles |
 | SC-V2-017 | II : « Il commença par les appartements » | Lettres manquantes, trace rectangulaire, interruption de Serdan |
 | SC-V2-018 | II : « Le mur se trouvait » | Merel dit avoir vu un écrivain avant l'aube ; estimation 4 h 45 et odeur d'encre |
-| SC-V2-019 | II : « Ils marchèrent jusqu'à l'échafaud » | Corps descendu sur ordre de Cassian ; Helven ; traces de plume à gauche, porteurs consignés et gardiens convoqués |
+| SC-V2-019 | II : « Ils marchèrent jusqu'à l'échafaud » | Corps descendu sur ordre de Cassian ; Helven ; écriture sur feuillet du carnet, traces de plume à gauche, porteurs consignés et gardiens convoqués |
 | SC-V2-020 | II : « Les Archives judiciaires occupaient » | Solan, confrontation de la synthèse aux originaux ; neuf témoins déjà connus, mandat écarté, feuillets tronqués, appels à Cassian et Ervan mort |
 
 Ces repères suivent les transitions du texte sans insérer d'ancres dans la prose. La [mémoire du texte V2](../../../bible/versions/v2/texte/personnages.md) les utilise comme sources. Voir également les [points repérés à l'import](../../../suivi/controles/2026-10-06-import-v2.md).
@@ -88,3 +88,5 @@ Ces repères suivent les transitions du texte sans insérer d'ancres dans la pro
 D-026 : [révision de l’enquête antérieure de Cassian](../../../bible/versions/v2/texte/revision-cassian.md), scènes 007, 016, 020, 022 ; modalités nouvelles au statut brouillon. III inchangé.
 
 D-028 : [retouches de lecture et connaissances actualisées](../../../bible/versions/v2/texte/revision-points.md), I–III révisés, III toujours fin « O ».
+
+D-033 : [dernier refus en prison](../../../bible/versions/v2/texte/revision-prison.md), motif des cartes retiré I–II et titre II « Les pièces » ; III inchangé.
