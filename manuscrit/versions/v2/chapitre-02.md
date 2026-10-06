@@ -322,19 +322,13 @@ Cassian sourit.
 
 — Enfin quelque chose de normal.
 
-— Deux disent que les feuilles sont apparues après la chute. Un dit au moment de la chute. Deux ne savent pas. Le dernier affirme que l'Arbre avait déjà commencé à changer.
+— Deux disent que les feuilles sont apparues après la chute. Un dit au moment de la chute. Les trois autres regardaient le condamné ; ils ne peuvent pas dater le début.
 
-Le sourire de Cassian disparut.
+Cassian regarda la branche.
 
-— Avant ?
+— Aucun ne suivait l'Arbre pendant l'attente ?
 
-— Il n'est pas certain.
-
-— Qui est-ce ?
-
-— Garde Palen.
-
-— Je veux lui parler.
+— Aucun des six.
 
 Severin soupira.
 
@@ -494,7 +488,7 @@ Elle le regarda.
 
 — Pourquoi ?
 
-— Nous venons précisément d'apprendre que nous ne savons pas si c'était ensuite.
+— Nous savons quand la trappe s'est ouverte. Vos témoins n'ont pas daté le début de la floraison. Ne donnons pas à notre phrase plus de précision qu'à leurs rapports.
 
 Silence.
 
@@ -2870,11 +2864,7 @@ Impardonnable.
 
 — Combien ?
 
-— Six unités.
-
-— Vous êtes certain ?
-
-— Oui.
+— Six les deux derniers jours. Sept avant, selon la prescription d'Halden. Je peux vous montrer la date de réduction.
 
 — Vous prépariez vous-même la dose ?
 
@@ -2898,7 +2888,7 @@ Venn hésita.
 
 — Oui.
 
-— Et cela vous permet de mesurer six unités ?
+— Et cela vous permet de vérifier la quantité inscrite ?
 
 — La préparation est dosée à l'avance.
 
@@ -2910,25 +2900,25 @@ Venn inspira.
 
 — Chaque semaine, l'apothicaire prépare sept flacons. Un par jour. Je vérifie le sceau et l'étiquette. Le roi boit le contenu.
 
-— Donc vous ne savez absolument pas combien il y avait dedans.
+— Donc vous n'avez pas mesuré ce qu'il buvait.
 
-— Je fais confiance à l'apothicaire.
+— Non. J'ai contrôlé les flacons préparés sur ordonnance. Si la préparation était fausse, je ne l'aurais pas vue.
 
-— L'apothicaire ?
+Cassian prit une feuille.
 
-— Fait confiance à l'ordonnance.
+— L'apothicaire me donnera son registre de préparation, les pesées, les lots et le nom de celui qui a dosé chaque série. Faites garder les flacons restants et les récipients, même vides. Personne ne jette rien.
 
-— L'ordonnance ?
+— Il faudra analyser une préparation du même lot, dit Venn. Les flacons ne suffisent pas sans leur provenance.
 
-— Au médecin.
+Cassian ajouta la remarque à sa demande et la remit au secrétaire devant la porte.
 
-Cassian sourit.
+— À porter maintenant. Je veux un reçu et ce qu'ils peuvent effectivement conserver.
 
-— Nous avançons.
+Venn attendit que le secrétaire parte.
 
-— Je ne comprends pas.
+— Les doses administrées doivent aussi être comparées au poids du roi et aux autres médicaments. J'ai demandé ce rapprochement après sa mort ; l'analyse a été versée au procès avant que j'aie une réponse.
 
-— Moi non plus. C'est encourageant.
+Cassian rapprocha sa chaise.
 
 Il ouvrit le dossier.
 
@@ -2936,21 +2926,15 @@ Il ouvrit le dossier.
 
 Venn regarda la page.
 
-— Personne.
+— Maître Halden, avant son départ. Une augmentation temporaire.
 
-— Ici.
-
-Cassian lui montra une ligne.
+Cassian lui montra la ligne.
 
 **Véradine : 6 → 7 unités.**
 
-Venn fronça les sourcils.
+— C'est bien ce que vous avez donné pendant une partie de son absence ?
 
-— Ce n'est pas une modification.
-
-— Je possède une compréhension limitée des nombres, mais sept me semble différent de six.
-
-— C'est une correction temporaire.
+— Oui. Puis j'ai réduit. Les deux prescriptions portent leur date.
 
 — Demandée par qui ?
 
@@ -2980,23 +2964,15 @@ Deux jours avant la mort.
 
 — Oui.
 
-— Sans mourir.
+— Puis vous êtes revenus à six, et il est mort deux jours après.
 
-— Oui.
+— La baisse ne retire pas ce qui s'est déjà accumulé, dit Venn. Ne me faites pas raisonner comme si chaque matin remettait le compteur à zéro.
 
-— Puis vous êtes revenus à six.
+Cassian posa un doigt sur la date de réduction.
 
-— Oui.
+— Alors expliquez-moi ce que ces deux jours permettent de conclure.
 
-— Et il est mort deux jours après.
-
-— Oui.
-
-Cassian réfléchit.
-
-— Cela ressemble à une très mauvaise façon de l'empoisonner.
-
-Venn ne répondit pas.
+— Très peu sans les préparations et les autres traitements.
 
 — Qui a demandé le retour à six ?
 
@@ -3364,15 +3340,13 @@ Cassian continua.
 
 Silence.
 
-— Aucun n'a tué le roi.
+— Aucun n'a voulu tuer le roi.
 
-Venn regarda la liste.
+Venn posa la main sur la liste.
 
-— Non.
+— Nous n'en savons rien. Et l'intention ne dit pas ce que ces décisions ont fait à son organisme. Il faut les examiner ensemble.
 
-— Mais le roi est mort.
-
-— Oui.
+Cassian ne reprit pas sa feuille tout de suite.
 
 Cassian se leva.
 
@@ -3776,83 +3750,23 @@ Il avait lui-même provoqué le premier événement de sa propre liste.
 
 Il reprit tout depuis le début.
 
-Les promenades n'étaient pas suspectes.
+En face des promenades, il écrivit le nom d'Adrien, puis le sien. Leur raison était connue. Leur effet sur Aldren ne l'était pas.
 
-Il les raya.
+Le somnifère répondait à deux mois de mauvais sommeil ; Halden avait noté l'aggravation de l'arythmie avant d'augmenter la véradine. L'appel d'offres de l'infusion remontait à quatre mois. La rotation des cuisiniers se retrouvait dans les années précédentes.
 
-Le somnifère.
+Cassian raya son titre : **Six décisions pour tuer le roi.**
 
-Prescrit par Venn.
+Il ne raya pas les décisions.
 
-Pourquoi ?
+À côté, il ouvrit une deuxième colonne : **Effets à vérifier avec Venn.** Il y reporta la perte de poids, les interactions possibles et les préparations effectivement administrées.
 
-Parce qu'Aldren dormait mal.
+À minuit, il n'avait plus de raison d'attribuer ces six changements à un organisateur unique. Il n'avait pas davantage exclu qu'un homme ait exploité l'un d'eux, ni que plusieurs aient contribué à la mort sans avoir été coordonnés.
 
-Depuis quand ?
+Le registre de préparation demandé n'était pas encore arrivé. Un reçu de l'Apothicairerie annonçait la mise à part des flacons restants et la recherche des numéros de lots ; aucune analyse de leur contenu ne lui avait été remise. Il plaça le reçu en tête de la deuxième colonne. Cette vérification aurait besoin d'autre chose que sa nuit aux Archives.
 
-Deux mois.
+Il regarda le nom d'Adrien. Demain, il faudrait lui demander les détails des promenades. Cassian n'avait aucune envie de lui poser ces questions.
 
-Donc logique.
-
-Il hésita.
-
-Puis raya.
-
-Augmentation de véradine.
-
-Demandée par Halden avant son départ.
-
-Pourquoi ?
-
-Arythmie aggravée.
-
-Documentée.
-
-Il raya.
-
-Nouvelle infusion.
-
-Appel d'offres commencé quatre mois auparavant.
-
-Il raya.
-
-Cuisinier.
-
-Restructuration saisonnière.
-
-Il chercha les années précédentes.
-
-Même rotation.
-
-Chaque année.
-
-Il raya.
-
-À minuit, sa magnifique conspiration avait disparu.
-
-Il ne restait qu'une feuille couverte de traits.
-
-Cassian la contempla.
-
-Il aurait dû être déçu.
-
-Il était ravi.
-
-Parce qu'il venait de découvrir quelque chose de beaucoup plus utile.
-
-Il pouvait construire une histoire parfaite à partir de faits exacts.
-
-Il lui avait suffi de choisir les bons.
-
-Il regarda les dizaines de dossiers autour de lui.
-
-Des milliers de décisions.
-
-Des milliers de dates.
-
-Si l'on en sélectionnait six, elles formaient un complot.
-
-Si l'on en sélectionnait six autres, elles racontaient autre chose.
+Il avait reconnu la facilité avec laquelle il construisait un récit. Cela ne lui avait pas rendu son frère.
 
 Il pensa au procès d'Oren.
 
@@ -4246,7 +4160,7 @@ Trois cartes identiques.
 
 Toutes vraies.
 
-Mais une seule pouvait se trouver dans la main qu'il croyait avoir jouée.
+Il les avait tenues ensemble. Il avait fallu les retourner pour voir à quel point elles se ressemblaient.
 
 Il en tendit une à Serdan.
 

@@ -1,6 +1,6 @@
 # Contrôles
 
-Dernier contrôle : [révision de Cassian D-026](2026-10-07-cassian-synthese.md), trois lectures indépendantes intégrales I–II et raccords finaux ciblés. RL-15 traité dans le brouillon ; RL-01–14 de la lecture générale restent ouverts. Les rapports antérieurs restent historiques.
+Dernier contrôle : [retouches D-028](2026-10-07-points-synthese.md), trois lectures indépendantes intégrales I–III et raccords finaux ciblés. Points demandés traités dans le brouillon ; voix de Commission, adversaires politiques et confirmation avant-aube restent à affiner. Les rapports antérieurs restent historiques.
 
 | Date | Rapport | Périmètre lu | Versions / état des sources | Points ouverts |
 | --- | --- | --- | --- | --- |
@@ -56,3 +56,10 @@ Les rapports proposent des corrections sans les appliquer au roman. Une observat
 | 2026-10-07 | [Synthèse](2026-10-07-cassian-synthese.md) | Trois rapports arbitrés, passages et mémoire | Aucun nouveau P1/P2 sur D-026 ; RL-01–14 ouverts |
 
 Contrôle ciblé du coordinateur après D-026 : [Palen et Mara, RL-16](2026-10-07-palen-mara.md). SC-013 et sources de l’observation relues, occurrences vérifiées ; anticipation et entretien sans suite écrite à arbitrer. Aucun chapitre modifié.
+
+| Date | Contrôle D-028 | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-07 | [Cohérence](2026-10-07-points-coherence.md) | I–III intégralement puis raccords finaux | Objets, préparations, indices et calendrier raccordés |
+| 2026-10-07 | [Fond](2026-10-07-points-fond.md) | I–III intégralement puis raccords finaux | Causes, enjeux Varos et provenance traités ; adversaires à développer |
+| 2026-10-07 | [Forme](2026-10-07-points-forme.md) | I–III intégralement puis raccords finaux | Voix différenciées et coutures traitées |
+| 2026-10-07 | [Synthèse](2026-10-07-points-synthese.md) | Trois rapports arbitrés, scènes et mémoire | Aucun nouveau P1/P2 restant établi sur D-028 |

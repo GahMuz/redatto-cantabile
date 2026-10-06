@@ -18,3 +18,5 @@ D-017 : Mara quatorze ans, Teren dix-sept ans. Le réexamen à vingt-cinq ans re
 D-018 retient 14A : motif collectif de Valdorne, concrétisé par une autre famille aux Archives (SC-045, J10). Pas d’alliance ni de signification du signe révélée ; 14B n’est plus en attente.
 
 D-026 : [révision de l’enquête antérieure de Cassian](versions/v2/texte/revision-cassian.md), scènes 007, 016, 020, 022 ; modalités nouvelles au statut brouillon. III inchangé.
+
+D-028 : [retouches de lecture et connaissances actualisées](versions/v2/texte/revision-points.md), I–III révisés, III toujours fin « O ».

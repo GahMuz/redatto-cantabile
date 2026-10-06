@@ -21,3 +21,5 @@ Créer une fiche dès que les détails du personnage doivent être suivis entre 
 [Actualisation la plus récente du chapitre III](../versions/v2/texte/suite-chapitre-03-decret.md) : scènes 033–045. Elle prime sur les anciens états pour les connaissances, documents, lieux, chronologie et fils modifiés.
 
 Révision du 6 octobre 2026 : voir [la mémoire des réparations](../versions/v2/texte/revision-calendrier-bourgeon.md). Les sources importées restent historiques.
+
+D-028 : [retouches de lecture et connaissances actualisées](../versions/v2/texte/revision-points.md), I–III révisés, III toujours fin « O ».

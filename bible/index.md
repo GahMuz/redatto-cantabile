@@ -21,3 +21,5 @@ Révision du 6 octobre 2026 : voir [la mémoire des réparations](versions/v2/te
 D-017 : âges actifs portés à quatorze ans pour Mara et dix-sept ans pour Teren ; naissance de Teren en 53, présent 70. Voir la [chronologie consolidée](chronologie.md) et les [personnages écrits](versions/v2/texte/personnages.md). Les âges des sources et plans historiques restent ceux de leur version.
 
 D-026 : [révision de l’enquête antérieure de Cassian](versions/v2/texte/revision-cassian.md), scènes 007, 016, 020, 022 ; modalités nouvelles au statut brouillon. III inchangé.
+
+D-028 : [retouches de lecture et connaissances actualisées](versions/v2/texte/revision-points.md), I–III révisés, III toujours fin « O ».

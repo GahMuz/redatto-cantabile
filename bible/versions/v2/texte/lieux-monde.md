@@ -10,8 +10,8 @@ Sources : [index des scènes](../../../../manuscrit/versions/v2/index.md). Les �
 | Arbre | Jadis utilisé pour les traîtres ; réputation de bois mort transmise par les aïeux ; fleurs blanches après la chute et bourgeon vu pendant l’attente, avant l’arrivée du prisonnier, par Mara | 001, 003–005 |
 | Branche coupée | Sur la table du Conseil, auteur du prélèvement inconnu, coupée avant l'ordre selon Serdan ; Olven constate des tissus vivants | 013–014 |
 | Imprimerie Veyre | Rez-de-chaussée de la maison, presse, casses, arrière-boutique séparée par un rideau, poêle, clochette et verrou ; clients Admissions, Service des Eaux, prières et association Saint-Avelle ; quatre rues du lieu de jeu selon transition | 008–010 |
-| Bon de commande | 20 000 affiches pour le district, gravure fournie, diffusion prioritaire ; daté lundi, écriture attribuée à Ansel ; caché puis brûlé | 009–010 |
-| Documents saisis | Affiches, rebuts, épreuves, gravure et registre annuel emportés par deux fonctionnaires | 010 |
+| Bon de commande | 20 000 affiches pour le district, gravure fournie, diffusion prioritaire ; ouverture datée lundi, validation du titre inconnue, bon à tirer absent ; écriture attribuée à Ansel, classé en comptabilité ; gardé par Jon puis brûlé (D-028) | 009–010 |
+| Documents saisis | Affiches, rebuts, épreuves, gravure et registre annuel emportés par deux fonctionnaires après rappel annoncé ; bon manquant inscrit sur attestation | 010 |
 | Conseil | Portrait d'Aldren, trône laissé vide, Eléane à côté ; décision de régence et couronnement | 013, 016 |
 | Appartements du roi | Scellés après sa mort ; deux gardes ; autorisation pour Cassian, interdiction d'emporter ; trois tiroirs dont lettres privées absentes | 017 |
 | Mur du graffiti | À moins de cent pas de l'Arbre, nettoyé avant l'enquête de Cassian ; Merel interrogé à proximité ; inscription avant l’aube attestée, première absolue inconnue | 018 |

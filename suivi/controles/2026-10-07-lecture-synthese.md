@@ -59,3 +59,5 @@ Ordre utile désormais : position et motivation de Cassian avant l’exécution 
 ## Évolution après D-026
 
 L’auteur a retenu l’enquête déjà entreprise, entravée par la rapidité de la procédure. RL-15 est traité dans le brouillon I–II, avec [contrôle ciblé](2026-10-07-cassian-synthese.md). Les preuves et alternatives ci-dessus décrivent l’état avant cette révision ; elles restent historiques. RL-01–14 demeurent ouverts.
+
+Évolution D-028 : [révision et contrôle](2026-10-07-points-synthese.md). Les preuves et propositions ci-dessus décrivent l’état antérieur ; consulter la synthèse pour les points traités et ceux encore ouverts.

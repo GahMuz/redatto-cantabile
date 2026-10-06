@@ -22,3 +22,5 @@ L’entretien absent ne prouve pas que Cassian n’a jamais interrogé Palen hor
 **B :** montrer un bref entretien qui révèle la limite de Palen : il reconstruit l’ordre après coup et ne peut nommer ce qu’il aurait vu avant. La démarche reçoit une suite ; Mara garde une observation précise et nettement antérieure. Cette piste ajoute une scène et conserve l’anticipation du doute, donc répond moins directement au souhait de l’auteur.
 
 Dépendances d’une correction : SC-013, retrait d’« ensuite », fiche Cassian/Palen, fil F-V2-T01, références aux gardes dans la chronologie. Le témoignage de Mara n’arrive pas automatiquement à Cassian : Darien puis Varos seuls le reçoivent dans les scènes écrites. Aucune transmission nouvelle proposée comme fait.
+
+Évolution D-028 : [révision et contrôle](2026-10-07-points-synthese.md). Les preuves et propositions ci-dessus décrivent l’état antérieur ; consulter la synthèse pour les points traités et ceux encore ouverts.
