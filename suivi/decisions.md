@@ -87,3 +87,6 @@ D-028 — 7 octobre 2026, demandes explicites de l’auteur : déplacer les yeux
 
 
 D-029 — 7 octobre 2026, l’auteur approuve explicitement (« ca me va ») la suppression de l’affirmation du garde et de la demande d’interrogatoire. Les gardes hésitent entre chute et après, certains n’ayant pas regardé ; aucun ne signale un début antérieur à Cassian. Choix déjà mis en œuvre en D-028 / commit 746a7b8, SC-013 ; RL-16 traité et désormais direction explicitement approuvée. Aucun nouveau changement de prose.
+
+
+D-030 — 7 octobre 2026, l’auteur relève que le soupir initial de Teren n’est précédé d’aucune question. Raccord local SC-001 : la phrase générale sur les questions est remplacée par son impatience de livrer les registres et rentrer, déjà établie dans la scène. Âge dix-sept conservé, aucune autre action ou connaissance modifiée. Base 4cf414a, formulation au statut brouillon.
