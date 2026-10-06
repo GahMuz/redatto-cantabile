@@ -6,7 +6,7 @@ Mara attendait derrière un manteau brun dont le col lui arrivait au nez. Les ga
 
 Teren soupira.
 
-À dix-sept ans, Teren avait récemment acquis la conviction que soupirer constituait une réponse acceptable à presque toutes les questions.
+À dix-sept ans, Teren aurait préféré livrer les registres et rentrer plutôt que de rester coincé dans cette foule.
 
 Mara lui donna un coup de coude.
 
