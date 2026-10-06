@@ -322,19 +322,13 @@ Cassian sourit.
 
 — Enfin quelque chose de normal.
 
-— Deux disent que les feuilles sont apparues après la chute. Un dit au moment de la chute. Deux ne savent pas. Le dernier affirme que l'Arbre avait déjà commencé à changer.
+— Deux disent que les feuilles sont apparues après la chute. Un dit au moment de la chute. Les trois autres regardaient le condamné ; ils ne peuvent pas dater le début.
 
-Le sourire de Cassian disparut.
+Cassian regarda la branche.
 
-— Avant ?
+— Aucun ne suivait l'Arbre pendant l'attente ?
 
-— Il n'est pas certain.
-
-— Qui est-ce ?
-
-— Garde Palen.
-
-— Je veux lui parler.
+— Aucun des six.
 
 Severin soupira.
 
@@ -494,7 +488,7 @@ Elle le regarda.
 
 — Pourquoi ?
 
-— Nous venons précisément d'apprendre que nous ne savons pas si c'était ensuite.
+— Nous savons quand la trappe s'est ouverte. Vos témoins n'ont pas daté le début de la floraison. Ne donnons pas à notre phrase plus de précision qu'à leurs rapports.
 
 Silence.
 
@@ -862,11 +856,43 @@ On apercevait ses fleurs au-dessus des murs de la cour.
 
 — Condamné sur des preuves accablantes.
 
-— J'ai lu le dossier.
+— J'ai lu la synthèse qu'on m'a envoyée. Je t'ai demandé les pièces.
 
-— Et exécuté.
+— Tu les aurais eues.
 
-— J'y viens.
+— Après.
+
+Eléane ne répondit pas tout de suite.
+
+— La Cour avait rendu son jugement. Tu ne m'apportais aucun fait nouveau.
+
+— Je demandais à voir ceux qu'elle avait retenus.
+
+— Tu demandais de retarder l'exécution.
+
+— Aussi.
+
+Elle posa la main sur le dossier d'une chaise.
+
+— Nous ne pouvions pas laisser l'affaire ouverte sur un doute.
+
+Cassian regarda la fenêtre.
+
+— Elle l'est maintenant.
+
+— Et maintenant, il est exécuté.
+
+— Avant que j'aie pu lui parler.
+
+— Tu n'étais pas au procès.
+
+— J'attendais encore les copies quand on m'a annoncé qu'il était fini.
+
+— Tu aurais pu venir.
+
+— Oui.
+
+Il replia le refus d'entretien qu'il venait de tirer de sa poche. Il avait cru pouvoir lire les pièces d'abord, poser ses questions ensuite. Il ne restait que les pièces.
 
 Elle se retourna.
 
@@ -902,21 +928,23 @@ Trois.
 
 — Très rassurant.
 
-— J'aimerais revoir le dossier d'Oren.
+— Je veux le dossier d'Oren. Les originaux, les interrogatoires, les pièces de la défense. Et l'accès aux appartements d'Aldren.
 
-— Pourquoi ?
+— Pour vérifier quoi ?
 
-— Parce qu'il est coupable.
+— Ce que je demandais déjà avant ce matin. Comment mon frère est mort. Et ce qu'Oren a réellement fait.
 
-Eléane fronça les sourcils.
+Eléane regarda les trois cartes.
 
-— Tu viens de—
+— Fais inscrire tes demandes comme vérifications ordonnées par la régence. Je les signerai.
 
-— Je sais.
+— Cette fois ?
 
-Il retourna la première carte.
+— Cette fois, nous devons répondre à toute la ville. Je veux savoir ce qu'on pourra soutenir quand ces fleurs auront fané.
 
-— Les preuves sont excellentes.
+Cassian retourna la première carte.
+
+— Les preuves résumées sont excellentes.
 
 La deuxième.
 
@@ -930,7 +958,7 @@ La troisième.
 
 Cassian regarda les trois reines.
 
-— Alors pourquoi ai-je l'impression d'avoir gagné une partie dont je ne me souviens pas avoir joué la première main ?
+— Alors je veux voir ce qu'on a laissé hors de la synthèse.
 
 ***
 
@@ -1736,7 +1764,7 @@ Helven comprit.
 
 — Ces traces correspondent plutôt à une plume tenue de la main gauche.
 
-— Le dossier dit droitier.
+— La synthèse le donne droitier.
 
 — Ça peut être une erreur.
 
@@ -1764,7 +1792,7 @@ Le fonctionnaire derrière le comptoir pâlit.
 
 — Il est scellé.
 
-Cassian posa son sceau royal.
+Cassian posa son sceau royal et l'autorisation de la régente.
 
 — Plus maintenant.
 
@@ -1810,9 +1838,9 @@ Elle posa les dossiers.
 
 — Le dossier d'instruction.
 
-— Trois volumes ?
+— C'est donc cela qui tenait en huit pages ?
 
-— Le quatrième est aux Archives médicales.
+— Et le quatrième volume est aux Archives médicales.
 
 — Procès rapide.
 
@@ -1862,9 +1890,9 @@ Cassian regarda la signature.
 
 — Authentique.
 
-Il continua.
+La synthèse donnait les numéros de ces pièces, pas leur texte. Il nota le motif de la consultation dans la marge de sa copie.
 
-Pièce 23.
+Puis passa à la pièce 23.
 
 Demande d'accès aux registres pharmaceutiques.
 
@@ -1886,13 +1914,9 @@ Cassian se frotta le menton.
 
 — Non.
 
-— Les témoins ?
+— Les neuf témoins de la synthèse ?
 
 — L'ont reconnu.
-
-— Combien ?
-
-— Neuf.
 
 — Neuf personnes différentes ont vu Oren consulter des documents qui permettraient d'assassiner le roi.
 
@@ -1948,13 +1972,13 @@ Adressée au roi.
 
 **Je dois vous parler de toute urgence concernant plusieurs irrégularités que j'ai découvertes dans vos registres personnels. Je crains que votre sécurité ne soit compromise.**
 
-Cassian s'arrêta.
+Cassian s'arrêta. La synthèse mentionnait trois tentatives d'approcher le roi. Il n'avait pas pu lire les lettres.
 
-— Ça faisait partie de l'accusation ?
+— C'est cela, les tentatives d'entretien ?
 
 — Oui.
 
-— Comment ?
+— On a retenu la demande, pas l'avertissement.
 
 — Le ministère public a considéré qu'il cherchait à obtenir un entretien privé avec le roi.
 
@@ -2079,6 +2103,10 @@ Cassian s'arrêta.
 Il relut.
 
 La pièce sembla soudain devenir très silencieuse.
+
+Il sortit ses huit pages. « Refus de répondre sur les irrégularités alléguées. » Rien sur lui.
+
+Il avait demandé à voir Oren. Oren avait demandé à le voir. Les deux demandes avaient traversé les mêmes services sans se rencontrer.
 
 — Madame Solan.
 
@@ -2700,6 +2728,14 @@ Cassian leva les yeux.
 
 Enfin quelqu'un de vivant.
 
+Cassian posa sa première demande de consultation sur la table.
+
+— Faites inscrire la date à laquelle vous me remettez les pièces.
+
+L'archiviste regarda le papier, puis l'autorisation de la régente.
+
+Il prit son registre.
+
 Cassian ouvrit le dossier.
 
 Aldren souffrait depuis six ans d'arythmie.
@@ -2716,6 +2752,8 @@ Il trouva l'analyse toxicologique.
 
 Aucune substance étrangère.
 
+La synthèse donnait bien la concentration : 18,7. Elle parlait d'une dose excessive de véradine. Aucune mention du reste de l'analyse.
+
 Il la relut.
 
 Puis une troisième fois.
@@ -2726,17 +2764,7 @@ L'archiviste leva les yeux.
 
 — Oui ?
 
-— Où est le poison ?
-
-— Pardon ?
-
-— Mon frère a été empoisonné.
-
-— Oui.
-
-Cassian montra la feuille.
-
-— Alors où est le poison ?
+— La synthèse parle d'empoisonnement. Montrez-moi ce qui établit qu'on lui a ajouté une dose.
 
 L'homme s'approcha.
 
@@ -2746,13 +2774,13 @@ Il indiqua une ligne.
 
 **Concentration de véradine : 18,7 unités.**
 
-— C'est son médicament.
+— Je connais cette ligne. C'est une concentration.
 
-— Oui.
+— L'analyse établit une quantité excessive dans le sang.
 
-— Donc il est mort de son médicament.
+— Et l'administration supplémentaire ?
 
-— D'une dose excessive.
+— Elle ne la montre pas.
 
 — Combien devait-il prendre ?
 
@@ -2766,7 +2794,7 @@ L'archiviste consulta.
 
 Cassian réfléchit.
 
-— Donc quelqu'un a triplé sa dose.
+— Et de ces deux chiffres, on a conclu que quelqu'un avait triplé sa dose.
 
 — C'était la conclusion.
 
@@ -2836,11 +2864,7 @@ Impardonnable.
 
 — Combien ?
 
-— Six unités.
-
-— Vous êtes certain ?
-
-— Oui.
+— Six les deux derniers jours. Sept avant, selon la prescription d'Halden. Je peux vous montrer la date de réduction.
 
 — Vous prépariez vous-même la dose ?
 
@@ -2864,7 +2888,7 @@ Venn hésita.
 
 — Oui.
 
-— Et cela vous permet de mesurer six unités ?
+— Et cela vous permet de vérifier la quantité inscrite ?
 
 — La préparation est dosée à l'avance.
 
@@ -2876,25 +2900,25 @@ Venn inspira.
 
 — Chaque semaine, l'apothicaire prépare sept flacons. Un par jour. Je vérifie le sceau et l'étiquette. Le roi boit le contenu.
 
-— Donc vous ne savez absolument pas combien il y avait dedans.
+— Donc vous n'avez pas mesuré ce qu'il buvait.
 
-— Je fais confiance à l'apothicaire.
+— Non. J'ai contrôlé les flacons préparés sur ordonnance. Si la préparation était fausse, je ne l'aurais pas vue.
 
-— L'apothicaire ?
+Cassian prit une feuille.
 
-— Fait confiance à l'ordonnance.
+— L'apothicaire me donnera son registre de préparation, les pesées, les lots et le nom de celui qui a dosé chaque série. Faites garder les flacons restants et les récipients, même vides. Personne ne jette rien.
 
-— L'ordonnance ?
+— Il faudra analyser une préparation du même lot, dit Venn. Les flacons ne suffisent pas sans leur provenance.
 
-— Au médecin.
+Cassian ajouta la remarque à sa demande et la remit au secrétaire devant la porte.
 
-Cassian sourit.
+— À porter maintenant. Je veux un reçu et ce qu'ils peuvent effectivement conserver.
 
-— Nous avançons.
+Venn attendit que le secrétaire parte.
 
-— Je ne comprends pas.
+— Les doses administrées doivent aussi être comparées au poids du roi et aux autres médicaments. J'ai demandé ce rapprochement après sa mort ; l'analyse a été versée au procès avant que j'aie une réponse.
 
-— Moi non plus. C'est encourageant.
+Cassian rapprocha sa chaise.
 
 Il ouvrit le dossier.
 
@@ -2902,21 +2926,15 @@ Il ouvrit le dossier.
 
 Venn regarda la page.
 
-— Personne.
+— Maître Halden, avant son départ. Une augmentation temporaire.
 
-— Ici.
-
-Cassian lui montra une ligne.
+Cassian lui montra la ligne.
 
 **Véradine : 6 → 7 unités.**
 
-Venn fronça les sourcils.
+— C'est bien ce que vous avez donné pendant une partie de son absence ?
 
-— Ce n'est pas une modification.
-
-— Je possède une compréhension limitée des nombres, mais sept me semble différent de six.
-
-— C'est une correction temporaire.
+— Oui. Puis j'ai réduit. Les deux prescriptions portent leur date.
 
 — Demandée par qui ?
 
@@ -2946,23 +2964,15 @@ Deux jours avant la mort.
 
 — Oui.
 
-— Sans mourir.
+— Puis vous êtes revenus à six, et il est mort deux jours après.
 
-— Oui.
+— La baisse ne retire pas ce qui s'est déjà accumulé, dit Venn. Ne me faites pas raisonner comme si chaque matin remettait le compteur à zéro.
 
-— Puis vous êtes revenus à six.
+Cassian posa un doigt sur la date de réduction.
 
-— Oui.
+— Alors expliquez-moi ce que ces deux jours permettent de conclure.
 
-— Et il est mort deux jours après.
-
-— Oui.
-
-Cassian réfléchit.
-
-— Cela ressemble à une très mauvaise façon de l'empoisonner.
-
-Venn ne répondit pas.
+— Très peu sans les préparations et les autres traitements.
 
 — Qui a demandé le retour à six ?
 
@@ -3330,15 +3340,13 @@ Cassian continua.
 
 Silence.
 
-— Aucun n'a tué le roi.
+— Aucun n'a voulu tuer le roi.
 
-Venn regarda la liste.
+Venn posa la main sur la liste.
 
-— Non.
+— Nous n'en savons rien. Et l'intention ne dit pas ce que ces décisions ont fait à son organisme. Il faut les examiner ensemble.
 
-— Mais le roi est mort.
-
-— Oui.
+Cassian ne reprit pas sa feuille tout de suite.
 
 Cassian se leva.
 
@@ -3742,83 +3750,23 @@ Il avait lui-même provoqué le premier événement de sa propre liste.
 
 Il reprit tout depuis le début.
 
-Les promenades n'étaient pas suspectes.
+En face des promenades, il écrivit le nom d'Adrien, puis le sien. Leur raison était connue. Leur effet sur Aldren ne l'était pas.
 
-Il les raya.
+Le somnifère répondait à deux mois de mauvais sommeil ; Halden avait noté l'aggravation de l'arythmie avant d'augmenter la véradine. L'appel d'offres de l'infusion remontait à quatre mois. La rotation des cuisiniers se retrouvait dans les années précédentes.
 
-Le somnifère.
+Cassian raya son titre : **Six décisions pour tuer le roi.**
 
-Prescrit par Venn.
+Il ne raya pas les décisions.
 
-Pourquoi ?
+À côté, il ouvrit une deuxième colonne : **Effets à vérifier avec Venn.** Il y reporta la perte de poids, les interactions possibles et les préparations effectivement administrées.
 
-Parce qu'Aldren dormait mal.
+À minuit, il n'avait plus de raison d'attribuer ces six changements à un organisateur unique. Il n'avait pas davantage exclu qu'un homme ait exploité l'un d'eux, ni que plusieurs aient contribué à la mort sans avoir été coordonnés.
 
-Depuis quand ?
+Le registre de préparation demandé n'était pas encore arrivé. Un reçu de l'Apothicairerie annonçait la mise à part des flacons restants et la recherche des numéros de lots ; aucune analyse de leur contenu ne lui avait été remise. Il plaça le reçu en tête de la deuxième colonne. Cette vérification aurait besoin d'autre chose que sa nuit aux Archives.
 
-Deux mois.
+Il regarda le nom d'Adrien. Demain, il faudrait lui demander les détails des promenades. Cassian n'avait aucune envie de lui poser ces questions.
 
-Donc logique.
-
-Il hésita.
-
-Puis raya.
-
-Augmentation de véradine.
-
-Demandée par Halden avant son départ.
-
-Pourquoi ?
-
-Arythmie aggravée.
-
-Documentée.
-
-Il raya.
-
-Nouvelle infusion.
-
-Appel d'offres commencé quatre mois auparavant.
-
-Il raya.
-
-Cuisinier.
-
-Restructuration saisonnière.
-
-Il chercha les années précédentes.
-
-Même rotation.
-
-Chaque année.
-
-Il raya.
-
-À minuit, sa magnifique conspiration avait disparu.
-
-Il ne restait qu'une feuille couverte de traits.
-
-Cassian la contempla.
-
-Il aurait dû être déçu.
-
-Il était ravi.
-
-Parce qu'il venait de découvrir quelque chose de beaucoup plus utile.
-
-Il pouvait construire une histoire parfaite à partir de faits exacts.
-
-Il lui avait suffi de choisir les bons.
-
-Il regarda les dizaines de dossiers autour de lui.
-
-Des milliers de décisions.
-
-Des milliers de dates.
-
-Si l'on en sélectionnait six, elles formaient un complot.
-
-Si l'on en sélectionnait six autres, elles racontaient autre chose.
+Il avait reconnu la facilité avec laquelle il construisait un récit. Cela ne lui avait pas rendu son frère.
 
 Il pensa au procès d'Oren.
 
@@ -4212,7 +4160,7 @@ Trois cartes identiques.
 
 Toutes vraies.
 
-Mais une seule pouvait se trouver dans la main qu'il croyait avoir jouée.
+Il les avait tenues ensemble. Il avait fallu les retourner pour voir à quel point elles se ressemblaient.
 
 Il en tendit une à Serdan.
 

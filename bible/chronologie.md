@@ -1,6 +1,6 @@
 # Chronologie de référence — V2
 
-Mise à jour le 6 octobre 2026. Chapitres I, II et III reçus, III tronqué sur « O ». Cette page suit les révisions autorisées par D-015, D-016, D-017 et D-018 et les repères du brouillon actif. Sources : [chapitres et scènes](../manuscrit/versions/v2/index.md). La [chronologie V1](versions/v1/chronologie.md) reste historique. Le plan secret V2 ne décrit pas des événements accomplis.
+Mise à jour le 7 octobre 2026 (D-028). Chapitres I, II et III reçus, III tronqué sur « O ». Cette page suit les révisions autorisées par D-015, D-016, D-017, D-018, D-026 et D-028 et les repères du brouillon actif. Sources : [chapitres et scènes](../manuscrit/versions/v2/index.md). La [chronologie V1](versions/v1/chronologie.md) reste historique. Le plan secret V2 ne décrit pas des événements accomplis.
 
 ## Conventions
 
@@ -36,10 +36,12 @@ Séparer narration, document lu, témoignage, déduction et événement annoncé
 | T-V2-015 | « Il y a trois semaines » à l'entretien J0 ; réduction deux jours avant la mort | Halden augmente la dose de six à sept ; Venn réduit à six | SC-023 ; distinguer les points de référence. Venn se questionne « depuis quatre jours », sans dater explicitement le décès ; causalité non établie |
 | T-V2-016 | Jours 9, 11, 12, 13, 14, 15, mois à fixer | Équitation, somnifère, hausse de dose, fournisseur, cuisinier, alimentation | Archives, SC-024 ; ne pas inventer un mois pour raccorder les durées |
 | T-V2-017 | 18, 21, 24 du mois précédent | Consultations d'Oren | Registre, SC-024 ; articulation avec T-013 à vérifier |
-| T-V2-018 | Dimanche puis lundi | Commandes d'affiches entre ateliers ; bon Veyre daté lundi | Rapport Darien et date lue par Mara, SC-009, 027 |
+| T-V2-018 | Dimanche puis lundi | Ouvertures de commandes d’affiches entre ateliers ; bon Veyre ouvert lundi, date de validation du texte inconnue | Rapport Darien et date lue par Mara, SC-009, 027 |
 | T-V2-019 | Mardi matin puis jeudi | Arrestation puis procès d'Oren | Jon et Mara, SC-009 ; ne fixe pas à lui seul le jour de semaine de J0 |
 | T-V2-020 | Veille de J0, après la mort du roi selon dossier | Mort d'Ervan par chute | Solan puis veuve, SC-020–021 ; accident provisoirement retenu |
 | T-V2-021 | Trois jours de prison ; nom diffusé pendant trois jours | Durée de détention et notoriété récente d'Oren | Examen SC-019 et narration SC-002 ; pas une connaissance universelle de sa famille |
+| T-V2-039 | Depuis la mort d’Aldren, avant J0 | Cassian demande les pièces, reçoit une synthèse, demande analyses et procès-verbaux ; procès terminé avant réception. Demande de délai refusée par Eléane ; Cassian n’est pas au procès, ayant attendu les copies | SC-007 et 016, D-026 ; dates des demandes non fixées |
+| T-V2-040 | Matin J0, après le jugement, avant floraison | Refus d’entretien avec Oren, renouvelé malgré le sceau de Cassian ; accès réservé au prêtre après jugement | SC-007 ; règle invoquée pour ce condamné, pas code juridique universel |
 
 La date de mort d'Aldren reste à fixer. Le récit de Darien dit désormais « des années plus tard » ; date exacte du déplacement non fixée. Oren, quarante et un ans au présent selon son dossier, aurait vingt-quatre ans lors des examens de 53 ; ce calcul ne prouve pas son identité de naissance.
 
@@ -50,14 +52,14 @@ La date de mort d'Aldren reste à fixer. Le récit de Darien dit désormais « d
 | T-V2-037 | J0, avant l’aube ; vers 4 h 45 selon estimation | — | Merel voit un homme écrire sur le mur du palais | SC-011, 018 ; plus ancienne inscription attestée, pas premier graffiti établi |
 | T-V2-038 | J0, attente avant sortie des gardes | Mara regarde l’Arbre par ennui, repère du vert et tente de le montrer à Teren | Oren n’est pas encore sur la place | SC-001 ; durée exacte inconnue, regard ultérieur d’Oren ne prouve pas qu’il voie le bourgeon |
 | T-V2-022 | J0, avant l'exécution | Fratrie dans la foule, livraison retardée | Condamné conduit sur l'échafaud ; Cassian joue ailleurs | Montré, SC-001–004, 007 |
-| T-V2-023 | J0, 11 h 37 puis 11 h 49 | Mara retrouve le bourgeon déjà remarqué pendant l’attente, puis voit les feuilles après la chute | Registre : début puis exécution ; constat médical environ deux minutes après | SC-001, 004–005, 013 ; témoignage entendu à J3 |
-| T-V2-024 | J0, après floraison | Retour, livraison mensongère, bon lu, saisie, original brûlé | Eléane ferme la place et convoque Cassian | Montré, SC-006, 008–010 ; heures exactes non connues |
+| T-V2-023 | J0, 11 h 37 puis 11 h 49 | Mara retrouve le bourgeon déjà remarqué pendant l’attente, puis voit les yeux ouverts du pendu ; image distrait du bourgeon, rappelle son observation à Jon après la floraison | Registre : début puis exécution ; constat médical environ deux minutes après | SC-001, 004–005, 013 ; témoignage entendu à J3 |
+| T-V2-024 | J0, après floraison | Retour, livraison mensongère, rappel annoncé, bon lu dans comptes, travail et livraison puis saisie annoncée, original brûlé | Eléane ferme la place et convoque Cassian | Montré, SC-006, 008–010 ; heures exactes non connues |
 | T-V2-025 | J0, Conseil ; 12 h 17 cité | — | Branche, communiqué, inscriptions ; couronnement annoncé à J14 | SC-013–016 ; 12 h 17 est le plus ancien signalement retrouvé, pas l’écriture ni une origine absolue |
 | T-V2-026 | J0, après Conseil | — | Chambre du roi, Merel, descente du corps, Helven, dossier judiciaire, veuve, archives médicales et Venn | Ordre montré, SC-017–023 ; heures intermédiaires inconnues |
-| T-V2-027 | J0, collecte puis nuit J0–J1 | — | Quatre heures de collecte ; trente-deux dossiers au soir ; théorie abandonnée à minuit ; presque 1 h, morguier/Serdan et décision d'aller à la morgue | SC-024–025 ; après minuit = J1 civil |
+| T-V2-027 | J0, collecte puis nuit J0–J1 | — | Quatre heures de collecte ; trente-deux dossiers au soir ; scénario coordonné abandonné à minuit, effets cumulés/exploitation encore ouverts et analyse des préparations attendue ; presque 1 h, morguier/Serdan et décision d'aller à la morgue | SC-024–025 ; après minuit = J1 civil |
 | T-V2-028 | J0 après-midi, appris pendant la nuit | — | Corps reçu, trajet contresigné ; trois collègues et deux gardiens le reconnaissent. Lysa alléguée conteste son identité de naissance avec un extrait de décès à vérifier | Rapport du morguier, SC-025 ; heure de sa visite non fixée |
 | T-V2-029 | J1, matin puis journée | Travail ; droits du concours payés « hier » selon Jon ; entretien Darien | Rapport à Varos et copie médicale ; Cassian aurait passé deux heures à la morgue cette nuit | SC-026–028 ; visite de Cassian rapportée indirectement, non montrée |
-| T-V2-030 | J1, soirée jusqu'à environ 23 h 30 | Fractions, lettre de suspension, sortie Teren, coffre et Lena ; retour tardif, inéligibilité confirmée aux Admissions | Garçon donne l'atelier ; Varos prévoit « demain », car nuit | SC-029–033 ; heure de la visite de Teren aux Admissions inconnue |
+| T-V2-030 | J1, soirée jusqu'à environ 23 h 30 | Fractions, lettre de suspension, sortie Teren, coffre et Lena ; retour tardif, inéligibilité confirmée aux Admissions | Garçon donne l’atelier via apprenti et marchand reconnaissant les lettres du graveur ; Varos prévoit « demain », car nuit | SC-029–033 ; heure de la visite de Teren aux Admissions inconnue |
 | T-V2-031 | J2 puis J3 | J2 : école, bibliothèque après les cours, demande du recueil ; Jon dépose le recours. J3 : recueil après les cours, place, Darien et gargote | Note remise à Varos une heure après l’entretien, J3 | SC-034–037 ; le recueil attend le transport depuis le dépôt |
 | T-V2-032 | J4, J6 puis J7 | Mara poursuit école et imprimerie ; reçu du recours sans réponse | J4 : demande à 17 h 57 après visa. J6 : premier registre après deux jours. J7 : deux volumes dès le matin, comptage puis demande à la Sûreté vers 16 h | SC-037–038 ; pièce d’or refusée quand le transport est parti, attente maintenue |
 | T-V2-033 | J8, matin et journée | École, bourgeon public ; Jon récupère le refus du recours déposé J2, vient chercher Mara, puis toit avec Teren | Rumeurs ont changé pendant la semaine ; entretien Delan demandé mais non raconté | SC-039–040 ; réponse après six jours, pas en une matinée |
@@ -73,7 +75,8 @@ Le récit alterne des branches : leur succession dans le chapitre ne prouve pas 
 
 | Information | Événement | Acquisition montrée | Limite |
 | --- | --- | --- | --- |
-| Bon antérieur à l'arrestation | Lundi | Mara/Jon J0, SC-009 ; Darien obtient des dates J1, SC-027 | Cassian ne l'apprend pas automatiquement |
+| Pièces avant/après floraison | Démarches avant J0 puis autorisation SC-016 | Cassian connaît déjà la concentration 18,7, les accès, les neuf témoins, trois tentatives d’entretien et mention « droitier » par synthèse. À J0, consulte enfin originaux et analyses complètes | N’avait lu ni lettres ni appels à son nom ; reçoit mandat, réponses omises et hypothèse d’accumulation en SC-020/022 ; identité et cause non établies |
+| Ouverture du bon antérieure à l’arrestation, validation inconnue | Lundi | Mara/Jon J0, SC-009 ; Darien obtient des dates J1, SC-027 | Cassian ne l'apprend pas automatiquement |
 | Gaucher/droitier puis Lysa | J0, visite à la morgue rapportée | Cassian J0 puis nuit J0–J1, SC-019, 025 | Reconnaissance de l'homme par collègues et gardiens rapportée ; origine et extrait de Lysa à vérifier |
 | Rapport anatomique | Examen non daté exactement | Darien/Varos J1, SC-028 | Mara n'en dispose pas |
 | Lena et plaque | Passé non daté, objets au coffre | Mara/Jon J1, SC-031–033 | Teren ne reçoit pas automatiquement toutes les lectures de Mara |
@@ -119,3 +122,10 @@ Après import ou réécriture, actualiser événements, sources, révélations e
 ## Motif partagé — D-018
 
 SC-033 : Jon rapporte des plaques chez d’autres pensionnaires de Saint-Avelle. SC-044, J9 : Varos rapporte le signe chez plusieurs déplacés. SC-045, J10 : Mara et Jon rencontrent une femme et son fils venus pour un extrait ; ils voient une plaque au même motif, que la femme dit héritée de sa mère de Valdorne. Observation et origine rapportée distinctes. Leur démarche n’aboutit pas dans le texte ; noms, nature du dossier et sens du signe restent inconnus. Varos/Darien n’apprennent pas cette rencontre.
+
+## Ajouts D-028 — demandes et limites
+
+- SC-023 J0 : Cassian fait porter immédiatement une demande matérielle à l’Apothicairerie (préparations, pesées, lots, préparateurs, flacons restants et récipients). SC-024 : reçu annonçant mise à part et recherche ; aucun résultat d’analyse ni registre remis. Échéance de résultat non fixée.
+- Ancien contrôle annuel des accès par Varos : date non fixée ; cité dans un extrait du jugement apporté par Darien la veille de SC-028, donc J0. Varos constate la citation à J1 et veut le relevé complet/republication. Ce qu’il contrôlait et responsabilité judiciaire ne se confondent pas.
+- SC-028/029 J1 soir : Darien prévoit visite du gardien à la relève de nuit, action non montrée. Dessin confié au garçon la veille, J0 soir selon Darien ; chaîne apprenti/marchand rapportée, pas identification certaine du portrait. Autorisation du propriétaire à obtenir ; veuve et inventaire restent J9.
+- SC-013 : gardes situent feuilles à chute/après ou n’ont pas regardé. Aucun n’atteste un début avant ; Cassian n’apprend pas l’observation précise de Mara. Palen et entretien retirés (RL-16).

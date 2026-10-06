@@ -468,7 +468,7 @@ L'homme eut un petit sourire.
 
 Il continua d'écrire.
 
-— Vous souvenez-vous de la date de commande ?
+— Vous souvenez-vous de la date d'ouverture de la commande ?
 
 Mara sentit son cœur accélérer.
 
@@ -528,7 +528,7 @@ Cette fois, il avait compris.
 
 L'homme poursuivit :
 
-— Ce qui est remarquable, puisque Oren Vale n'a été arrêté que mardi matin.
+— Je cherche aussi la date où le texte définitif vous a été transmis. L'ouverture est antérieure à l'arrestation ; elle ne me dit pas encore quand le mot « coupable » a été validé.
 
 Le père de Mara croisa les bras.
 
@@ -582,7 +582,7 @@ Il rangea sa plume.
 
 Le père de Mara se pencha vers lui.
 
-— Écoutez-moi bien. J'ai deux enfants. Une entreprise. Des employés. Des dettes. Je n'ai aucune envie de découvrir pourquoi un bureau royal commandait des affiches annonçant la culpabilité d'un homme avant son arrestation.
+— Écoutez-moi bien. J'ai deux enfants. Une entreprise. Des employés. Des dettes. Je n'ai aucune envie de découvrir quand le Bureau a ajouté le mot « coupable » à cette commande, ni pourquoi l'épreuve n'est plus dans mes papiers.
 
 L'enquêteur le regarda.
 
@@ -676,7 +676,7 @@ Il sortit une gravure.
 
 Le visage d'Oren.
 
-Celui que Mara avait composé des centaines de fois.
+Celui que Mara avait imprimé des centaines de fois.
 
 — Vous reconnaissez ?
 
@@ -948,7 +948,7 @@ Le vieillard mordit dans le fruit.
 
 — La gravure ?
 
-— Même matrice pour les quatre.
+— Même matrice pour les quatre. Mais les dates qu'ils donnent sont celles d'ouverture des commandes. Je cherche encore les épreuves avec leur visa : je ne peux pas dater l'ajout du titre.
 
 — Origine ?
 
@@ -956,7 +956,7 @@ Le vieillard mordit dans le fruit.
 
 Darien s'assit.
 
-— Quelqu'un préparait la condamnation d'Oren avant même que la garde sache qu'elle allait l'arrêter.
+— Quelqu'un avait réservé les ateliers avant l'arrestation. Si le titre était déjà validé, ce serait autre chose. Pour l'instant, il me manque cette date.
 
 Le vieillard mâcha lentement.
 
@@ -968,11 +968,31 @@ Darien sortit ses notes.
 
 Varos acquiesça.
 
-— Gardez les commandes séparées. Celle du dimanche nous laisse une journée de plus à examiner.
+— Gardez les commandes séparées. Celle du dimanche nous laisse une journée de plus à examiner. Et demandez les accusés de réception des textes, pas seulement ceux du papier.
 
 Darien marqua une ligne dans son carnet.
 
-Le vieillard posa le trognon de poire.
+Le vieillard posa le trognon de poire. À côté de son assiette se trouvait un extrait du jugement. Darien reconnut la copie qu'il avait apportée la veille.
+
+Varos avait entouré une ligne : **Relevé des accès établi sous le contrôle de V. Varos.**
+
+— C'est votre nom, dit Darien.
+
+— J'avais contrôlé le relevé annuel de plusieurs services. Ils en citent les visites d'Oren aux Archives médicales. Je veux retrouver ce qu'il y avait avant et après.
+
+— Pour les détromper ?
+
+Varos passa le pouce sur la signature imprimée.
+
+— Pour commencer, je voudrais savoir ce que mon travail a servi à faire. Puis je demanderai qu'ils publient le relevé entier, avec mon nom au même endroit.
+
+Darien écarta l'assiette pour lui faire de la place.
+
+— Ça ne leur plaira pas.
+
+— Je compte sur vous pour obtenir les pièces avant qu'ils décident de me l'expliquer.
+
+Il repoussa l'extrait.
 
 — Qu'avez-vous appris d'autre ?
 
@@ -1012,41 +1032,17 @@ Darien parut surpris.
 
 — Bien ?
 
-— Si elle sait quelque chose, elle ignore probablement sa valeur.
+— Vous avez déjà inquiété son père. N'y retournez pas aujourd'hui. Notez ce qu'il a dit et l'endroit où il a cessé de répondre.
 
-— Et si quelqu'un d'autre la questionne ?
+Darien glissa ses notes dans la sacoche.
 
-— Alors nous apprendrons que quelqu'un d'autre lui attribue de la valeur.
+— Je peux demander au livreur qui était sur la place. Je le croise tous les matins.
 
-Darien regarda le vieillard.
+— Sans lui désigner la fille.
 
-— Vous voulez que je surveille la maison.
+— Il n'a pas besoin de son nom pour raconter ce qu'il a vu.
 
-— Non.
-
-— Alors quoi ?
-
-— Rien.
-
-— Rien ?
-
-— Absolument rien.
-
-Darien soupira.
-
-— Je déteste quand vous faites ça.
-
-— Quoi ?
-
-— Quand vous prétendez que ne rien faire est une stratégie.
-
-Le vieillard sourit.
-
-— C'est rarement une stratégie.
-
-Il prit une deuxième poire.
-
-— Généralement, c'est simplement moins stupide que ce que j'avais prévu.
+Varos prit une deuxième poire. Darien garda son carnet ouvert, cherchant le nom du livreur dans les comptes de sa tournée.
 
 Darien se leva.
 
@@ -1080,63 +1076,13 @@ Darien attendit.
 
 Le vieillard leva les yeux.
 
-— Cassian Orme déteste les morts.
+— Il a demandé les gardiens et les collègues, poursuivit Varos. C'est ce qui m'intéresse : à qui a-t-il fait reconnaître le corps ?
 
-— Tout le monde déteste les morts.
+— Je peux obtenir les noms auprès du porteur qui a signé la réception. Pour Cassian et Oren, je n'ai trouvé aucun entretien antérieur.
 
-— Non. La plupart des gens les préfèrent aux vivants. Ils posent moins de problèmes.
+— Gardez cette formulation.
 
-— Vous savez ce que je veux dire.
-
-— Moi aussi.
-
-Varos posa sa poire.
-
-— Cassian n'aime pas les morts parce qu'ils ne répondent plus aux questions. S'il passe deux heures avec un cadavre, c'est qu'il espère malgré tout obtenir une réponse.
-
-— Ou qu'il aimait beaucoup Oren.
-
-— Ils ne s'étaient jamais rencontrés.
-
-Darien fronça les sourcils.
-
-— Vous êtes certain ?
-
-— Non.
-
-— Vous venez de dire—
-
-— J'ai dit qu'ils ne s'étaient jamais rencontrés. Je n'ai pas dit qu'ils ne se connaissaient pas.
-
-— C'est quoi la différence ?
-
-Varos sourit.
-
-— Vous êtes marié ?
-
-— Oui.
-
-— Vous connaissez votre femme ?
-
-Darien hésita.
-
-— Oui.
-
-— Elle vous connaît ?
-
-— J'espère.
-
-— Vous voyez ? Deux erreurs possibles dans une seule réponse.
-
-Darien soupira.
-
-— Pourquoi je travaille pour vous ?
-
-— Parce que je vous paie.
-
-— Pas assez.
-
-— Voilà au moins un fait.
+Darien inscrivit les reconnaissances sur une page distincte.
 
 ***
 
@@ -1152,23 +1098,13 @@ Une copie du rapport de la morgue.
 
 — Le corps mesure un mètre soixante-dix-huit.
 
-— Et ?
-
-— Le registre carcéral donne Oren à un mètre quatre-vingt-deux.
+— Le registre carcéral donne Oren à un mètre quatre-vingt-deux, poursuivit Darien. Je n'ai pas encore le nom de l'homme qui l'a mesuré.
 
 Varos continua de lire.
 
-— Quatre centimètres.
+— Demandez aussi avec quoi.
 
-— Oui.
-
-— Les hommes se tassent en vieillissant.
-
-— À quarante et un ans ?
-
-— Certains ont beaucoup de responsabilités.
-
-Darien ne sourit pas.
+Darien traça un cercle autour des deux tailles.
 
 — Le corps a une ancienne fracture du radius gauche.
 
@@ -1192,61 +1128,15 @@ Varos leva les yeux.
 
 — Ça, c'est mieux.
 
-— Donc ce n'est pas lui.
+— Je vais voir le gardien qui a rempli la rubrique, dit Darien. S'il a compté les dents, on aura une contradiction à soumettre à Helven.
 
-— Les témoins le reconnaissent. Demandez qui a rempli cette rubrique avant de choisir entre eux et le formulaire.
+Varos posa les deux feuilles côte à côte. Il souligna « dentition complète » et laissa la ligne de la fracture sans marque.
 
-Darien frappa la table du plat de la main.
+— Gardez le dossier médical avec le rapport. Je veux voir les pages manquantes avant de me servir de ce qu'il ne dit pas.
 
-— Bon sang.
+Darien remit la copie de morgue dans sa sacoche, sans attendre qu'il ait fini.
 
-— Il lui manque une dent !
-
-— Quand le registre carcéral a-t-il été rempli ?
-
-— À son arrivée.
-
-— Par qui ?
-
-— Un gardien.
-
-— Dentiste ?
-
-— Non.
-
-— A-t-il compté les dents ?
-
-— Je suppose que—
-
-Varos leva un doigt.
-
-Darien s'arrêta.
-
-— D'accord.
-
-— Voilà.
-
-— Il est écrit « dentition complète ».
-
-— Ce qui peut vouloir dire trente-deux dents comptées.
-
-Varos replia le rapport.
-
-— Ou « il ne m'a pas semblé édenté ».
-
-Darien s'assit.
-
-— Vous ne croyez donc à rien ?
-
-— Au contraire. Je crois énormément de choses.
-
-— Lesquelles ?
-
-— Que vous êtes agacé. Que cette poire était mauvaise. Que quelqu'un a commandé des affiches trop tôt. Que Cassian pense que le corps pose problème. Et que depuis hier toute la ville essaie de transformer ses suppositions en certitudes.
-
-Il posa le rapport.
-
-— Je préférerais éviter de participer.
+— Je passerai à la prison à la relève de nuit. Donnez-moi la copie ; il ne voudra pas lire vingt pages.
 
 Darien regarda par la fenêtre.
 
@@ -1274,31 +1164,9 @@ Trois coups.
 
 Darien regarda la porte.
 
-Varos continua à manger.
+— C'est le garçon des ateliers. Je lui ai laissé le dessin à montrer, hier soir.
 
-— Vous attendez quelqu'un ?
-
-— Toujours.
-
-— Qui ?
-
-— Je le saurai lorsqu'il entrera.
-
-Darien leva les yeux au ciel.
-
-— Vous êtes insupportable.
-
-— Ma première femme disait la même chose.
-
-— Vous avez été marié ?
-
-— Non.
-
-Darien le fixa.
-
-Varos sourit.
-
-— Mais maintenant vous allez vous demander pourquoi j'ai menti.
+Varos repoussa son assiette.
 
 La porte s'ouvrit.
 
@@ -1324,7 +1192,7 @@ Le garçon la prit.
 
 — Alors pourquoi vous me la donnez ?
 
-— L'éducation.
+— J'en ai plus d'autre.
 
 Le garçon mordit quand même.
 
@@ -1334,11 +1202,21 @@ Darien demanda :
 
 Le garçon sortit un petit morceau de papier.
 
-— La gravure.
+— L'adresse pour la gravure.
+
+Il tendit aussi le dessin que Darien lui avait confié, écorné et taché d'encre.
+
+— J'ai demandé là où ils vendent les cuivres. Un apprenti a reconnu les petites lettres du graveur sur le bord. Il m'a envoyé au marchand de papier d'en face, rue des Cendres. Le marchand dit que l'atelier utilisait ces lettres. Il m'a montré la porte.
+
+— Il a reconnu le portrait ? demanda Darien.
+
+— Non. Les lettres.
+
+Darien nota de retourner au marchand.
 
 Varos prit le papier.
 
-Une adresse.
+Une adresse, et le numéro de la boutique où le garçon avait demandé.
 
 — Où ?
 
@@ -1414,19 +1292,13 @@ Darien attrapa son manteau.
 
 — Justement.
 
-— Les hommes qui fouillent des ateliers abandonnés la nuit sont soit des voleurs, soit des espions.
+— Je veux l'accord du propriétaire et le marchand pour nous montrer l'entrée. S'il manque une plaque après notre passage, je veux un inventaire signé.
 
-— Nous sommes des espions.
+Darien resta un moment avec son manteau sur le bras.
 
-Varos parut offensé.
+— Je vais au moins trouver qui peut nous ouvrir. Le marchand sera encore là quand on ouvrira les boutiques.
 
-— Parlez pour vous.
-
-— Et vous êtes quoi ?
-
-Le vieillard réfléchit.
-
-— Retraité.
+Varos lui tendit de quoi payer la recherche. Il prit le dessin et le plaça sous la copie du jugement.
 
 ***
 
@@ -3174,7 +3046,7 @@ Il ne répondit pas.
 
 Toujours rien.
 
-Mara pensa au bourgeon.
+Mara revit d'abord les yeux du pendu. Elle s'appliqua à retrouver la branche, le point vert qu'elle avait voulu montrer à Teren.
 
 Elle n'en avait parlé qu'à trois personnes.
 
@@ -3978,23 +3850,17 @@ Mara haussa les épaules.
 
 — Tu ne sais pas ce qu'ils voulaient.
 
-— Ils ont écrit qu'il était coupable avant de l'arrêter.
+— Le bon portait « coupable », et il était daté d'avant l'arrestation.
 
-— Oui.
+— Votre père vous a expliqué l'ouverture d'une commande ?
 
-— Donc ils savaient.
+— Il dit que le titre a pu venir après. Mais l'épreuve était plus dans la chemise.
 
-— Ou ils pensaient savoir.
+Darien poussa son bol de côté.
 
-— C'est différent ?
+— Alors je cherche qui l'a reçue et qui l'a signée. C'est celle-là qui nous manque.
 
-Darien regarda Mara.
-
-— Énormément.
-
-Elle ne comprit pas pourquoi.
-
-Pas encore.
+Mara regarda le fond de son bol. Elle aurait préféré qu'il lui dise qu'elle avait raison.
 
 ***
 
@@ -4088,19 +3954,13 @@ Darien hésita.
 
 — Pourquoi ?
 
-— Parce que les promesses sont des dettes qu'on contracte avec sa bouche.
+— Parce qu'il faut que le service me laisse consulter. Je peux y aller ; je peux pas te promettre leur réponse.
 
-Mara leva les yeux au ciel.
+Mara le fixa encore, puis repoussa son bol.
 
-— C'était nul.
+— Allez-y tôt.
 
-— Je trouvais ça bien.
-
-— On aurait dit un vieux.
-
-Darien parut vexé.
-
-— Va-t'en.
+— C'est prévu.
 
 ***
 
@@ -4206,27 +4066,9 @@ Darien le regarda.
 
 — Onze ans.
 
-— Vous enquêtez sur Oren depuis onze ans ?
+— Un contrôle ancien, dit Varos. Celui-là concerne les demandes d'accès, pas son procès.
 
-— Non.
-
-Varos posa le dossier.
-
-— Je conserve.
-
-— Quoi ?
-
-— Tout ce qui pourrait un jour devenir intéressant.
-
-— C'est impossible.
-
-— Oui.
-
-— Alors comment vous choisissez ?
-
-Varos sourit.
-
-— Mal.
+Il posa le dossier près de l'extrait du jugement. Darien reconnut les mêmes onglets que sur les relevés dont Varos voulait faire republier la totalité.
 
 Il ouvrit.
 
@@ -5090,113 +4932,23 @@ Puis :
 
 **INTERPRÉTATION**
 
-— Quelqu'un peut me donner un fait concernant la pendaison ?
+— Sortez une feuille. À gauche, écrivez ce que vous avez vu vous-mêmes. À droite, ce qu'on vous a raconté, avec le nom de la personne.
 
-Toutes les mains se levèrent.
+Pell leva la main.
 
-— Pell.
+— Et si mon père dit qu'Oren était innocent ?
 
-— Oren Vale était innocent.
+— Vous écrivez que votre père le dit. Vous laissez de la place pour expliquer pourquoi.
 
-— Interprétation.
+Les plumes commencèrent à gratter. Delan passa entre les tables. Il demanda à Joss de déplacer dans la colonne de droite ce que son oncle prétendait avoir vu aux Docks. À une fille assise près de la fenêtre, il fit préciser de quel balcon elle avait regardé la place.
 
-— Mais—
+Puis il revint au tableau.
 
-— Assieds-toi.
+— Ceux qui étaient à la pendaison, donnez-moi un détail dont vous vous souvenez. Les autres écouteront sans l'améliorer.
 
-Une autre main.
+La fille parla des fleurs blanches. Pell voulait encore parler d'innocence ; Delan lui indiqua sa feuille et attendit qu'il se rassît.
 
-— Joss.
-
-— L'Arbre a prouvé qu'Oren était innocent.
-
-— Interprétation.
-
-— Mais l'Arbre—
-
-— Interprétation.
-
-Une fille leva la main.
-
-— Oren Vale a été pendu.
-
-— Fait.
-
-Maître Delan écrivit.
-
-**OREN VALE A ÉTÉ PENDU.**
-
-— Autre chose ?
-
-— Il est mort.
-
-Le professeur hésita.
-
-— Probablement un fait.
-
-Les enfants rirent.
-
-— Pourquoi probablement ? demanda Mara.
-
-Maître Delan se tourna.
-
-— Parce que je n'ai pas vu son corps.
-
-— Mais tout le monde dit—
-
-— Tout le monde est une source médiocre.
-
-Il écrivit :
-
-**LA MORT D'OREN VALE A ÉTÉ CONSTATÉE PAR LE CHIRURGIEN ROYAL.**
-
-— Voilà un fait.
-
-Mara fronça les sourcils.
-
-— C'est pas pareil.
-
-— Exactement.
-
-Il sourit.
-
-— Maintenant l'Arbre.
-
-Une main.
-
-— Il a fleuri.
-
-— Fait.
-
-Il écrivit.
-
-— Pourquoi ?
-
-Silence.
-
-Puis :
-
-— Les dieux.
-
-— Interprétation.
-
-— Parce qu'Oren était innocent.
-
-— Interprétation.
-
-— Magie.
-
-— Interprétation.
-
-— Printemps.
-
-Rires.
-
-Maître Delan écrivit quand même :
-
-**CAUSE NATURELLE.**
-
-— Interprétation.
+Il inscrivit les mots de la fille sans ajouter de cause.
 
 Mara leva la main.
 

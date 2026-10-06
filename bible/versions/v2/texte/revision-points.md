@@ -1,0 +1,13 @@
+# Retouches de lecture — D-028
+
+7 octobre 2026. Choix auteur : yeux ouverts une fois pendu, injectés de sang et hantant Mara jusqu’à lui faire oublier momentanément le bourgeon ; remplacer dents, réparer cartes ; résoudre bon trop net et timing des inspecteurs ; corriger Venn, flacons, conclusions, voix, intérêt Varos et piste du garçon. Brouillon révisé, base préservée `9ec5957`, sources inchangées et III fin O conservée.
+
+- SC-001/004/005/008/009 : entrée sur attente, pas regard vivant mystérieux ; yeux du pendu ouverts, blanc rouge perçu, honte et désir de partir ; observation du bourgeon revient à l’atelier, détails conservés en III. Humour remplacé, tirage des copies distingué de composition.
+- SC-007/012/025 : cartes récupérées après retournement du duc ; métaphore finale n’affirme plus qu’une seule pouvait être réellement en main.
+- SC-009/010/027/028/036 : bon classé en comptes usuels ; ouverture lundi, validation du texte inconnue, épreuve visée absente. Rappel annoncé avant recherche puis intervalle de travail/livraison. Jon garde bon en poche, ment sur perte, document manquant consigné, détruit après départ ; plus de transfert à Mara. Darien recherche date de visa et accusés de réception, pas condamnation anticipée déjà prouvée.
+- SC-023/024 : sept auparavant/six derniers jours explicités ; demande préparations réelles, pesées, lots, préparateurs et conservation. Venn objecte sur accumulation et interactions ; reçu confirme préservation/recherche, pas analyse reçue. Scénario coordonné abandonné, causes cumulées et exploitation encore ouvertes. Adrien à questionner, malaise de Cassian.
+- SC-028/029/037/039 : Varos lit et compare les pièces, enjeu personnel d’un relevé annuel contrôlé par lui cité partiellement au jugement ; veut publier entier avec son nom. Darien cherche gardien, coursier, marché et propriétaires, sans servir systématiquement de naïf. Delan fait écrire observations et sources en classe ; ne répète pas un duel de maximes. Quelques traits d’esprit demeurent.
+- SC-029/044 : dessin confié par Darien ; apprenti puis marchand reconnaissent petites lettres du graveur, pas modèle ni motif de Valdorne ; adresse à vérifier. Autorisation recherchée, veuve et visite J9 maintenues ; initiales d’atelier distinctes du motif collectif découvert sur le cuivre.
+- SC-013 : RL-16 traité, pas de Palen ni entretien promis. Gardes ne situent pas un début antérieur ; prudence chronologique de Cassian conservée.
+
+Les modalités nouvelles sont une mise en œuvre au statut brouillon, pas des secrets décidés par l’auteur. Cause médicale, identité, intentions des commandes et du rappel, absence de l’épreuve, origine de la fleur et sens collectif restent ouverts.

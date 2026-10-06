@@ -1,6 +1,6 @@
 # Point de reprise
 
-Mis à jour le 6 octobre 2026.
+Mis à jour le 7 octobre 2026.
 
 Adresse de lecture fournie par l’auteur : [Lire le roman en ligne](https://gahmuz.github.io/redatto-cantabile/) (D-019). À réutiliser pour les liens de lecture.
 
@@ -25,6 +25,8 @@ Les sources brutes V1/V2 restent inchangées. Les douze morceaux de prose avaien
 **Calendrier :** recours déposé J2, réponse J8 ; registre demandé J4, consulté J6, volumes suivants J7. Circulaire, atelier et refus municipal J9 ; consultation avec Jon après les cours J10. Inscriptions jusqu’à environ J13, couronnement annoncé J14. Merel atteste le graffiti du palais avant l’aube J0, sans savoir si un autre le précède.
 
 ## Contrôle et limites
+
+D-024 : [nouvelle lecture générale](controles/2026-10-07-lecture-synthese.md), trois lectures indépendantes intégrales I–III sur `422c139`, puis arbitrage des passages signalés par l’auteur. Lecture initiale : problèmes RL-01–15 relevés : cartes, réponses de Venn et contrôle des flacons, portée des conclusions de Cassian, ouverture, coïncidences, voix, intérêts et provenance de l’atelier. Complément D-025 prioritaire : définir ce que Cassian avait fait et savait avant l’exécution, et ce que la floraison change dans sa conduite ; procès non suivi n’était pas un fait établi avant D-026. D-026 retient l’enquête antérieure entravée par la rapidité de la procédure ; I–II révisés en SC-007/016/020/022. Synthèse initiale distinguée des originaux, demandes et refus antérieurs, absence au procès et erreur d’attente assumées ; floraison apporte un levier politique. [Mémoire de la révision](../bible/versions/v2/texte/revision-cassian.md). [Trois lectures ciblées terminées](controles/2026-10-07-cassian-synthese.md), I–II intégralement ; raccords droitier et amorce médicale corrigés puis relus. Aucun nouveau P1/P2 établi sur D-026, dosage introductif P3 maintenu. RL-15 traité dans le brouillon ; RL-01–14 restent ouverts. Lecture HTTP Chromium et liens vérifiés ; III inchangé. Le raccord des cartes avait échappé aux précédentes lectures ; leurs conclusions sont historiques et ne valident pas ces points.
 
 D-018 : [trois lectures ciblées du motif](controles/2026-10-06-motif-synthese.md), SC-045 et dépendances ; aucun problème nouveau établi. Rencontre concrète d’une autre famille, sans solution ni alliance ajoutée. État précédent préservé au commit `f1b6eca`.
 
@@ -51,3 +53,13 @@ Titre confirmé par l’auteur : **L’Arbre des Rois** (D-022, ancien D-017 de 
 `index.html` charge `manuscrit/index.md`, puis les fichiers des chapitres via `lecture/lecteur.js`, sans copie de prose ni génération HTML. Maintenir les liens, l’ordre et les statuts de l’index ; `.nojekyll` préserve les fichiers pour GitHub Pages. Adresse de lecture fournie par l’auteur conservée en tête de ce fichier. Les vérifications Chromium de cette page sont documentées dans le commit de main ; ne pas les présenter comme réalisées à nouveau lors de la fusion.
 
 Vérification de la réconciliation avant fusion : Chromium via HTTP sous `/redatto-cantabile/`, trois chapitres chargés depuis les Markdown actuels, navigation et rendu conformes, âges corrigés, motif collectif et fin « O » vérifiés. Aucun texte narratif changé lors de la fusion.
+
+## Retour de lecture après D-026
+
+D-027 : [RL-16, Palen et Mara](controles/2026-10-07-palen-mara.md). L’antériorité incertaine évoquée par le garde au Conseil affaiblit l’observation propre de Mara ; entretien demandé sans suite écrite. Proposition principale : retirer cette déposition et la demande, conserver l’incertitude générale et le refus du lien causal officiel. Alternative : entretien établissant la limite de Palen. Aucune solution choisie, manuscrit inchangé ; transmission de la note de Mara à Cassian non montrée.
+
+## Révision D-028 contrôlée
+
+[Retouches de lecture](../bible/versions/v2/texte/revision-points.md) appliquées I–III : yeux après pendaison et souvenir intrusif, gag/cartes, bon comptable et validation inconnue, rappel annoncé, doses et préparations, portée des conclusions, voix, intérêt personnel Varos et trace du garçon. Palen retiré, RL-16 traité dans le brouillon. [Trois lectures indépendantes I–III terminées](controles/2026-10-07-points-synthese.md), derniers raccords corrigés puis relus ; aucun nouveau P1/P2 restant établi sur cette révision. Fiches, chronologie et index réconciliés ; lecteur HTTP Chromium et liens vérifiés. Points demandés traités ; restent une réserve P2 sur les adversaires politiques et des pistes P3 sur voix de Commission / confirmation avant-aube. Sources conservées, III toujours sur O.
+
+D-029 : suppression du témoignage anticipé et de l’entretien de Palen explicitement approuvée par l’auteur après D-028. SC-013 déjà conforme ; aucune prose modifiée à cette confirmation.

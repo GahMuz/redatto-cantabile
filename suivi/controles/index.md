@@ -1,6 +1,6 @@
 # Contrôles
 
-Dernier contrôle : [motif collectif D-018](2026-10-06-motif-synthese.md), trois lectures indépendantes ciblées de SC-045 et dépendances. Aucun problème établi ni réparation supplémentaire demandée. Les contrôles précédents gardent leurs périmètres historiques.
+Dernier contrôle : [retouches D-028](2026-10-07-points-synthese.md), trois lectures indépendantes intégrales I–III et raccords finaux ciblés. Points demandés traités dans le brouillon ; voix de Commission, adversaires politiques et confirmation avant-aube restent à affiner. Les rapports antérieurs restent historiques.
 
 | Date | Rapport | Périmètre lu | Versions / état des sources | Points ouverts |
 | --- | --- | --- | --- | --- |
@@ -40,3 +40,26 @@ Les rapports proposent des corrections sans les appliquer au roman. Une observat
 | 2026-10-06 | [Fond](2026-10-06-motif-fond.md) | Même périmètre ciblé | Autre famille avec démarche propre |
 | 2026-10-06 | [Forme](2026-10-06-motif-forme.md) | Même périmètre ciblé | Raccord et rencontre naturels |
 | 2026-10-06 | [Synthèse](2026-10-06-motif-synthese.md) | Trois rapports arbitrés | Aucun problème nouveau établi |
+
+| Date | Lecture générale | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-07 | [Cohérence](2026-10-07-lecture-coherence.md) | I–III intégralement | Cartes, Venn, flacons, ouverture et coïncidence ; P3 locaux |
+| 2026-10-07 | [Fond](2026-10-07-lecture-fond.md) | I–III intégralement | Conclusions, compétences, intérêts, adversaires, provenance |
+| 2026-10-07 | [Forme](2026-10-07-lecture-forme.md) | I–III intégralement | Voix, leçons, image des cartes et focalisation locale |
+| 2026-10-07 | [Synthèse](2026-10-07-lecture-synthese.md) | Trois rapports arbitrés, passages relus | RL-01–15 ouverts ; complément sur la motivation de Cassian, aucune réécriture |
+
+| Date | Contrôle D-026 | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-07 | [Cohérence](2026-10-07-cassian-coherence.md) | I–II intégralement puis deux raccords finaux | Motivation, obstacles et savoir raccordés |
+| 2026-10-07 | [Fond](2026-10-07-cassian-fond.md) | I–II intégralement, avant deux derniers raccords locaux | RL-15 traité ; responsabilité préservée |
+| 2026-10-07 | [Forme](2026-10-07-cassian-forme.md) | I–II intégralement puis amorce médicale finale | Raccord corrigé ; dosage du résumé P3 |
+| 2026-10-07 | [Synthèse](2026-10-07-cassian-synthese.md) | Trois rapports arbitrés, passages et mémoire | Aucun nouveau P1/P2 sur D-026 ; RL-01–14 ouverts |
+
+Contrôle ciblé du coordinateur après D-026 : [Palen et Mara, RL-16](2026-10-07-palen-mara.md). SC-013 et sources de l’observation relues, occurrences vérifiées ; anticipation et entretien sans suite écrite à arbitrer. Aucun chapitre modifié.
+
+| Date | Contrôle D-028 | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-07 | [Cohérence](2026-10-07-points-coherence.md) | I–III intégralement puis raccords finaux | Objets, préparations, indices et calendrier raccordés |
+| 2026-10-07 | [Fond](2026-10-07-points-fond.md) | I–III intégralement puis raccords finaux | Causes, enjeux Varos et provenance traités ; adversaires à développer |
+| 2026-10-07 | [Forme](2026-10-07-points-forme.md) | I–III intégralement puis raccords finaux | Voix différenciées et coutures traitées |
+| 2026-10-07 | [Synthèse](2026-10-07-points-synthese.md) | Trois rapports arbitrés, scènes et mémoire | Aucun nouveau P1/P2 restant établi sur D-028 |

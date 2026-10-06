@@ -18,26 +18,26 @@ I : fragment terminal « — Vraiment » de la première pièce retiré au profi
 
 | Identifiant stable | Chapitre / ouverture | Contenu |
 | --- | --- | --- |
-| SC-V2-001 | I : « Le jour où l'Arbre mort fleurit » | Foule, Mara quatorze ans et Teren dix-sept ans, bourgeon repéré pendant l’attente avant arrivée et livraison délaissée |
+| SC-V2-001 | I : « Mara attendait derrière un manteau brun » | Foule, Mara quatorze ans et Teren dix-sept ans, bourgeon repéré pendant l’attente avant arrivée et livraison délaissée |
 | SC-V2-002 | I : « Pendant trois jours » | Affiches, portrait gravé différent, métier d'archiviste |
 | SC-V2-003 | I : « L'Arbre se dressait derrière lui » | Histoire de l'Arbre et procédure de pendaison |
 | SC-V2-004 | I : « Le prêtre leva les mains » | Condamnation, plaisanterie sur la soupe, bourgeon retrouvé avant la chute après observation pendant l’attente |
 | SC-V2-005 | I : « Des milliers. » | Floraison et interprétations ; les enfants rentrent |
 | SC-V2-006 | I : « Sur la tribune royale » | Eléane protège la place et convoque Cassian |
-| SC-V2-007 | I : « Cassian Orme se trouvait effectivement » | Jeu, trois reines et convocation |
+| SC-V2-007 | I : « Cassian Orme se trouvait effectivement » | Démarches antérieures et refus d’entretien reçu le matin ; jeu, trois reines et convocation |
 | SC-V2-008 | I : « À quatre rues de là » | Retour à l'atelier ; mensonge de Teren, Corven et récit du bourgeon |
-| SC-V2-009 | I : « L'imprimerie des Veyre » | Bon daté du lundi ; arrestation mardi ; père effrayé |
-| SC-V2-010 | I : « Puis on frappa à la porte » | Rappel des documents ; bon caché puis brûlé ; protection de la vie familiale |
+| SC-V2-009 | I : « L'imprimerie des Veyre » | Rappel annoncé, bon comptable ouvert lundi, validation du titre inconnue/épreuve absente ; arrestation mardi et peur du père |
+| SC-V2-010 | I : « Puis on frappa à la porte » | Rappel après intervalle ; bon gardé par Jon, manquant consigné puis brûlé ; protection familiale |
 | SC-V2-011 | I : « À la tombée de la nuit » | Propagation au soir, cinq mots ; inscription vue par Merel avant l’aube, plus ancienne attestée |
 | SC-V2-012 | II : « Cassian Orme arriva au palais » | Palais agité et gardes supplémentaires |
 | SC-V2-013 | II : « Ils étaient neuf » | Conseil, branche coupée, horaires, témoignages divergents et rumeurs |
 | SC-V2-014 | II : « La porte s'ouvrit » | Olven examine la branche ; elle est vivante, origine non expliquée |
 | SC-V2-015 | II : « Un secrétaire entra » | Onze inscriptions ; première signalée à 12 h 17 |
-| SC-V2-016 | II : « Le Conseil dura encore deux heures » | Régence, couronnement dans quatorze jours ; échange Cassian–Eléane |
+| SC-V2-016 | II : « Le Conseil dura encore deux heures » | Régence, couronnement dans quatorze jours ; démarches antérieures de Cassian, absence au procès, autorisations nouvelles |
 | SC-V2-017 | II : « Il commença par les appartements » | Lettres manquantes, trace rectangulaire, interruption de Serdan |
 | SC-V2-018 | II : « Le mur se trouvait » | Merel dit avoir vu un écrivain avant l'aube ; estimation 4 h 45 et odeur d'encre |
 | SC-V2-019 | II : « Ils marchèrent jusqu'à l'échafaud » | Corps descendu sur ordre de Cassian ; Helven ; traces de plume à gauche, porteurs consignés et gardiens convoqués |
-| SC-V2-020 | II : « Les Archives judiciaires occupaient » | Solan, neuf témoins, défense du mandat écartée, feuillets tronqués, demandes d'entretien et Ervan mort |
+| SC-V2-020 | II : « Les Archives judiciaires occupaient » | Solan, confrontation de la synthèse aux originaux ; neuf témoins déjà connus, mandat écarté, feuillets tronqués, appels à Cassian et Ervan mort |
 
 Ces repères suivent les transitions du texte sans insérer d'ancres dans la prose. La [mémoire du texte V2](../../../bible/versions/v2/texte/personnages.md) les utilise comme sources. Voir également les [points repérés à l'import](../../../suivi/controles/2026-10-06-import-v2.md).
 ## Raccords de la suite
@@ -49,14 +49,14 @@ Ces repères suivent les transitions du texte sans insérer d'ancres dans la pro
 | Scène | Chapitre / ouverture | Contenu |
 | --- | --- | --- |
 | SC-V2-021 | II : « Chaque fois que je trouve quelqu'un » | Madame Ervan, accident rapporté, annotations |
-| SC-V2-022 | II : « Une heure plus tard, Cassian » | Archives médicales et accumulation possible |
+| SC-V2-022 | II : « Une heure plus tard, Cassian » | Analyses complètes enfin remises ; concentration déjà connue, absence de substance étrangère et accumulation possible nouvelles |
 | SC-V2-023 | II : « Maître Venn avait trente-deux ans » | Entretien et changements de vie d'Aldren |
 | SC-V2-024 | II : « Où sont consignées ces décisions » | Collecte, théorie abandonnée, registre complet confronté à la requête de défense ; demande signalée à la Sûreté |
 | SC-V2-025 | II : « Il était presque une heure du matin » | Reconnaissances du corps, origine contestée par Lysa alléguée, extrait de décès à vérifier |
 | SC-V2-026 | III : « Le lendemain de la mort d'Oren Vale » | Matin et paiement du concours |
 | SC-V2-027 | III : « Puis quelqu'un frappa » | Darien chez Veyre et carte douteuse |
-| SC-V2-028 | III : « Darien tourna au coin de la rue » | Rapport à Varos, informations de morgue |
-| SC-V2-029 | III : « On frappa. Deux coups » | Garçon, rue des Cendres, visite reportée |
+| SC-V2-028 | III : « Darien tourna au coin de la rue » | Rapport à Varos, son relevé cité au jugement, informations de morgue et démarches distinctes |
+| SC-V2-029 | III : « On frappa. Deux coups » | Garçon, lettres du graveur reconnues par apprenti/marchand, adresse rue des Cendres ; autorisation à obtenir |
 | SC-V2-030 | III : « Pendant ce temps, Mara découvrait » | Aspiration et suspension de Teren |
 | SC-V2-031 | III : « Pas un livre. Le registre familial » | Acte de Teren daté 53, dossier de Lena et restriction familiale |
 | SC-V2-032 | III : « En bas, la clochette » | Plaque et histoire de Lena ; fin coupée |
@@ -75,7 +75,7 @@ Ces repères suivent les transitions du texte sans insérer d'ancres dans la pro
 | SC-V2-036 | III : gargote et note déchirée | Refus du marché, récit de Valdorne et témoignage du bourgeon |
 | SC-V2-037 | III : Varos, requête et registre central | J3–J6 : consultations d’Oren, requête puis attente, classement de Lena maintenu ; examen transmis par O. Vale |
 | SC-V2-038 | III : « Une demande de révision » | J6–J7 : révisions refusées, attente des volumes, Commission et 108 dossiers transférés |
-| SC-V2-039 | III : lendemain, école | J8 : faits / interprétations, bourgeon public, rumeurs après une semaine |
+| SC-V2-039 | III : lendemain, école | J8 : exercice écrit d’observations/sources, bourgeon public, rumeurs après une semaine |
 | SC-V2-040 | III : Jon vient chercher Mara | J8 : recours rejeté six jours après dépôt, 53-7714, toit ; Lena morte depuis dix ans et promesse à Teren |
 | SC-V2-041 | III : « Pas de nom. » | Enveloppe, corps techniques et conflit familial |
 | SC-V2-042 | III : « À l’école, Mara garda le formulaire » puis bibliothèque | Circulaire 14-7-B et recommandation antérieure |
@@ -84,3 +84,7 @@ Ces repères suivent les transitions du texte sans insérer d'ancres dans la pro
 | SC-V2-045 | III : archives municipales | J9–J10 : refus, accord de Teren, travail et cours ; autre famille au même motif aux Archives, consultation avec Jon et levée recommandée par Oren |
 
 [Dernière mémoire du texte](../../../bible/versions/v2/texte/suite-chapitre-03-decret.md) : scènes 033–045, connaissances actualisées et procédures.
+
+D-026 : [révision de l’enquête antérieure de Cassian](../../../bible/versions/v2/texte/revision-cassian.md), scènes 007, 016, 020, 022 ; modalités nouvelles au statut brouillon. III inchangé.
+
+D-028 : [retouches de lecture et connaissances actualisées](../../../bible/versions/v2/texte/revision-points.md), I–III révisés, III toujours fin « O ».

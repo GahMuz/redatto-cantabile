@@ -2,11 +2,7 @@
 
 ## Chapitre I — Le pendu
 
-Le jour où l'Arbre mort fleurit, personne ne remarqua que le condamné avait les yeux ouverts.
-
-Personne, sauf Mara.
-
-Un peu plus tôt, Mara attendait derrière un manteau brun dont le col lui arrivait au nez. Les gardes n'étaient pas encore sortis du palais.
+Mara attendait derrière un manteau brun dont le col lui arrivait au nez. Les gardes n'étaient pas encore sortis du palais.
 
 Teren soupira.
 
@@ -36,11 +32,11 @@ Teren entraîna sa sœur plus loin.
 
 — Un jour, tu vas dire ça à quelqu'un qui te cassera les dents.
 
-— Papa dit que les dents repoussent.
+— Tu pourras enfin placer un mot.
 
-— Papa parle des enfants de six ans.
+Teren lui prit le poignet et la tira entre deux manteaux.
 
-— Il aurait dû préciser.
+— Essaie déjà de garder les pieds au sol.
 
 Ils gagnèrent quelques mètres dans la foule.
 
@@ -164,15 +160,7 @@ Puis le condamné.
 
 Oren Vale.
 
-Mara regarda ses yeux ouverts.
-
-— Il nous voit.
-
-— Il voit dix mille personnes, dit Teren.
-
-— Non. Nous.
-
-Son frère ne répondit pas.
+Il avançait sans chercher personne dans la foule. Mara se hissa derrière l'épaule de Teren pour voir son visage.
 
 ***
 
@@ -188,7 +176,7 @@ Et surtout dans l'atelier de leur père.
 
 **OREN VALE RECONNU COUPABLE DU RÉGICIDE.**
 
-Mara avait composé cette phrase cent quarante-sept fois la veille.
+Mara avait tiré cent quarante-sept exemplaires de cette affiche la veille.
 
 Elle le savait parce qu'elle avait compté.
 
@@ -498,7 +486,15 @@ Puis il ne l'était plus.
 
 Cela avait pris moins d'une seconde.
 
-Mara regarda ses chaussures se balancer au-dessus des planches.
+La tête du pendu avait tourné vers la foule. Entre deux montants de l'échafaud, Mara vit son visage.
+
+Ses yeux étaient restés ouverts. Le blanc lui parut injecté de sang.
+
+Elle attendit qu'il cligne des paupières.
+
+Il ne le fit pas.
+
+Teren lui serra le bras. Elle baissa les yeux jusqu'aux chaussures qui se balançaient au-dessus des planches. Le petit point vert avait disparu de ses pensées.
 
 Elle ressentit soudain une honte étrange d'être venue.
 
@@ -602,69 +598,17 @@ La question passa d'une bouche à l'autre.
 
 **Pourquoi ?**
 
-Mara regarda le bourgeon qu'elle avait remarqué.
+Mara essayait de regarder les fleurs. Chaque fois que le corps tournait légèrement, elle retrouvait les yeux ouverts entre les montants.
 
-Ou plutôt l'endroit où il se trouvait.
+— On rentre, dit-elle.
 
-Impossible maintenant de le distinguer parmi les centaines de feuilles.
+Teren se pencha pour l'entendre.
 
-Elle tira la manche de son frère.
+— Maintenant.
 
-— Teren.
+Elle passa derrière lui. Elle ne voulait plus voir le visage.
 
-Il contemplait les fleurs.
-
-— Teren.
-
-— Quoi ?
-
-— Il avait commencé avant.
-
-— Quoi ?
-
-— L'Arbre.
-
-Il la regarda.
-
-— Qu'est-ce que tu racontes ?
-
-— Le bourgeon. Je te l'ai montré.
-
-— Quel bourgeon ?
-
-— Pendant qu'on attendait. Les gardes étaient même pas encore sortis.
-
-Teren fronça les sourcils.
-
-— J'ai rien vu.
-
-— Mais moi oui.
-
-— T'as peut-être cru voir.
-
-Mara regarda l'Arbre.
-
-Peut-être.
-
-C'était possible.
-
-Elle avait quatorze ans.
-
-Elle avait faim.
-
-Elle était loin.
-
-Et maintenant il y avait des feuilles partout.
-
-— Viens, dit Teren.
-
-— Mais—
-
-— Papa va vraiment nous tuer.
-
-Cela suffit.
-
-Ils partirent.
+Teren lui prit la main. Ils gagnèrent la sortie en longeant les murs, sans se retourner.
 
 ***
 
@@ -780,7 +724,15 @@ Eléane soupira.
 
 Cassian Orme se trouvait effectivement là où il ne devait pas être.
 
-Il avait trois reines en main et la femme du ministre des Finances sur ses genoux.
+Dans la poche de son manteau, il avait un refus d'entretien avec Oren Vale.
+
+Il l'avait reçu ce matin. Après le jugement, seul le prêtre pouvait encore voir le condamné. Cassian avait fait renvoyer sa demande avec son sceau. La réponse n'avait pas changé.
+
+Depuis la mort d'Aldren, il réclamait les pièces de l'enquête. On lui avait envoyé une synthèse : une concentration mortelle de véradine, les accès d'un archiviste aux documents médicaux, neuf témoins. Il avait demandé les analyses complètes et les procès-verbaux. Le procès s'était achevé avant qu'il les reçoive.
+
+Il avait essayé d'obtenir du temps. La condamnation avait tenu lieu de réponse.
+
+À présent, il avait trois reines en main et la femme du ministre des Finances sur ses genoux.
 
 Il considérait que l'une des deux situations était excellente.
 
@@ -920,6 +872,8 @@ Trois reines.
 
 Cassian s'arrêta sur le seuil.
 
+Il revint prendre les trois cartes sous les doigts du duc et les glissa dans sa poche.
+
 Les cloches de la capitale commencèrent à sonner.
 
 Une.
@@ -1040,7 +994,7 @@ Son père ouvrit les yeux.
 
 — Quel arbre ?
 
-Mara se demanda pourquoi tous les adultes posaient cette question aujourd'hui.
+Mara indiqua la direction de la place, au-delà du mur de l'atelier.
 
 — L'Arbre.
 
@@ -1102,11 +1056,13 @@ Teren commença :
 
 — Ils l'ont pendu et—
 
-— Il avait commencé avant, dit Mara.
+Mara regardait le bord du comptoir. Elle revoyait les yeux du pendu, le blanc parcouru de rouge. Puis les mots de Teren lui rappelèrent la branche.
+
+— Il avait commencé avant, dit-elle.
 
 Son frère soupira.
 
-— Encore ça ?
+— Tu vas encore parler de ton point vert ?
 
 Leur père regarda sa fille.
 
@@ -1282,7 +1238,11 @@ Puis il reprit le réglage de sa presse.
 
 — On en a encore derrière.
 
-— Alors range-les.
+— Alors rassemble-les. Un commis est passé pendant que vous étiez sur la place : le Bureau reprend les affiches cet après-midi.
+
+Il désigna une note posée près de la presse.
+
+— Les rebuts, les épreuves et les bons. Ils nous laisseront un reçu pour les comptes.
 
 Mara abandonna les contributions et se dirigea vers l'arrière-boutique.
 
@@ -1314,17 +1274,11 @@ Sur certaines, l'encre avait bavé.
 
 D'autres étaient mal découpées.
 
-Elle trouva amusant que même une condamnation royale puisse avoir des exemplaires ratés.
+Elle les retourna pour ne plus voir ce visage. Elle avait voulu rire du nez gravé ; elle revoyait les paupières qui ne bougeaient pas.
 
-Elle les rassembla.
+Elle lia les rebuts, puis tira la chemise des commandes livrées. Jon y conservait les bons jusqu'au règlement définitif ; chaque livraison avait son papier, même lorsque le Bureau fournissait la gravure.
 
-Une feuille glissa de dessous la pile.
-
-Mara se baissa.
-
-Ce n'était pas une affiche.
-
-Un bon de commande.
+Elle chercha la référence des affiches. Le bon était à sa place, entre une commande de prières et les avis du troisième district.
 
 Elle allait le remettre à sa place lorsqu'elle vit le montant.
 
@@ -1384,7 +1338,7 @@ Mara allait ranger le document.
 
 Puis quelque chose l'arrêta.
 
-La date.
+La date d'ouverture de la commande.
 
 Elle relut.
 
@@ -1418,7 +1372,7 @@ Un soupir depuis l'atelier.
 
 Elle regarda le bon.
 
-— Alors pourquoi ils ont commandé ses affiches lundi ?
+— Alors pourquoi le bon de ses affiches a été ouvert lundi ?
 
 Cette fois, la presse s'arrêta.
 
@@ -1456,7 +1410,13 @@ Rien au dos.
 
 — Quoi ?
 
-— Les mandats sont préparés avant les arrestations.
+— Ils réservent le papier avant d'envoyer le texte. La date d'ouverture n'est pas celle du bon à tirer.
+
+— Il est où, le bon à tirer ?
+
+Jon regarda la chemise restée ouverte derrière elle.
+
+— Avec l'épreuve validée. Cherche-la.
 
 — Mais ça dit qu'il est coupable.
 
@@ -1474,7 +1434,13 @@ Elle lut :
 
 — « Oren Vale reconnu coupable du régicide. »
 
-Son père ne répondit pas.
+Jon reprit la chemise. L'emplacement du bon à tirer était vide ; il passa le pouce sous la couture pour s'assurer qu'aucune petite feuille n'y restait prise.
+
+— Le titre a pu être ajouté après l'ouverture, dit-il.
+
+— Ou avant.
+
+Il ne répondit pas.
 
 — Son procès était jeudi.
 
@@ -1490,19 +1456,13 @@ Puis encore une fois.
 
 Et le glissa dans sa poche.
 
-— Tu t'es trompée de date.
+— Tu ne sais pas quand ils ont validé cette phrase.
 
-Mara fronça les sourcils.
+— Toi non plus.
 
-— Non.
+— Justement. Ce bon ne suffit pas.
 
-— Si.
-
-— Je sais lire une date.
-
-— Celle-ci était mal écrite.
-
-— Pas du tout.
+— Alors pourquoi tu le caches ?
 
 — Mara.
 
@@ -1562,13 +1522,15 @@ Son père eut presque un sourire.
 
 — Oui.
 
-Puis on frappa à la porte.
+Jon remit la presse en marche. Mara reprit les contributions, mais dut recomposer deux lignes qu'elle avait montées de travers. Corven finit par partir. Teren emporta les registres à son bureau ; lorsqu'il revint, Jon posa les rebuts comptés avec les pièces à rendre.
+
+Lorsque les fonctionnaires frappèrent, le paquet les attendait depuis un moment.
 
 Trois coups.
 
 Lents.
 
-Son sourire disparut.
+Jon posa son composteur.
 
 Il regarda la porte.
 
@@ -1672,63 +1634,13 @@ Mara recula entre deux piles.
 
 Les hommes commencèrent à ramasser les affiches.
 
-Son père l'aperçut.
+Jon se plaça près du paquet. Le papier plié resta dans sa poche.
 
-Une seconde.
+— Le bon original ? demanda le premier fonctionnaire.
 
-Son regard descendit vers sa propre poche.
+— Je vérifie si je l'ai classé au livre de comptes.
 
-Le bon de commande.
-
-Puis revint vers elle.
-
-Mara comprit.
-
-Elle ne savait pas pourquoi elle comprenait.
-
-Mais elle comprit.
-
-L'un des fonctionnaires demanda :
-
-— Le bon original ?
-
-Son père répondit :
-
-— Avec les autres.
-
-L'homme fouilla.
-
-Mara regardait son père.
-
-Il regardait l'homme.
-
-Puis, très lentement, sans tourner la tête vers elle, il laissa tomber sa main le long de son tablier.
-
-Deux doigts.
-
-Vers le bas.
-
-Mara connaissait ce geste.
-
-À l'atelier, il signifiait :
-
-**ramasse.**
-
-Elle se baissa.
-
-Son père sortit discrètement le papier plié de sa poche.
-
-Le laissa tomber.
-
-Mara le récupéra.
-
-— Quelque chose ? demanda le fonctionnaire.
-
-— Non.
-
-Mara glissa le papier dans sa chaussure.
-
-Il lui griffa la cheville.
+Il tira le livre de dessous le comptoir et tourna plusieurs pages. Mara resta entre les piles, immobile. Elle n'osa pas bouger ; son père gardait le bon sur lui.
 
 Le deuxième homme trouva le registre des commandes.
 
@@ -1743,6 +1655,14 @@ Le père de Mara hésita.
 — Avec mes commandes ?
 
 — Celles qui vous concernent.
+
+Le premier homme revint au livre de comptes.
+
+— Vous retrouvez le bon ?
+
+— Pas ici. Je vous le signalerai s'il ressort.
+
+L'homme inscrivit le document manquant sur son attestation. Jon regarda ce qu'il écrivait sans sortir les mains de dessous le comptoir.
 
 Cette fois, son père ne plaisanta pas.
 
@@ -1770,7 +1690,7 @@ Mara sentit son cœur accélérer.
 
 — Pourquoi ?
 
-— Ils sont entrés juste avant nous. Je suppose qu'ils revenaient de l'exécution.
+— Un de nos commis les a vus revenir de la place. Ils revenaient de l'exécution ?
 
 — Oui.
 
@@ -1800,11 +1720,7 @@ Les pas s'éloignèrent.
 
 Puis le père de Mara tira le verrou.
 
-— Donne.
-
-Elle sortit le papier de sa chaussure.
-
-Il le prit.
+Jon sortit le bon de sa poche.
 
 Mara s'attendait à ce qu'il le cache.
 
