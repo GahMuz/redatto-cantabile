@@ -33,15 +33,19 @@ La dernière proposition d'un assistant n'est pas nécessairement ta version pr�
 
 ## Lire dans un navigateur
 
-Ouvrir [index.html](index.html) dans un navigateur : sommaire des chapitres actifs, navigation précédent/suivant, taille de texte réglable et mode sombre. La page est autonome, sans serveur ni connexion Internet ; sans JavaScript, tous les chapitres restent lisibles à la suite. Le statut de chaque chapitre est affiché, notamment la fin coupée du chapitre III. Les sources et archives historiques ne sont pas incluses.
+[index.html](index.html) charge directement `manuscrit/index.md` pour construire le sommaire, puis le fichier Markdown du chapitre sélectionné. Le texte reste uniquement dans `manuscrit/versions/…/chapitre-….md` : aucune copie des chapitres n'est intégrée à la page et aucune génération n'est nécessaire après une modification. Les fichiers sont demandés sans cache navigateur à chaque ouverture de chapitre ; après une modification de l'index, recharger la page pour actualiser le sommaire.
 
-Après une modification du manuscrit ou de son index, régénérer la copie de lecture depuis la racine du dépôt :
+La lecture propose une navigation précédent/suivant, une taille de texte réglable et un mode sombre. Le statut de chaque chapitre est affiché, notamment la fin coupée du chapitre III. Seuls les chapitres référencés dans l'index actif sont chargés. `lecture/lecteur.js` assure le chargement et rend les paragraphes, emphases et séparateurs utilisés dans le manuscrit, sans dépendance externe. La présentation se modifie directement dans `index.html`.
+
+Ouvrir la page via GitHub Pages ou un serveur HTTP local. Depuis la racine du dépôt :
 
 ```sh
-python3 outils/generer_lecture.py
+python3 -m http.server 8000
 ```
 
-Le script lit les chapitres référencés dans `manuscrit/index.md` et utilise `lecture/modele.html` pour produire `index.html`. Modifier les chapitres Markdown pour le texte, et le modèle pour la présentation ; une modification directe de la page générée serait écrasée. Le rendu couvre les paragraphes, emphases et séparateurs actuellement utilisés dans le manuscrit. Aucune publication en ligne n'est configurée.
+Puis consulter <http://localhost:8000/>. Le double-clic sur `index.html` (`file://`) ne convient pas au chargement des fichiers Markdown ; un message l'indique. JavaScript est nécessaire à la lecture ; un lien vers l'index Markdown reste disponible s'il est désactivé.
+
+Le fichier `.nojekyll` permet à GitHub Pages de servir les fichiers du dépôt tels quels. L'activation de GitHub Pages reste à effectuer ; après publication, les modifications envoyées sur GitHub seront disponibles une fois son déploiement terminé.
 
 ## Écrire et réécrire
 

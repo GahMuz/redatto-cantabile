@@ -43,7 +43,7 @@ Conserver les identifiants stables des chapitres et scènes quand leur ordre cha
 
 ## Fin de séance
 
-Après modification d'un chapitre actif, de son ordre ou de son statut dans `manuscrit/index.md`, régénérer la copie de lecture avec `python3 outils/generer_lecture.py`. `index.html` est un fichier généré ; la présentation se modifie dans `lecture/modele.html`, le texte reste dans les sources Markdown du manuscrit.
+La page `index.html` charge directement `manuscrit/index.md` et les fichiers Markdown des chapitres via `lecture/lecteur.js`. Après modification du manuscrit, maintenir l'index actif (liens, ordre et statuts) ; ne pas recopier le texte dans la page ni réintroduire une génération HTML. La présentation se modifie directement dans `index.html`. Vérifier la lecture via HTTP, notamment sous le chemin du dépôt pour GitHub Pages ; `.nojekyll` préserve les fichiers servis tels quels.
 
 Après une modification du texte, actualiser les fiches concernées, la chronologie, les fils narratifs et les index. Invalider les anciens faits dont la scène source a changé ; ne pas seulement ajouter les nouveaux. Actualiser `suivi/etat.md` avec le travail effectué, les points ouverts et les lectures nécessaires à la reprise. Distinguer clairement les fichiers modifiés et ce qui reste à vérifier.
 
