@@ -20,3 +20,5 @@ D-018 retient 14A : motif collectif de Valdorne, concrétisé par une autre fami
 D-026 : [révision de l’enquête antérieure de Cassian](versions/v2/texte/revision-cassian.md), scènes 007, 016, 020, 022 ; modalités nouvelles au statut brouillon. III inchangé.
 
 D-028 : [retouches de lecture et connaissances actualisées](versions/v2/texte/revision-points.md), I–III révisés, III toujours fin « O ».
+
+D-031 : Oren garde le silence avant pendaison et regarde la branche (SC-004), récit de Mara raccordé (SC-036). Motivation et perception demeurent inconnues ; aucun nouveau message ou signe ajouté.

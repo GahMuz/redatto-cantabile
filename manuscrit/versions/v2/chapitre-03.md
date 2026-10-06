@@ -3914,7 +3914,7 @@ Darien approcha sa main de sa sacoche.
 
 — Combien de temps avant la chute ?
 
-— Je sais pas. Ils ont lu la sentence après. Et Oren a parlé de la soupe.
+— Je sais pas. Ils ont lu la sentence après. Le prêtre lui a demandé s'il voulait parler, mais il a rien dit.
 
 — Donc tu n'as pas remarqué le bourgeon en suivant son regard ?
 

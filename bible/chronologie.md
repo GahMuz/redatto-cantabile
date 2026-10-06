@@ -129,3 +129,5 @@ SC-033 : Jon rapporte des plaques chez d’autres pensionnaires de Saint-Avelle.
 - Ancien contrôle annuel des accès par Varos : date non fixée ; cité dans un extrait du jugement apporté par Darien la veille de SC-028, donc J0. Varos constate la citation à J1 et veut le relevé complet/republication. Ce qu’il contrôlait et responsabilité judiciaire ne se confondent pas.
 - SC-028/029 J1 soir : Darien prévoit visite du gardien à la relève de nuit, action non montrée. Dessin confié au garçon la veille, J0 soir selon Darien ; chaîne apprenti/marchand rapportée, pas identification certaine du portrait. Autorisation du propriétaire à obtenir ; veuve et inventaire restent J9.
 - SC-013 : gardes situent feuilles à chute/après ou n’ont pas regardé. Aucun n’atteste un début avant ; Cassian n’apprend pas l’observation précise de Mara. Palen et entretien retirés (RL-16).
+
+D-031 : SC-004, demande de dernières paroles suivie du silence d’Oren et du geste du prêtre avant exécution. SC-036, Mara rappelle le silence pour situer l’ordre des événements, sans durée mesurée ; ancien repère de la soupe retiré. Observation pendant attente, mort et horaires J0 inchangés.

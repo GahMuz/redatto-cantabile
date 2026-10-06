@@ -372,77 +372,11 @@ Le prêtre demanda :
 
 — Avez-vous quelque chose à déclarer avant que la sentence soit exécutée ?
 
-Oren regardait toujours l'Arbre.
+Oren ne répondit pas. Son regard restait fixé sur la branche.
 
-— Oui.
+Le prêtre attendit encore, puis se tourna vers le bourreau.
 
-La foule se calma.
-
-Même Teren se pencha.
-
-Oren prit une inspiration.
-
-— J'aimerais présenter mes excuses.
-
-Des murmures parcoururent la place.
-
-Le prêtre acquiesça gravement.
-
-— Aux dieux ?
-
-— Non.
-
-Oren regarda le bourreau.
-
-— À lui.
-
-Le bourreau fronça les sourcils.
-
-— À moi ?
-
-— Oui.
-
-Oren désigna la corde du menton.
-
-— Je suis assez lourd.
-
-Quelques rires éclatèrent.
-
-Le bourreau ne rit pas.
-
-— Je suis sérieux. J'ai beaucoup mangé en prison.
-
-— Fermez-la.
-
-— C'était excellent, d'ailleurs.
-
-Le bourreau resserra le nœud.
-
-— La soupe surtout.
-
-Cette fois, même un garde sourit.
-
-Mara regarda Teren.
-
-— Je l'aime bien.
-
-— Il a tué le roi.
-
-— On peut tuer le roi et être drôle.
-
-— Je crois pas.
-
-— Pourquoi ?
-
-Teren réfléchit.
-
-— Parce qu'après on te pend.
-
-C'était difficile à contester.
-
-Sur l'échafaud, Oren avait cessé de sourire.
-
-Il regardait de nouveau l'Arbre.
+Celui-ci resserra le nœud.
 
 Mara retrouva le point vert qu'elle avait remarqué pendant l'attente. Il était toujours là, au bout de la branche.
 
