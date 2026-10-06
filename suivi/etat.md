@@ -26,7 +26,7 @@ Les sources brutes V1/V2 restent inchangées. Les douze morceaux de prose avaien
 
 ## Contrôle et limites
 
-D-024 : [nouvelle lecture générale](controles/2026-10-07-lecture-synthese.md), trois lectures indépendantes intégrales I–III sur `422c139`, puis arbitrage des passages signalés par l’auteur. Problèmes RL-01–14 ouverts : cartes, réponses de Venn et contrôle des flacons, portée des conclusions de Cassian, ouverture, coïncidences, voix, intérêts et provenance de l’atelier. Aucun chapitre modifié. Le raccord des cartes avait échappé aux précédentes lectures ; leurs conclusions sont historiques et ne valident pas ces points.
+D-024 : [nouvelle lecture générale](controles/2026-10-07-lecture-synthese.md), trois lectures indépendantes intégrales I–III sur `422c139`, puis arbitrage des passages signalés par l’auteur. Problèmes RL-01–15 ouverts : cartes, réponses de Venn et contrôle des flacons, portée des conclusions de Cassian, ouverture, coïncidences, voix, intérêts et provenance de l’atelier. Complément D-025 prioritaire : définir ce que Cassian avait fait et savait avant l’exécution, et ce que la floraison change dans sa conduite ; procès non suivi n’est pas un fait établi. Trois directions proposées, aucune retenue. Aucun chapitre modifié. Le raccord des cartes avait échappé aux précédentes lectures ; leurs conclusions sont historiques et ne valident pas ces points.
 
 D-018 : [trois lectures ciblées du motif](controles/2026-10-06-motif-synthese.md), SC-045 et dépendances ; aucun problème nouveau établi. Rencontre concrète d’une autre famille, sans solution ni alliance ajoutée. État précédent préservé au commit `f1b6eca`.
 

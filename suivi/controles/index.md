@@ -46,4 +46,4 @@ Les rapports proposent des corrections sans les appliquer au roman. Une observat
 | 2026-10-07 | [Cohérence](2026-10-07-lecture-coherence.md) | I–III intégralement | Cartes, Venn, flacons, ouverture et coïncidence ; P3 locaux |
 | 2026-10-07 | [Fond](2026-10-07-lecture-fond.md) | I–III intégralement | Conclusions, compétences, intérêts, adversaires, provenance |
 | 2026-10-07 | [Forme](2026-10-07-lecture-forme.md) | I–III intégralement | Voix, leçons, image des cartes et focalisation locale |
-| 2026-10-07 | [Synthèse](2026-10-07-lecture-synthese.md) | Trois rapports arbitrés, passages relus | RL-01–14 ouverts ; aucune réécriture |
+| 2026-10-07 | [Synthèse](2026-10-07-lecture-synthese.md) | Trois rapports arbitrés, passages relus | RL-01–15 ouverts ; complément sur la motivation de Cassian, aucune réécriture |

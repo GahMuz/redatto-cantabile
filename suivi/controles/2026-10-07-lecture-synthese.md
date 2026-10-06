@@ -28,6 +28,24 @@ L’auteur relève l’ouverture sur les yeux, le ton du gag des dents, les cart
 | RL-13 — P3 | Un témoin « avant l’aube » est annoncé, puis Cassian rejoue la surprise à « encore sombre ». | II SC-017/018. Passer de la découverte à la confirmation, ou retarder la précision du premier message. LC-C07. |
 | RL-14 — P3 | Mara aurait « composé » une phrase cent quarante-sept fois et un visage des centaines de fois, alors que la gravure est fournie et les exemplaires tirés depuis une forme. | I SC-002/009, III SC-027. Choisir « imprimé » ou « tiré » lorsque le nombre compte les exemplaires. LC-C08. |
 
+## Complément prioritaire — Cassian avant l’exécution, RL-15
+
+Nouveau retour de l’auteur, 7 octobre 2026 : la curiosité devant l’Arbre semble déclencher l’enquête, tandis que la mort du frère et le procès n’ont guère mobilisé Cassian. Analyse ciblée du coordinateur après ce retour, distincte des trois rapports précédents.
+
+**Preuves :** I SC-007 le présente aux cartes pendant l’exécution. II SC-016 : « J’ai lu le dossier », puis « J’aimerais revoir le dossier d’Oren ». II SC-017 esquisse le deuil (« Il aurait donné beaucoup pour pouvoir recommencer » à se moquer de son frère). II SC-020 découvre pourtant mandat, pièces, lettres, demandes d’entretien à Cassian et réponses tronquées ; Solan répond « Tout le tribunal » à qui connaissait ces demandes. II SC-023 le laisse découvrir les données médicales élémentaires de la mort.
+
+**Diagnostic :** défaut de motivation et de continuité de l’engagement, prioritaire dans la révision. Le texte ne prouve pas qu’il était absent du procès ; il n’établit pas davantage sa participation ou les vérifications entreprises avant l’exécution. La phrase sur la lecture antérieure ne suffit pas à expliquer ce qu’il savait, pourquoi il acceptait le verdict et ce que la floraison change. La dissimulation des demandes d’Oren peut être crédible si un circuit précis l’a privé de pièces ; elle ne justifie pas à elle seule toute son passivité. Son cynisme et son goût du jeu ne dispensent pas d’un motif. Le deuil est présent, mais ne produit pas encore une conduite compréhensible.
+
+**Conséquences :** clarifier sa lecture du dossier, son rôle au procès, son accès aux originaux, ses éventuelles questions médicales et le déclencheur de la reprise. L’Arbre peut transformer les enjeux d’une enquête, faire douter d’une certitude ou rouvrir un accès ; il doit modifier une position antérieure identifiable. Traiter cette question avant de polir ses dialogues ou la seule récupération des cartes.
+
+**Directions proposées, aucune choisie :**
+
+- A : il enquêtait déjà, avec une piste bloquée ou un résultat provisoire ; le miracle rend l’affaire politiquement impossible à refermer et ouvre une reprise. Distinguer pièces déjà connues et éléments réellement nouveaux.
+- B : il avait accepté le verdict, éventuellement soutenu sa clôture au nom de la succession ; l’Arbre révèle le risque d’avoir participé à une injustice. Sa responsabilité et son désir de protéger Adrien limitent sa lucidité.
+- C : il était tenu à l’écart, pour une raison institutionnelle ou un conflit concret ; ses démarches et les refus doivent être montrés. Le miracle change le rapport de force qui bloquait son accès. Ses moyens actuels importants rendent nécessaire une résistance précise.
+
+Ces directions changent le personnage et les scènes dépendantes ; elles ne sont pas des faits nouveaux. A conserve le plus directement un Cassian curieux et actif ; B approfondit sa compromission ; C construit un conflit avec ceux qui contrôlent la procédure. Le choix appartient à l’auteur.
+
 ## Arbitrages et limites
 
 LF-04, « pourquoi tous les adultes posaient cette question aujourd’hui » chez Mara, est conservé comme suggestion locale : elle n’a pas assisté à la question de Cassian. Une hyperbole familière demeure possible ; ce n’est pas une contradiction certaine de focalisation. Simplifier la pensée laisserait le gag de montage au lecteur.
@@ -36,4 +54,4 @@ Le calendrier J0–J10, les âges quatorze/dix-sept, les délais huit/cinq ans, 
 
 Les résultats de Lysa, les demandes de Cassian après J1, le sens du signe, le modèle du cuivre, l’expéditeur et la floraison restent ouverts. Le départ de la narration vers Mara ne prouve pas dix jours d’inaction de Cassian. La fin matérielle « O » n’est pas une chute à juger.
 
-Ordre utile : raccords d’objet et réponses médicales ; vérifications et portée des conclusions ; préparation des coïncidences et fonction de l’ouverture ; voix, répétitions et formulations locales. Ces pistes sont des propositions, pas des choix artistiques acquis. Aucun P1 établi par ces lectures ; aucun score ni garantie d’exhaustivité.
+Ordre utile désormais : position et motivation de Cassian avant l’exécution (RL-15) ; raccords d’objet et réponses médicales ; vérifications et portée des conclusions ; préparation des coïncidences et fonction de l’ouverture ; voix, répétitions et formulations locales. Ces pistes sont des propositions, pas des choix artistiques acquis. Aucun P1 établi par ces lectures ; aucun score ni garantie d’exhaustivité.

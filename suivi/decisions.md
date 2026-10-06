@@ -72,3 +72,6 @@ D-023 — 6 octobre 2026, correction explicite de l’auteur : `index.html` doit
 
 
 D-024 — 7 octobre 2026, retours de lecture de l’auteur : ouverture sur les yeux ouverts paraissant sans rapport, gag des dents perçu comme enfantin, cartes laissées par Cassian puis retrouvées, arrivée des agents au moment de la lecture du bon ; demande d’autres éléments problématiques. Audit général I–III à trois lecteurs indépendants, rapports et synthèse conservés. Pas de nouvelle solution narrative choisie ni de réécriture demandée par cette seule critique. Base du manuscrit `422c139`, III reste incomplet sur « O ». Le ressenti sur les dents est consigné sans l’étendre à une interdiction générale de l’humour familial.
+
+
+D-025 — 7 octobre 2026 : l’auteur juge plus important le problème de motivation de Cassian : l’Arbre déclenche sa curiosité, alors que la mort de son frère, le dossier et le tribunal semblent l’avoir peu mobilisé auparavant. Vérification ciblée : « J’ai lu le dossier » et « revoir » sont écrits, deuil esquissé, mais rôle au procès et conduite avant l’exécution insuffisamment établis. Complément RL-15 consigné comme priorité de révision. Directions proposées : enquête antérieure bloquée ; verdict accepté avec responsabilité possible ; mise à l’écart institutionnelle. Aucun choix retenu ni nouvel antécédent ajouté au manuscrit.
