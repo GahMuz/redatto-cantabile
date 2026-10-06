@@ -1,6 +1,8 @@
 # Contrôles
 
-Dernier contrôle ciblé : [silence du pendu D-031](2026-10-07-silence-synthese.md), six scènes lues intégralement par trois lecteurs indépendants ; aucun nouveau problème établi.
+Dernier contrôle : [Cassian à la prison D-033](2026-10-07-prison-synthese.md), trois lectures indépendantes intégrales I–II ; réserve spatiale PC-01 corrigée, aucun nouveau P1/P2 établi sur la révision.
+
+Contrôle ciblé précédent : [silence du pendu D-031](2026-10-07-silence-synthese.md), six scènes lues intégralement par trois lecteurs indépendants ; aucun nouveau problème établi.
 
 Dernier audit général : [retouches D-028](2026-10-07-points-synthese.md), trois lectures indépendantes intégrales I–III et raccords finaux ciblés. Points demandés traités dans le brouillon ; voix de Commission, adversaires politiques et confirmation avant-aube restent à affiner. Les rapports antérieurs restent historiques.
 

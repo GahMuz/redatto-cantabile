@@ -1,12 +1,8 @@
-# Chapitre II — Trois reines
+# Chapitre II — Les pièces
 
-Cassian Orme arriva au palais avec trois reines dans sa poche.
+Cassian Orme arriva au palais avec le refus d'entretien signé par le directeur de la prison.
 
-Il avait oublié de les rendre.
-
-Ce n'était pas la première chose qu'il avait volée au duc de Salerne et certainement pas la plus précieuse, mais il se promit de les restituer.
-
-Un jour.
+L'heure avait été ajoutée sous la signature. Il la relut avant de ranger la feuille.
 
 Le palais était en état de siège.
 
@@ -914,15 +910,7 @@ Eléane s'approcha.
 
 — Qu'est-ce que tu cherches ?
 
-Cassian sortit les trois reines de sa poche.
-
-Il les posa sur la table.
-
-Une.
-
-Deux.
-
-Trois.
+Cassian posa le refus d'entretien sur la table, puis sa demande des pièces, dont le reçu attendait toujours une réponse.
 
 — Je ne sais pas encore.
 
@@ -934,7 +922,7 @@ Trois.
 
 — Ce que je demandais déjà avant ce matin. Comment mon frère est mort. Et ce qu'Oren a réellement fait.
 
-Eléane regarda les trois cartes.
+Eléane regarda l'heure ajoutée au refus.
 
 — Fais inscrire tes demandes comme vérifications ordonnées par la régence. Je les signerai.
 
@@ -942,23 +930,9 @@ Eléane regarda les trois cartes.
 
 — Cette fois, nous devons répondre à toute la ville. Je veux savoir ce qu'on pourra soutenir quand ces fleurs auront fané.
 
-Cassian retourna la première carte.
+Cassian replia les deux feuilles.
 
-— Les preuves résumées sont excellentes.
-
-La deuxième.
-
-— La chronologie est excellente.
-
-La troisième.
-
-— Le mobile est acceptable.
-
-— Alors ?
-
-Cassian regarda les trois reines.
-
-— Alors je veux voir ce qu'on a laissé hors de la synthèse.
+— Je veux voir ce qu'on a laissé hors de la synthèse. Pas recevoir encore une conclusion à la place des pièces.
 
 ***
 
@@ -1726,17 +1700,13 @@ Des traces d'encre.
 
 Mais pas là où il s'y attendait.
 
-Il sortit de sa poche une des cartes du duc.
-
-Une reine.
-
-Il la tendit au médecin.
+Il détacha un feuillet vierge de son carnet et le tendit au médecin.
 
 — Écrivez votre nom.
 
 — Quoi ?
 
-— Sur la carte.
+— Sur cette feuille.
 
 — Pourquoi ?
 
@@ -4150,24 +4120,10 @@ Serdan le suivit.
 
 — Pourquoi ?
 
-Cassian sortit de sa poche les trois cartes qu'il avait volées au duc.
+Cassian sortit le papier que lui avait donné le morguier. Il passa le pouce sur le nom de Lysa, puis sur le numéro de la sépulture.
 
-Il les regarda.
+— Les collègues reconnaissent un homme. Cette femme dit que son frère est mort enfant. Je veux savoir à quel nom chacun rattache son souvenir.
 
-Trois reines.
+Il replia la feuille.
 
-Trois cartes identiques.
-
-Toutes vraies.
-
-Il les avait tenues ensemble. Il avait fallu les retourner pour voir à quel point elles se ressemblaient.
-
-Il en tendit une à Serdan.
-
-— Parce que depuis ce matin, tout le monde me montre des preuves.
-
-— Et ?
-
-Cassian rangea les deux autres.
-
-— J'aimerais enfin savoir de quoi.
+— Et revoir celui qu'on a pendu.

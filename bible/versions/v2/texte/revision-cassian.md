@@ -14,3 +14,5 @@ Direction choisie par l’auteur le 7 octobre 2026 : enquête déjà entreprise,
 La synthèse citait concentration mortelle de véradine, accès d’Oren, neuf témoins, trois tentatives d’approcher le roi, mention « droitier » et numéros des pièces. Ni lettres originales, ni appels à Cassian, ni feuillets intégraux ne lui avaient été remis. Le mandat et la comparaison écartée restent découverts aux Archives ; causes médicales et identité non résolues. Floraison : levier politique pour obtenir enfin ces documents, pas première source de son intérêt pour Aldren.
 
 Pas de jour absolu fixé pour la mort du roi. Mardi/jeudi, trois jours de prison et J0 conservés. Les formulations nouvelles restent brouillon ; choix des moyens concret de mise en œuvre, pas décision de secret ou institution générale.
+
+D-033 : [sortie de prison](revision-prison.md) remplace la partie de cartes et tous ses usages I–II. Les mentions de cartes dans le présent dossier décrivent un état antérieur ; elles ne sont plus des faits actifs.

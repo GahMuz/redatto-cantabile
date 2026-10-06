@@ -11,3 +11,5 @@
 - SC-013 : RL-16 traité, pas de Palen ni entretien promis. Gardes ne situent pas un début antérieur ; prudence chronologique de Cassian conservée.
 
 Les modalités nouvelles sont une mise en œuvre au statut brouillon, pas des secrets décidés par l’auteur. Cause médicale, identité, intentions des commandes et du rappel, absence de l’épreuve, origine de la fleur et sens collectif restent ouverts.
+
+D-033 : [sortie de prison](revision-prison.md) remplace la partie de cartes et tous ses usages I–II. Les mentions de cartes dans le présent dossier décrivent un état antérieur ; elles ne sont plus des faits actifs.

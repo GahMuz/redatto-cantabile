@@ -23,3 +23,5 @@ D-017 : âges actifs portés à quatorze ans pour Mara et dix-sept ans pour Tere
 D-026 : [révision de l’enquête antérieure de Cassian](versions/v2/texte/revision-cassian.md), scènes 007, 016, 020, 022 ; modalités nouvelles au statut brouillon. III inchangé.
 
 D-028 : [retouches de lecture et connaissances actualisées](versions/v2/texte/revision-points.md), I–III révisés, III toujours fin « O ».
+
+D-033 : [Cassian en prison et retrait des cartes](versions/v2/texte/revision-prison.md), I–II et titre II révisés ; démarches de D-026 préservées, III inchangé.
