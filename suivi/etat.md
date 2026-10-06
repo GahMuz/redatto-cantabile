@@ -61,3 +61,5 @@ D-027 : [RL-16, Palen et Mara](controles/2026-10-07-palen-mara.md). L’antério
 ## Révision D-028 contrôlée
 
 [Retouches de lecture](../bible/versions/v2/texte/revision-points.md) appliquées I–III : yeux après pendaison et souvenir intrusif, gag/cartes, bon comptable et validation inconnue, rappel annoncé, doses et préparations, portée des conclusions, voix, intérêt personnel Varos et trace du garçon. Palen retiré, RL-16 traité dans le brouillon. [Trois lectures indépendantes I–III terminées](controles/2026-10-07-points-synthese.md), derniers raccords corrigés puis relus ; aucun nouveau P1/P2 restant établi sur cette révision. Fiches, chronologie et index réconciliés ; lecteur HTTP Chromium et liens vérifiés. Points demandés traités ; restent une réserve P2 sur les adversaires politiques et des pistes P3 sur voix de Commission / confirmation avant-aube. Sources conservées, III toujours sur O.
+
+D-029 : suppression du témoignage anticipé et de l’entretien de Palen explicitement approuvée par l’auteur après D-028. SC-013 déjà conforme ; aucune prose modifiée à cette confirmation.
