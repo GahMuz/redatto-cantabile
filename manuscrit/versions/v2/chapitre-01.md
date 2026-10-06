@@ -6,27 +6,13 @@ Le jour où l'Arbre mort fleurit, personne ne remarqua que le condamné avait le
 
 Personne, sauf Mara.
 
-Et Mara regardait surtout parce qu'elle s'ennuyait.
+Un peu plus tôt, Mara attendait derrière un manteau brun dont le col lui arrivait au nez. Les gardes n'étaient pas encore sortis du palais.
 
-— Il nous voit.
+Teren soupira.
 
-Teren ne répondit pas.
-
-— Je te dis qu'il nous voit.
-
-— Il voit dix mille personnes.
-
-— Non. Nous.
-
-Son frère soupira.
-
-À quinze ans, Teren avait récemment acquis la conviction que soupirer constituait une réponse acceptable à presque toutes les questions.
+À dix-sept ans, Teren avait récemment acquis la conviction que soupirer constituait une réponse acceptable à presque toutes les questions.
 
 Mara lui donna un coup de coude.
-
-— Regarde.
-
-— J'essaie justement.
 
 Il lui écrasa le pied.
 
@@ -114,6 +100,52 @@ Elle aimait son frère.
 
 Elle aimait surtout l'emmerder.
 
+L'arche du palais restait vide. Mara se hissa sur la pointe des pieds, puis renonça. On ne faisait même pas entrer les gardes.
+
+Au-dessus de l'échafaud, les branches de l'Arbre dépassaient les têtes. Elle suivit leurs coudes, leurs fourches, la plus basse qui revenait vers le tronc. Au bout, une petite saillie lui sembla différente.
+
+Un bourgeon.
+
+Minuscule.
+
+Presque invisible.
+
+Au bout d'une branche morte.
+
+Mara plissa les yeux.
+
+Vert.
+
+Elle tira la manche de Teren.
+
+— Regarde.
+
+— Quoi ?
+
+— Là-haut.
+
+— Où ?
+
+— Sur la branche.
+
+— Quelle branche ?
+
+— Celle qui ressemble à un bras.
+
+Teren leva les yeux.
+
+Toutes les branches ressemblaient à des bras.
+
+— Très utile.
+
+— À gauche.
+
+— Ta gauche ou la mienne ?
+
+Mara le regarda.
+
+— On a la même gauche, imbécile.
+
 Devant eux, quelqu'un cria :
 
 — Ils arrivent !
@@ -131,6 +163,16 @@ Puis un prêtre.
 Puis le condamné.
 
 Oren Vale.
+
+Mara regarda ses yeux ouverts.
+
+— Il nous voit.
+
+— Il voit dix mille personnes, dit Teren.
+
+— Non. Nous.
+
+Son frère ne répondit pas.
 
 ***
 
@@ -334,11 +376,7 @@ Il ne semblait pas avoir peur du bourreau.
 
 Il regardait une branche.
 
-Mara suivit son regard.
-
-Du bois gris.
-
-Rien d'autre.
+Mara suivit son regard. Il semblait aller vers la branche qu'elle avait montrée à Teren. Elle ne pouvait pas savoir s'il distinguait le petit point vert.
 
 Le bourreau lui passa la corde autour du cou.
 
@@ -418,49 +456,9 @@ Sur l'échafaud, Oren avait cessé de sourire.
 
 Il regardait de nouveau l'Arbre.
 
-Et Mara vit alors ce qui attirait son attention.
+Mara retrouva le point vert qu'elle avait remarqué pendant l'attente. Il était toujours là, au bout de la branche.
 
-Un bourgeon.
-
-Minuscule.
-
-Presque invisible.
-
-Au bout d'une branche morte.
-
-Mara plissa les yeux.
-
-Vert.
-
-Elle tira la manche de Teren.
-
-— Regarde.
-
-— Quoi ?
-
-— Là-haut.
-
-— Où ?
-
-— Sur la branche.
-
-— Quelle branche ?
-
-— Celle qui ressemble à un bras.
-
-Teren leva les yeux.
-
-Toutes les branches ressemblaient à des bras.
-
-— Très utile.
-
-— À gauche.
-
-— Ta gauche ou la mienne ?
-
-Mara le regarda.
-
-— On a la même gauche, imbécile.
+Elle allait demander de nouveau à Teren de regarder.
 
 Le levier claqua.
 
@@ -634,7 +632,7 @@ Il la regarda.
 
 — Quel bourgeon ?
 
-— Juste avant qu'ils le pendent.
+— Pendant qu'on attendait. Les gardes étaient même pas encore sortis.
 
 Teren fronça les sourcils.
 
@@ -650,7 +648,7 @@ Peut-être.
 
 C'était possible.
 
-Elle avait douze ans.
+Elle avait quatorze ans.
 
 Elle avait faim.
 
@@ -1233,6 +1231,10 @@ Son père disait qu'elle finirait par ne plus la sentir.
 Cela lui semblait triste.
 
 Elle passa derrière la grande presse.
+
+Le long du mur, les paquets attendaient leurs destinataires : formulaires des Admissions, relevés du Service des Eaux, feuillets de prières. Une association d'anciens de Saint-Avelle avait commandé des cartes de secours. Jon avait posé celles-ci à part ; leurs souscripteurs payaient chacun quelques deniers, rarement le même jour.
+
+Mara savait reconnaître ces clients à leur papier avant de connaître leurs visages.
 
 Sur les tables s'alignaient les casses de caractères : minuscules en bas, capitales en haut, signes, espaces, chiffres.
 
@@ -1840,7 +1842,7 @@ Mara ne comprit pas.
 
 — Quel rapport ?
 
-— Cette boutique est à nous. Cette maison est à nous. Vous mangez tous les jours. Ton frère pourra passer les concours l'année prochaine. Toi aussi, plus tard, si tu veux.
+— Cette boutique est à nous. Cette maison est à nous. Vous mangez tous les jours. Ton frère pourra passer les concours. Toi aussi, plus tard, si tu veux.
 
 — Mais ils avaient commandé—
 
@@ -1882,26 +1884,16 @@ Maintenant, pour une raison qu'elle n'aurait pas su expliquer, ils lui semblaien
 
 ***
 
-À la tombée de la nuit, quelqu'un écrivit six mots sur le mur du palais.
-
-Personne ne le vit faire.
-
-Le garde qui les découvrit reçut l'ordre de les effacer.
-
-Il obéit.
-
-À l'aube, ils étaient revenus.
-
-Cette fois sur trois murs.
-
-Puis sur onze.
-
-À midi, on pouvait les lire dans tous les quartiers de la capitale.
+À la tombée de la nuit, les gardes effaçaient encore les cinq mots apparus sur le mur du palais.
 
 **VOUS AVEZ PENDU UN INNOCENT.**
 
-Personne ne savait qui avait commencé.
+Ils avaient déjà été recopiés sur onze murs. Chaque fois qu'une patrouille quittait une rue, quelqu'un attendait qu'elle tourne au coin.
 
-Personne ne savait pourquoi.
+Personne, parmi ceux qui les répétaient, ne savait qui avait commencé.
 
-Et surtout, personne ne remarqua que le premier graffiti avait été écrit alors qu'Oren Vale était encore vivant.
+Le plus ancien signalement retrouvé dans les rapports de garde datait de midi passé. Pour les bureaux du palais, l'inscription était une conséquence de la floraison.
+
+Merel, le boulanger de la rue Haute, avait pourtant vu un homme tracer ces mots avant l'aube, alors qu'Oren Vale était encore vivant.
+
+Il ignorait si quelqu'un les avait déjà écrits ailleurs.

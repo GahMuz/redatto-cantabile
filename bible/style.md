@@ -4,7 +4,7 @@
 
 ## Titre du roman
 
-**L’Arbre des Rois**, confirmé par l’auteur le 6 octobre 2026 dans le présent échange (D-017). « L’histoire sans début » désigne le projet ChatGPT d’origine, pas le titre du roman.
+**L’Arbre des Rois**, confirmé par l’auteur le 6 octobre 2026 dans le présent échange (D-022). « L’histoire sans début » désigne le projet ChatGPT d’origine, pas le titre du roman.
 
 ## Références et effets recherchés
 
@@ -36,7 +36,7 @@ Distinguer l'effet recherché (dialogue, tension, rythme, humour, point de vue�
 
 ## Questions ouvertes
 
-Les deux raisons explicites de révision reçues sont l'implication trop facile des enfants et le recours aux prophéties. Les références appréciées ne constituent pas une approbation automatique du rythme très fragmenté de la V1. Le rejet des prophéties ne signifie pas un rejet du fantastique ou l'exigence d'une explication naturelle de l'Arbre.
+Les deux raisons explicites de révision reçues dans les sources importées sont l'implication trop facile des enfants et le recours aux prophéties. Les références appréciées ne constituent pas une approbation automatique du rythme très fragmenté de la V1. Le rejet des prophéties ne signifie pas un rejet du fantastique ou l'exigence d'une explication naturelle de l'Arbre.
 
 ## Pistes de l'assistant, à distinguer des préférences de l'auteur
 
@@ -49,3 +49,9 @@ L'identification bibliographique du souvenir de Gemmell avancée dans SRC-V1-01 
 L'assistant propose une société qui apporte une réelle stabilité tout en réduisant les possibles, des voix différenciées, une causalité collective et des manipulations issues d'interprétations erronées ([SRC-V2-02](../sources/v2/02-damasio-et-societe.txt) ; SRC-V2-04, E-003). L'auteur répond « ok go » avant la livraison du plan secret : accord pour avancer, pas ratification détaillée du plan ultérieur. Voir la [bible de conception V2](versions/v2/index.md).
 
 « Il n'y a pas de destin. Il n'y a que des conséquences » est une philosophie proposée par l'assistant, à faire ressentir selon lui ; aucune obligation de placer cette phrase dans le roman. Maximes administratives et graffitis du plan restent des propositions, pas des citations de chapitres déjà écrits.
+
+## Préférences précisées dans le chat — D-016
+
+L'auteur apprécie les pistes 10–14 : domaines de lucidité et aveuglements différents, moins de leçons répétées, erreurs dont le lecteur voit le coût ; conflit de méthode entre Varos et Darien ; enquête qui produit des conséquences politiques, alliances et usage intéressé d'hypothèses. Mara observe le concret, Cassian les conversations et intérêts, Teren pense de manière appliquée et se dérègle quand il perd confiance. Faire passer certaines informations par une tâche, un trajet ou une dispute.
+
+Préserver un bénéfice réel de la Concorde, l'autonomie et la blessure de Teren après une solution administrative ; donner des conséquences au cynisme de Cassian. Le motif de Valdorne reste collectif et l'imprimerie fait circuler les informations. D-018 retient explicitement 14A : rencontre d’autres familles et motif largement partagé. 14B n’est plus en attente. Ces orientations ne décident pas encore des scènes ou secrets futurs. Voir [la mémoire D-016](versions/v2/texte/revision-calendrier-bourgeon.md).

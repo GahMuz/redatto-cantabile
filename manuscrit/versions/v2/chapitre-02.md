@@ -740,7 +740,7 @@ Il fronça les sourcils.
 
 — Onze heures quarante-neuf.
 
-— Et la première inscription ?
+— Et le plus ancien signalement que vous avez retrouvé ?
 
 Serdan consulta ses notes.
 
@@ -784,7 +784,7 @@ Cassian estimait que cinq étaient utiles.
 
 Ce qui constituait une excellente réunion gouvernementale.
 
-Adrien devait être proclamé roi dans sept jours.
+Adrien devait être proclamé roi dans quatorze jours. Il fallait prévenir les Marches et laisser arriver leurs représentants ; le Conseil refusait une proclamation à laquelle la moitié d'entre elles ne pourrait pas assister.
 
 Eléane assurerait la régence jusqu'à son couronnement.
 
@@ -1060,7 +1060,7 @@ Puis le garde.
 
 — Laquelle ?
 
-— La première.
+— Celle du palais. Nous avons trouvé quelqu'un qui l'a vue avant l'aube.
 
 Il quitta la chambre.
 
@@ -1442,7 +1442,13 @@ Cassian revint vers Merel.
 
 Cassian calcula.
 
-— Donc l'inscription était en train d'être écrite vers quatre heures quarante-cinq.
+— Donc cette inscription était en train d'être écrite vers quatre heures quarante-cinq.
+
+— Vous savez si c'était la première ? demanda Serdan.
+
+Merel secoua la tête.
+
+— Je livre le palais. Je fais pas le tour des murs de la ville.
 
 Serdan regarda le mur.
 
@@ -1728,7 +1734,7 @@ Puis changea de côté.
 
 Helven comprit.
 
-— Il était gaucher.
+— Ces traces correspondent plutôt à une plume tenue de la main gauche.
 
 — Le dossier dit droitier.
 
@@ -1738,7 +1744,15 @@ Helven comprit.
 
 Cassian se releva.
 
-— Tout peut être une erreur.
+— Envoyez-le à la morgue avec votre constat. Je veux les noms des hommes qui le transportent et l'heure de réception.
+
+Helven appela le garde chargé du brancard. Cassian attendit qu'il inscrive les trois noms.
+
+— Et les gardiens qui l'ont eu en cellule ? demanda-t-il.
+
+— Ils sont encore à la prison.
+
+— Faites-les venir le reconnaître. Séparément.
 
 ***
 
@@ -1884,19 +1898,41 @@ Cassian se frotta le menton.
 
 — Oui.
 
+— Des collègues habituels ?
+
+— Sept. Les deux autres tenaient les salles de consultation.
+
+— Leurs adresses. Je veux qu'ils voient le corps, et qu'on leur demande depuis quand ils connaissent cet homme sous ce nom.
+
+Solan prit une feuille.
+
+— L'identification judiciaire a déjà eu lieu.
+
+— Je veux leurs réponses, pas la conclusion du tribunal.
+
 Cassian tourna une page.
 
-— Il voulait vraiment qu'on le remarque.
+— Et son mandat ?
 
-Solan ne répondit pas.
+Solan ouvrit le troisième volume, à une page marquée par un ruban.
 
-Cassian leva les yeux.
+**Audit général de cohérence des Archives royales.**
 
-— Ça ne vous paraît pas étrange ?
+Sous le titre, une requête du défenseur demandait que soient comparées toutes les consultations, pas seulement celles qui concernaient Aldren.
 
-— Les criminels font des erreurs.
+— La défense l'a produit, dit Solan. Le ministère public soutenait qu'un accès régulier pouvait servir un projet criminel.
 
-— Heureusement. Sinon vous manqueriez de travail.
+— Ce qui est vrai. Ils ont fait la comparaison ?
+
+— Non. La Cour a clos les débats au titre de la procédure d'urgence. Les accès au dossier royal ont été jugés suffisants ; l'examen du reste était déclaré sans rapport avec l'accusation.
+
+Cassian lut la décision de clôture. La signature du président était nette. En dessous, le défenseur avait fait inscrire sa protestation.
+
+— Je prends une copie de cette requête aussi.
+
+— Elle n'a pas été admise.
+
+— Je vois.
 
 Il continua.
 
@@ -1992,33 +2028,21 @@ Solan fronça les sourcils.
 
 — Pourquoi ?
 
-— Parce que personne ne les a trouvées.
+— Elles ne figurent pas parmi les pièces retenues.
 
-Cassian releva lentement les yeux.
+Cassian releva les yeux.
 
-— Personne ?
+— Ce n'est pas ce que je vous ai demandé.
 
-— Oren n'a jamais expliqué de quoi il s'agissait.
+Solan posa la main sur le deuxième volume.
 
-— Même pendant son interrogatoire ?
+— Le jugement parle de réponses évasives. Je n'étais pas aux interrogatoires.
 
-— Non.
+— Alors voyons ce qu'il a réellement répondu.
 
-— Son procès ?
+Elle ouvrit le volume.
 
-— Non.
-
-— Pourquoi ?
-
-— Il a refusé de répondre.
-
-Cassian referma le dossier.
-
-— Je veux les minutes de ses interrogatoires.
-
-Solan ouvrit le deuxième volume.
-
-— Ici.
+— Les extraits certifiés sont ici. Les feuillets de séance sont joints à la protestation du défenseur.
 
 Cassian parcourut.
 
@@ -2118,25 +2142,33 @@ Cassian resta longtemps devant ces deux mots.
 
 *Tout le monde.*
 
-— Il a expliqué ?
+— Montrez-moi le feuillet de séance.
 
-— Non.
+Solan dénoua la liasse du troisième volume. Les pages étaient numérotées, couvertes d'une écriture plus serrée que celle de la copie.
 
-— Personne n'a insisté ?
+Cassian trouva la réponse. La question qui la précédait était plus longue :
 
-— Pendant neuf heures.
+**QUESTION : Qui intervenait dans les décisions dont vous dites que les effets pouvaient se cumuler ?**
 
-— Et ?
+**RÉPONSE : Tout le monde. Le médecin, les cuisines, les approvisionnements. Pas tous au même moment. Il faut comparer les changements, pas seulement les doses.**
 
-— Il a fini par demander un repas.
+Il revint en arrière. Après la première demande d'entretien, Oren avait cité des registres et commencé à expliquer leur rapprochement. La copie certifiée passait directement à la demande suivante.
 
-— Quel repas ?
+— Pourquoi ces réponses manquent-elles ?
 
-Solan le regarda comme s'il était fou.
+Solan lut la mention au bas de la copie.
 
-— Je l'ignore.
+— « Développements étrangers à la matérialité des faits poursuivis. »
 
-— Dommage.
+Elle ne le regardait plus.
+
+Le défenseur avait souligné les numéros des pages absentes. Cassian les nota.
+
+— Faites copier les feuillets. Tous.
+
+— Je dois consigner la demande.
+
+— Consignez-la.
 
 Il tourna la page.
 
@@ -3232,9 +3264,9 @@ Venn fronça les sourcils.
 
 — Je ne comprends pas.
 
-Cassian pensa à Oren.
+Cassian pensa au feuillet de séance.
 
-**Tout le monde.**
+**Il faut comparer les changements, pas seulement les doses.**
 
 Puis au magistrat Ervan.
 
@@ -3844,13 +3876,27 @@ Troisième :
 
 **24.**
 
-Il demanda le registre complet des consultations d'Oren Vale.
+Il demanda le registre complet des consultations d'Oren Vale, celui que le défenseur avait voulu faire examiner.
 
-Le secrétaire de nuit protesta.
+Le secrétaire de nuit protesta. Puis il rédigea un reçu en double.
 
-Cassian insista.
+— La Sûreté exige un relevé des consultations du dossier judiciaire, dit-il.
 
-Le registre arriva.
+— Depuis quand ?
+
+— Depuis sa clôture. Je dois y porter les pièces complémentaires que vous demandez.
+
+Cassian regarda le second exemplaire.
+
+— Il part quand ?
+
+— Avec le courrier du soir. Celui-ci attendra le matin.
+
+Cassian aurait pu laisser là le registre. Il posa son sceau sur le reçu.
+
+— Faites venir ce que j'ai demandé.
+
+Le registre arriva. Le double resta sur le bureau du secrétaire, avec la liste des feuillets d'interrogatoire.
 
 Il contenait des dizaines d'entrées.
 
@@ -3880,23 +3926,17 @@ Des nominations.
 
 Des marchés publics.
 
-Cassian comprit.
+Cassian compta les consultations qui concernaient Aldren, puis celles qui concernaient les autres services. Le dossier judiciaire conservait les premières et renvoyait les secondes à l'audit général, sans les reproduire.
 
-Oren n'enquêtait pas sur le roi.
+La comparaison réclamée par la défense ne reposait plus seulement sur l'intitulé d'un mandat. Elle tenait sur les pages qu'il avait devant lui.
 
-Il enquêtait sur quelque chose de beaucoup plus vaste.
-
-Le procureur avait simplement extrait du travail d'Oren **tout ce qui concernait Aldren**.
-
-Mis bout à bout, cela ressemblait à un plan d'assassinat.
-
-Cassian chercha le mandat d'Oren.
+Cassian rouvrit la requête du défenseur.
 
 **Audit général de cohérence des Archives royales.**
 
-Il éclata de rire.
+Le mandat autorisait bien ce travail. À lui seul, il n'innocentait personne. Mais le registre complet montrait précisément ce que la défense avait demandé à la Cour d'examiner.
 
-L'homme avait littéralement été payé pour consulter ces documents.
+Cassian posa la décision de clôture à côté. Quelqu'un avait signé pour qu'on s'arrête avant cette comparaison.
 
 Cassian prit le dossier d'accusation.
 
@@ -4038,33 +4078,27 @@ L'homme avala sa salive.
 
 Cassian attendit.
 
-— Ce n'est pas Oren Vale.
-
-Silence.
+— Une femme conteste son nom.
 
 Cassian ne sourit plus.
 
-— Répétez.
+— Son nom ou son visage ?
 
-— Le corps.
+— Elle dit reconnaître le visage des affiches. Mais elle affirme que cet homme ne peut pas être né Oren Vale.
 
-— J'avais compris cette partie.
-
-— Ce n'est pas lui.
-
-— Comment le savez-vous ?
-
-— Je ne le sais pas.
-
-Cassian regarda Serdan.
-
-— Pourquoi suis-je réveillé ?
+— Et ceux qui le connaissaient aux Archives ?
 
 Serdan répondit :
 
-— Parce que quelqu'un d'autre le sait.
+— Trois collègues sont venus, ainsi que deux gardiens. Tous reconnaissent l'homme qu'ils connaissaient sous ce nom. Les autres témoins seront convoqués au matin. Helven confirme avoir examiné le même homme en prison et sur la place.
 
-— Qui ?
+— Le transport ?
+
+— Les trois porteurs ont signé. Réception à la morgue contresignée ; les heures concordent avec le départ de la place.
+
+Cassian attendit la suite.
+
+— Alors qui est cette femme ?
 
 Le morguier sortit un morceau de papier.
 
@@ -4080,13 +4114,15 @@ Cassian prit le papier.
 
 — Apparemment.
 
-— Et ?
+— Elle a apporté quelque chose ?
 
-— Elle a regardé le cadavre.
+— Un extrait de décès. Oren Vale, neuf ans. Un sceau de paroisse, une date, un numéro de registre. Nous ne l'avons pas encore vérifié.
 
-— Et ?
+Cassian déplia le papier que lui avait donné le morguier. Une référence avait été copiée sous le nom.
 
-— Elle a ri.
+— Elle prétend que son frère est mort enfant ?
+
+— Oui. Je lui ai montré la fiche du condamné : quarante et un ans, les noms de ses parents. Elle dit que ce sont ceux de sa famille. Puis elle a regardé le cadavre et elle a ri.
 
 Cassian leva les yeux.
 
@@ -4118,11 +4154,13 @@ Cassian soupira.
 
 — Oui.
 
-— Vous avez laissé partir la seule personne capable d'identifier le corps.
+— Faites vérifier l'extrait au registre d'origine. Et interrogez les collègues sur son arrivée aux Archives, pas sur sa naissance.
 
-— Nous ne savions pas encore—
+Serdan acquiesça.
 
-— Naturellement.
+— Nous cherchons aussi la femme.
+
+— Gardez séparés son témoignage et ceux des hommes qui l'ont reconnu. Je veux savoir ce que chacun peut réellement attester.
 
 Cassian regarda le papier.
 
@@ -4146,7 +4184,7 @@ Serdan secoua la tête.
 
 — Et ?
 
-— C'est un cimetière.
+— C'est un cimetière. Elle a donné le numéro d'une sépulture.
 
 Cassian resta silencieux.
 

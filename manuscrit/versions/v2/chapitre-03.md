@@ -230,7 +230,7 @@ Elle lut :
 
 **CONCOURS D'ADMISSION AU SERVICE DE LA CONCORDE**
 
-**Inscriptions ouvertes jusqu'au 18.**
+**Inscriptions ouvertes pendant encore douze jours.**
 
 Elle regarda Teren.
 
@@ -960,33 +960,17 @@ Darien s'assit.
 
 Le vieillard mâcha lentement.
 
-— Non.
+— La garde connaissait peut-être l'ordre d'arrestation avant de l'exécuter.
 
-Darien fronça les sourcils.
+Darien sortit ses notes.
 
-— Quoi, non ?
+— Dans ce cas, je veux la date de cet ordre. Et celle de l'instruction donnée aux trois bureaux. Les imprimeurs m'ont donné les noms de leurs coursiers.
 
-— C'est une conclusion.
+Varos acquiesça.
 
-— Évidemment.
+— Gardez les commandes séparées. Celle du dimanche nous laisse une journée de plus à examiner.
 
-— Je vous paie pour les faits.
-
-Darien soupira.
-
-— Les affiches annonçant la culpabilité d'Oren ont été commandées avant son arrestation.
-
-— Voilà.
-
-— Vous ne trouvez pas ça inquiétant ?
-
-— Si.
-
-— Et ?
-
-— Être inquiet ne m'autorise pas à avoir raison.
-
-Darien se tut.
+Darien marqua une ligne dans son carnet.
 
 Le vieillard posa le trognon de poire.
 
@@ -1078,9 +1062,9 @@ Darien se leva.
 
 Le vieillard regarda sa poire.
 
-— Non.
+— Helven l'a constaté. Les collègues venus à la morgue reconnaissent le condamné. La femme conteste autre chose.
 
-— Le corps ne serait pas le sien.
+— Une femme conteste son identité de naissance.
 
 — Je sais.
 
@@ -1210,13 +1194,11 @@ Varos leva les yeux.
 
 — Donc ce n'est pas lui.
 
-— Non.
+— Les témoins le reconnaissent. Demandez qui a rempli cette rubrique avant de choisir entre eux et le formulaire.
 
 Darien frappa la table du plat de la main.
 
 — Bon sang.
-
-— Vous recommencez.
 
 — Il lui manque une dent !
 
@@ -1604,6 +1586,16 @@ Mara regarda la couverture.
 
 Teren poursuivit :
 
+— Nelle, du moulin, a été reçue l'an dernier. Tu te souviens de son père qui venait faire imprimer ses comptes ? Elle est au Service des Eaux maintenant. Sa formation est payée.
+
+Mara se souvenait surtout qu'il payait Jon avec des sacs de farine.
+
+— Elle avait peut-être quelqu'un.
+
+— Elle avait les mêmes livres que moi. Elle me les a prêtés.
+
+Teren lissa un coin de la couverture, réparé avec une bande de papier.
+
 — Si j'ai une meilleure note que le fils d'un noble, je passe devant lui.
 
 — Tu crois vraiment ça ?
@@ -1910,7 +1902,7 @@ Elle trouva celui de Teren.
 
 **TEREN VEYRE**
 
-Né le 17 de Brume, année 62 de la Concorde.
+Né le 17 de Brume, année 53 de la Concorde.
 
 Père :
 
@@ -2290,7 +2282,7 @@ Mara hésita.
 
 — Elle l'avait depuis quand ?
 
-— Toujours, d'après elle.
+— Toujours, d'après elle. D'autres pensionnaires de Saint-Avelle en avaient. Elle s'en souvenait, mais pas de ce que les cercles voulaient dire.
 
 — Depuis Valdorne ?
 
@@ -2344,7 +2336,7 @@ Teren ne rentra pas pour dîner.
 
 — Pourquoi ?
 
-— Parce qu'il a quinze ans.
+— Parce qu'il a dix-sept ans.
 
 — Justement.
 
@@ -2500,11 +2492,11 @@ Plus bas :
 
 Mara calcula.
 
-— Dix ans ?
+— Huit ans ?
 
 Son père ne répondit pas.
 
-— Ils lui interdisent le concours pendant dix ans ?
+— Ils lui interdisent le concours pendant huit ans ?
 
 — Pas tous les concours.
 
@@ -2582,7 +2574,9 @@ Elle ne dormit pas.
 
 ***
 
-Le lendemain matin, Mara alla lire le décret.
+Le lendemain matin, Jon partit déposer le recours. Il emporta les actes de famille et la lettre des Admissions ; il revint avec un reçu, aucune réponse et des commandes à finir avant le soir.
+
+Mara alla à l'école. Pendant la copie, elle écrivit « 14-7 » dans la marge de son cahier, puis effaça les chiffres avant que Delan passe entre les tables. À la sortie des cours, elle prit le chemin de la bibliothèque.
 
 Pas parce qu'elle voulait défier son père.
 
@@ -2696,9 +2690,9 @@ La bibliothécaire eut un sourire étrange.
 
 — Pourquoi ?
 
-— Parce que tu as douze ans.
+— Parce que tu as quatorze ans.
 
-— Treize dans quatre mois.
+— Quinze dans quatre mois.
 
 — Voilà qui change tout.
 
@@ -2722,45 +2716,25 @@ La bibliothécaire sourit.
 
 — C'est malheureusement vrai.
 
-Mara allait partir.
+Mara resta devant le comptoir. Sur une étagère, les recueils portaient une année au dos. Elle pensa aux formulaires périmés que Jon gardait sous la table : lorsqu'une instruction changeait, il fallait retrouver l'ancienne pour savoir ce qu'on avait remplacé.
 
-— Attends.
+— Vous avez une liste des textes que ce décret modifie ?
 
-La femme prit une feuille.
+Correl la regarda.
 
-Écrivit quelque chose.
+— Le catalogue, oui. Il est public.
 
-La plia.
+Elle le posa sur le comptoir et reprit son travail.
 
-— Va aux Archives du District.
+Mara chercha le numéro. La notice renvoyait au Recueil des mesures transitoires de l'année vingt-huit. Elle copia le titre, puis demanda où il était conservé.
 
-— Pourquoi ?
+— Aux Archives du District.
 
-— Demande le Recueil des mesures transitoires de l'année vingt-huit.
-
-— Le décret est dedans ?
+— Et avec cette référence, je pourrai voir le décret ?
 
 — Non.
 
-— Alors pourquoi—
-
-— Parce que parfois, lorsqu'on t'interdit de lire une chose, il vaut mieux lire ce qui existait juste avant.
-
-Mara prit le papier.
-
-— Pourquoi vous m'aidez ?
-
-La bibliothécaire reprit sa plume.
-
-— Je ne t'aide pas.
-
-— Si.
-
-— Non. Je t'apprends à chercher.
-
-Elle recommença à écrire.
-
-— C'est beaucoup plus dangereux.
+Mara replia sa feuille. Ce refus-là n'avait pas bougé.
 
 ***
 
@@ -2770,7 +2744,17 @@ Et beaucoup plus poussiéreuses.
 
 Mara présenta le papier.
 
-L'archiviste lui apporta un volume énorme.
+L'archiviste consulta un inventaire, puis lui donna un ticket.
+
+— Le volume est au dépôt. Revenez demain, après quinze heures.
+
+— Je peux attendre.
+
+— Ici, oui. Mais il ne sera pas là plus tôt.
+
+Elle rentra composer les convocations que Jon avait promises. Le lendemain, elle dut finir ses cours avant de revenir aux Archives avec son ticket.
+
+Cette fois, l'archiviste lui apporta un volume énorme.
 
 **MESURES TRANSITOIRES — ANNÉE 28**
 
@@ -2846,7 +2830,7 @@ Rien sur les fonctions interdites.
 
 Mara fronça les sourcils.
 
-La bibliothécaire avait donc eu tort.
+Elle avait peut-être consulté le mauvais texte.
 
 Puis elle trouva une annotation dans la marge.
 
@@ -2886,9 +2870,9 @@ Elle ne savait pas quoi.
 
 Puis elle comprit.
 
-Sa mère avait reçu tous les droits à sa majorité.
+L'ordonnance avait promis tous les droits à sa mère lorsqu'elle serait majeure.
 
-Treize ans plus tard, quelqu'un avait décidé d'en reprendre certains.
+Treize ans après cette ordonnance, quelqu'un avait décidé d'en reprendre certains.
 
 Et maintenant, même morte, elle les faisait reprendre à son fils.
 
@@ -2900,15 +2884,15 @@ Mais ce n'était toujours pas la chose qui l'inquiétait le plus.
 
 Le décret datait de l'année 41.
 
-Teren était né en 62.
+Teren était né en 53. Le décret le précédait de douze ans.
 
-Le dossier de leur mère avait donc été marqué **vingt et un ans avant sa naissance** afin qu'un jour un fonctionnaire sache qu'il fallait vérifier ses enfants.
+Mara ne savait pas encore quand le classement avait été inscrit dans le dossier de leur mère. Mais la règle avait été préparée avant la naissance de son frère, et elle continuait à l'atteindre aujourd'hui.
 
 Quelqu'un avait pensé très loin.
 
 ***
 
-Elle sortit des Archives vers midi.
+Elle sortit des Archives vers seize heures.
 
 La rue était bondée.
 
@@ -3228,7 +3212,7 @@ Darien la regarda.
 
 — À quel moment ?
 
-— Hier.
+— Le jour de l'exécution.
 
 — Beaucoup de choses.
 
@@ -3508,9 +3492,9 @@ Mara hésita.
 
 Il attendit.
 
-— Une bibliothécaire.
+— Le catalogue de la bibliothèque. J'ai cherché le texte que le décret remplaçait.
 
-— Son nom ?
+— Qui t'a laissé le consulter ?
 
 — Je sais pas.
 
@@ -3558,9 +3542,9 @@ Darien posa sa cuillère.
 
 — Je sais.
 
-— Et que tu as douze ans.
+— Et que tu as quatorze ans.
 
-— Treize dans—
+— Quinze dans—
 
 — Ça ne fonctionne toujours pas.
 
@@ -3746,7 +3730,7 @@ Il regarda Mara.
 
 — Je sais.
 
-— Vingt ans plus tard, certains occupaient des postes dans l'armée, les tribunaux, les ministères.
+— Des années plus tard, certains occupaient des postes dans l'armée, les tribunaux, les ministères.
 
 — Et ?
 
@@ -3862,7 +3846,7 @@ Elle réfléchissait.
 
 — Pas aujourd'hui.
 
-— Dans dix ans.
+— Dans huit ans.
 
 — Peut-être avant.
 
@@ -4048,69 +4032,33 @@ Elle ne répondit pas immédiatement.
 
 — Avant quoi ?
 
-— La chute.
+— Qu'ils l'amènent sur la place. On attendait devant l'échafaud.
 
-Darien resta parfaitement immobile.
+Darien resta immobile.
 
-Mara continua :
+— Tu regardais l'Arbre ?
 
-— Oren regardait la branche.
+— Il y avait que ça à regarder. Les gens devant bougeaient pas, Teren voulait rentrer. J'ai vu du vert au bout d'une branche.
 
-— Il l'a vu ?
+— Tu l'as montré à ton frère ?
 
-— Je crois.
+— J'ai essayé. Il trouvait pas où. Après, quelqu'un a crié que les gardes arrivaient.
 
-— Tu crois ou tu sais ?
+Darien approcha sa main de sa sacoche.
 
-Elle détestait toujours cette question.
+— Combien de temps avant la chute ?
 
-— Il regardait dans cette direction.
+— Je sais pas. Ils ont lu la sentence après. Et Oren a parlé de la soupe.
 
-— Combien de temps avant ?
+— Donc tu n'as pas remarqué le bourgeon en suivant son regard ?
 
-— Quelques secondes.
+— Non. Mais lui, il a regardé la branche quand le bourreau s'est approché.
 
-— Une minute ?
+— La même ?
 
-— Peut-être.
+— Je crois. Je peux pas regarder avec ses yeux.
 
-— Avant que le prêtre lui demande ses dernières paroles ?
-
-Mara réfléchit.
-
-Elle revit la scène.
-
-La corde.
-
-Oren.
-
-L'Arbre.
-
-— Oui.
-
-— Certain ?
-
-— Oui.
-
-Darien regarda la table.
-
-— Merde.
-
-— Pourquoi ?
-
-Il ne répondit pas.
-
-— Darien.
-
-— Parce que ça change quelque chose.
-
-— Quoi ?
-
-— Je ne sais pas encore.
-
-— Vous dites souvent ça.
-
-— C'est généralement préférable à inventer.
+Darien laissa sa sacoche fermée. L'arrivée des gardes lui donnait un repère ; elle ne lui donnait ni une durée exacte ni ce que le condamné avait vu.
 
 Il sortit une pièce.
 
@@ -4180,7 +4128,7 @@ Il sortit un morceau de papier.
 
 Écrivit :
 
-**Bourgeon visible avant exécution.**
+**Bourgeon visible avant l'arrivée du prisonnier.**
 
 Puis :
 
@@ -4206,7 +4154,7 @@ Il prit un deuxième papier.
 
 Écrivit simplement :
 
-**Floraison possiblement antérieure à l'exécution. Source unique. À confirmer.**
+**Bourgeon observé pendant l'attente, avant l'arrivée du prisonnier, selon un témoin. Durée inconnue. Regard d'Oren vers la branche rapporté séparément. Source unique. À confirmer.**
 
 La patronne sourit.
 
@@ -4226,17 +4174,15 @@ Deux fois.
 
 Puis il la posa.
 
-— Elle est certaine ?
+— Avant l'arrivée du prisonnier ?
 
-— Elle croit l'être.
+— Elle le situe pendant l'attente. Son frère n'a pas distingué ce qu'elle lui montrait.
 
-— Ce n'est pas la même chose.
-
-— Je sais.
+Varos souligna les deux dernières phrases de la note.
 
 Darien s'assit.
 
-— Mais Oren aurait regardé le bourgeon.
+— Mais Oren aurait ensuite regardé cette branche.
 
 — D'après elle.
 
@@ -4364,7 +4310,7 @@ Varos referma le dossier.
 
 — Vous n'avez pas l'air convaincu.
 
-— Je viens précisément de passer deux jours à expliquer à tout le monde de ne pas transformer les coïncidences en complots.
+— Dans une commission, un archiviste peut examiner des centaines de familles. Je voudrais savoir combien avant de m'intéresser à une seule.
 
 — Alors ?
 
@@ -4378,9 +4324,9 @@ Varos prit son manteau.
 
 ***
 
-Le Bureau central des Registres fermait à dix-huit heures.
+Le lendemain, Varos dut faire viser son autorisation avant de se rendre au Bureau central des Registres. Le guichet fermait à dix-huit heures.
 
-Varos arriva à dix-sept heures cinquante-sept.
+Il arriva à dix-sept heures cinquante-sept.
 
 L'employé au guichet le détesta immédiatement.
 
@@ -4446,11 +4392,13 @@ Puis les noms.
 
 ***
 
-Cela prit quarante minutes.
+Cela prit deux jours.
 
-Pas des jours.
+Varos revint une première fois trop tôt. Le registre n'avait pas été localisé ; la fonctionnaire lui rendit sa demande avec la même référence, sans le faire entrer.
 
-La femme revint avec un registre.
+Pendant ces deux jours, Darien se renseigna sur les coursiers des affiches. Mara retourna en classe et composa chaque soir les feuillets que Jon laissait sur sa table. Lorsqu'elle demandait des nouvelles du recours, il lui montrait le reçu, toujours seul.
+
+Le surlendemain de la demande de Varos, la fonctionnaire les fit enfin asseoir, Darien et lui, devant un registre.
 
 — J'ai quelque chose.
 
@@ -4496,11 +4444,11 @@ Varos continua.
 
 Une annotation.
 
-**Classement maintenu.**
+**Décision : classement maintenu.**
 
-Signature :
+**Examen transmis par : O. Vale.**
 
-**O. Vale.**
+La colonne des avis renvoyait à une autre page, absente de cet extrait.
 
 Darien pâlit légèrement.
 
@@ -4510,7 +4458,7 @@ Darien pâlit légèrement.
 
 — C'est Oren qui a maintenu le classement qui vient de faire refuser Teren.
 
-— Il y a dix-sept ans.
+— Il a transmis l'examen. La décision est dans une autre colonne.
 
 — Donc Mara—
 
@@ -4556,25 +4504,13 @@ Darien regarda Varos.
 
 — Oui.
 
-— Mais il l'avait lui-même maintenu.
+— Mais le classement avait été maintenu.
 
 Varos tourna la page.
 
-— Trois mois plus tôt.
+— Trois mois plus tôt. Sa demande conteste cette décision. Il faudra retrouver son avis initial.
 
-— Pourquoi changer d'avis ?
-
-— Peut-être qu'il avait appris quelque chose.
-
-— Quoi ?
-
-— Peut-être simplement qu'il avait réfléchi.
-
-Darien sourit.
-
-— Vous défendez maintenant la possibilité que les fonctionnaires réfléchissent ?
-
-— Les miracles se multiplient.
+Darien revint à la colonne. Il avait lu la signature comme celle d'un juge ; le registre disait examinateur.
 
 Il continua.
 
@@ -4686,29 +4622,27 @@ Trois.
 
 La fonctionnaire soupira.
 
-— Ce soir ?
+— Il faut demander deux autres volumes au dépôt.
 
-— Oui.
+— Pour ce soir ?
 
-— Nous fermons depuis quarante-sept minutes.
+— Le transport est parti.
 
 Varos sortit une pièce d'or.
 
-— Demain matin serait parfaitement acceptable.
+Elle ne la prit pas.
 
-Elle regarda la pièce.
+— Il est parti, Monsieur Varos.
 
-— Je vais voir ce que je peux faire ce soir.
+Darien regarda l'horloge, puis les numéros qu'ils avaient relevés.
 
-Darien la suivit des yeux.
+— Gardez-nous une place demain. Nous viendrons dès l'ouverture.
 
-— Vous auriez pu commencer par ça.
-
-— J'aurais payé plus cher.
+Elle inscrivit leurs noms dans son registre de rendez-vous. Varos rangea sa pièce.
 
 ***
 
-Ils attendirent vingt minutes.
+Le lendemain matin, ils attendirent encore vingt minutes.
 
 La femme revint avec deux volumes.
 
@@ -4928,7 +4862,7 @@ Darien sourit.
 
 Ils quittèrent les Archives.
 
-Il était presque vingt heures.
+Il était presque seize heures. Ils avaient passé la journée sur les volumes.
 
 Darien demanda :
 
@@ -4940,7 +4874,7 @@ Darien demanda :
 
 — Nous avons découvert que dix-sept ans auparavant, Oren travaillait sur cent huit dossiers classifiés.
 
-— Et qu'il a été pendu hier pour avoir tué le roi.
+— Et qu'il a été pendu il y a une semaine pour avoir tué le roi.
 
 — Deux faits.
 
@@ -4980,11 +4914,19 @@ Darien s'arrêta.
 
 Varos se retourna.
 
-— Parce qu'un refus est une information.
+— Parce que je ne peux pas obtenir les décisions sans faire enregistrer une demande.
+
+— Et ils sauront quels dossiers vous cherchez.
+
+Varos regarda la liste dans sa main.
+
+— Oui.
+
+Darien reprit sa marche. La pièce d'or n'avait rien accéléré ; pour obtenir les décisions, Varos allait maintenant devoir donner son nom à la Sûreté.
 
 ***
 
-Le lendemain matin, Teren ne descendit pas déjeuner.
+Le lendemain matin, une semaine après la visite de Darien à l'imprimerie, Teren ne descendit pas déjeuner.
 
 Mara mangea seule avec son père.
 
@@ -4992,7 +4934,7 @@ Personne ne parla.
 
 À la fin, elle demanda :
 
-— Tu vas faire le recours ?
+— Tu vas chercher la réponse du recours ?
 
 — Oui.
 
@@ -5008,9 +4950,9 @@ Personne ne parla.
 
 — Parce que tu vas à l'école.
 
-Mara avait oublié.
+Mara aurait voulu manquer les cours pour l'accompagner.
 
-Cela lui sembla profondément injuste.
+Elle avait déjà passé plusieurs journées à attendre cette réponse tout en recopiant des leçons qui ne parlaient jamais de leur situation.
 
 — Teren y va ?
 
@@ -5054,7 +4996,11 @@ Elle préférait la troisième.
 
 ***
 
-À midi, la cour de l'école ne parlait que d'Oren.
+À midi, la cour de l'école parlait encore d'Oren.
+
+Depuis une semaine, les récits avaient changé. On ne discutait plus seulement des fleurs : on répétait les noms des hommes du tribunal, on réclamait une nouvelle enquête, on disait que le couronnement serait empêché. Les murs blanchis la veille portaient déjà d'autres mots. Dans l'atelier de Jon, les clients avaient commencé à demander qui avait commandé les affiches.
+
+Les enfants ramenaient tout cela dans la cour.
 
 — Mon père dit qu'il est revenu d'entre les morts.
 
@@ -5144,7 +5090,7 @@ Puis :
 
 **INTERPRÉTATION**
 
-— Quelqu'un peut me donner un fait concernant hier ?
+— Quelqu'un peut me donner un fait concernant la pendaison ?
 
 Toutes les mains se levèrent.
 
@@ -5274,7 +5220,7 @@ Elle regretta immédiatement.
 
 Elle regarda le tableau.
 
-— J'ai vu un bourgeon avant qu'ils le pendent.
+— J'ai vu un bourgeon pendant qu'on attendait. Avant qu'ils amènent Oren.
 
 Silence.
 
@@ -5414,7 +5360,7 @@ Il ferma les yeux.
 
 — Qui ?
 
-— L'homme d'hier.
+— L'homme venu à la boutique. Je l'ai revu il y a cinq jours.
 
 — Darien ?
 
@@ -5462,19 +5408,19 @@ Après quelques mètres :
 
 Mara s'arrêta.
 
-— Déjà ?
+— Tu l'as reçue ?
 
-— Oui.
+— Ce matin. Ils m'avaient dit de repasser.
 
-— Pourquoi ?
+— Pourquoi ils refusent ?
 
 — Classification confirmée.
 
-— Ils ont vérifié en une matinée ?
+— Ils ont mis six jours à écrire ça ?
 
 Son père eut un rire amer.
 
-— Apparemment, l'administration peut être très rapide lorsqu'elle sait déjà ce qu'elle veut répondre.
+— Et la personne qui m'a remis le papier ne savait pas m'expliquer davantage que celle qui avait pris la demande.
 
 Mara pensa à Oren.
 
@@ -5654,7 +5600,7 @@ Mara ne dit rien.
 
 Il essuya ses yeux.
 
-— Maman est morte depuis huit ans et elle arrive encore à me faire virer d'un concours.
+— Maman est morte depuis dix ans et elle arrive encore à me faire virer d'un concours.
 
 — C'est pas elle.
 
@@ -5678,9 +5624,9 @@ Teren eut un petit rire.
 
 — Je suis sérieuse.
 
-— Tu as douze ans.
+— Tu as quatorze ans.
 
-— Treize dans quatre mois.
+— Quinze dans quatre mois.
 
 Il éclata de rire malgré lui.
 
@@ -5864,7 +5810,7 @@ En bas :
 
 Teren ne répondit pas.
 
-— C'est mieux que dix.
+— C'est mieux que huit.
 
 — Oui.
 
@@ -6184,13 +6130,13 @@ En caractères minuscules :
 
 Elle sourit.
 
-Darien venait de lui donner exactement ce qu'il avait refusé de lui donner la veille.
+Si Darien avait envoyé cette lettre, il venait de lui donner une référence vers ce qu'il lui avait refusé six jours auparavant.
 
 Une porte vers le décret.
 
 ***
 
-Une heure plus tard, elle était à la bibliothèque.
+À l'école, Mara garda le formulaire plié dans son cahier. Elle dut attendre la fin des cours avant de retourner à la bibliothèque.
 
 Maîtresse Correl leva les yeux.
 
@@ -6198,13 +6144,13 @@ Maîtresse Correl leva les yeux.
 
 — Bonjour.
 
-— Tu n'es pas à l'école ?
+— Tes cours sont finis ?
 
-Mara réfléchit.
+Mara posa son cartable près de ses pieds.
 
-— Non.
+— Oui.
 
-— C'est étonnamment honnête.
+Correl regarda le formulaire dépassant du cahier.
 
 — J'ai besoin d'une circulaire.
 
@@ -6336,19 +6282,11 @@ Correl se tut.
 
 Mara soupira.
 
-— Dans six ans.
+— Pas maintenant, donc.
 
-— Cinq ans et huit mois, si je me souviens bien.
+— Pas maintenant.
 
-Mara la regarda.
-
-— Vous vous souvenez de mon anniversaire ?
-
-Correl sourit.
-
-— Non. Tu l'as répété trois fois hier.
-
-— Ah.
+Elle regarda le nom de Teren en haut du formulaire. Il était mineur lui aussi.
 
 Elle referma le livre.
 
@@ -6420,11 +6358,11 @@ Il leva les yeux.
 
 — Et ?
 
-— Les dossiers ont dix-sept ans.
+— Le transfert date de l'année cinquante-six. Quatorze ans.
 
 — Oui.
 
-— Une opération en cours depuis dix-sept ans ?
+— Une opération en cours depuis ce transfert ?
 
 Darien relut.
 
@@ -6434,7 +6372,7 @@ Darien relut.
 
 — Donc ?
 
-— Donc soit quelque chose commencé il y a dix-sept ans continue aujourd'hui…
+— Donc soit une opération justifie encore la protection de ces dossiers…
 
 Varos reprit la lettre.
 
@@ -6448,11 +6386,17 @@ Varos reprit la lettre.
 
 Varos sourit.
 
-— Celle que je pourrai prouver.
+— Je voudrais déjà savoir qui a signé.
+
+Le nom ne figurait pas sur la réponse. Une mention indiquait cependant que la liste des cent huit dossiers avait été transmise au service détenteur pour avis. Ce service savait désormais ce que Varos cherchait.
+
+— Je vais voir si les bureaux qui nous ont laissé consulter les registres sont toujours aussi accueillants, dit Darien.
+
+Varos replia la lettre. Son sourire avait disparu.
 
 Darien posa une autre enveloppe sur la table.
 
-— J'ai le rapport sur la matrice des affiches.
+— J'ai le rapport sur l'atelier des Cendres. La veuve a enfin donné son accord pour l'inventaire ; jusque-là, le voisin refusait de nous ouvrir.
 
 Varos l'ouvrit.
 
@@ -6500,85 +6444,21 @@ Varos lut.
 
 Darien sortit la reproduction.
 
-— La plaque utilisée pour les affiches n'a pas été gravée récemment.
+— Les imprimeurs disent qu'on leur a livré la même image. Le garçon la rattache à cet atelier. Il reste à trouver le cuivre.
 
-— Comment le savez-vous ?
+Varos regarda le portrait : sourcils lourds, nez crochu, visage dur.
 
-— Oxydation dans les creux. Usure sur les bords. Deux graveurs l'ont examinée.
+— Et à savoir qui il représente.
 
-Varos regarda le portrait.
+— Oren.
 
-Oren.
+Varos releva les yeux.
 
-Sourcils lourds.
-
-Nez crochu.
-
-Visage dur.
-
-— Quel âge ?
-
-— Impossible à dire précisément.
-
-— Approximation.
-
-— Au moins cinq ans.
-
-Varos ne bougea plus.
-
-— Cinq ans.
-
-— Peut-être davantage.
-
-— Donc quelqu'un possédait une gravure représentant Oren Vale cinq ans avant son arrestation.
-
-— Oui.
-
-— C'est inhabituel ?
-
-— Pour un roi, non.
-
-— Pour un archiviste ?
-
-— Beaucoup.
-
-Varos rapprocha la gravure.
-
-— Êtes-vous certain que c'est Oren ?
-
-Darien hésita.
-
-— C'est écrit dessous.
-
-— Ce n'était pas ma question.
-
-Silence.
-
-Ils regardèrent le portrait.
-
-Darien comprit.
-
-— Merde.
-
-— Voilà.
-
-— On a supposé que c'était lui parce que son nom était imprimé dessous.
-
-— Oui.
-
-— Il faut retrouver la plaque.
-
-— Oui.
-
-— Elle est où ?
-
-Varos sourit.
-
-— Excellente question.
+Darien regarda le nom imprimé sous le visage. Puis il rangea la feuille sans rien ajouter.
 
 ***
 
-Ils retournèrent rue des Cendres.
+Ce même après-midi, ils allèrent rue des Cendres.
 
 L'ancien atelier de Corlan Esve était coincé entre un fabricant de chandelles et un marchand de tissus.
 
@@ -6634,11 +6514,11 @@ Darien trouva le registre.
 
 Ils feuilletèrent.
 
-Cinq ans auparavant.
+Les dernières commandes.
 
-Puis six.
+Puis les années précédentes.
 
-Sept.
+Onze ans en arrière.
 
 Enfin :
 
@@ -6650,7 +6530,7 @@ Pas de nom.
 
 — Année cinquante-neuf.
 
-— Sept ans.
+— Onze ans.
 
 — Client ?
 
@@ -6730,15 +6610,15 @@ Varos regardait les portraits.
 
 — Peut-être.
 
-Darien prit la plaque utilisée pour les affiches.
+Darien prit la plaque 771.
 
-La compara.
+La compara à la reproduction des affiches.
 
 — C'est celle-ci.
 
 Portrait 771.
 
-— Donc le visage d'Oren Vale était dans cet atelier sept ans avant son exécution.
+— Donc le portrait qu'on appelle Oren Vale était dans cet atelier onze ans avant son exécution.
 
 Varos ne répondit pas.
 
@@ -6780,11 +6660,21 @@ Puis :
 
 Varos reposa la plaque.
 
-— Valdorne.
+— Valdorne. Pas une famille particulière. J'ai vu ce signe sur des objets appartenant à plusieurs déplacés.
+
+Darien retourna les autres plaques. Aucune ne portait la marque.
+
+Le voisin avait la garde des clés pour la veuve d'Esve. Darien lui fit contresigner l'inventaire des cinq plaques emportées pour examen ; ils laissèrent les autres commandes sur leurs rayonnages.
+
+En fin d'après-midi, deux graveurs examinèrent le cuivre 771 à la lumière d'une fenêtre. Ils relevèrent l'oxydation dans les creux et l'usure des bords. Tous deux le jugeaient ancien, sans pouvoir lui donner une année.
+
+Le registre de commande le datait de 59. C'était cette pièce, et non l'état du métal, qui permettait de compter onze ans.
+
+Varos conserva les deux avis avec le reçu. L'identité du modèle restait vide dans le registre.
 
 ***
 
-Mara arriva aux Archives municipales une heure avant la fermeture.
+Mara arriva aux Archives municipales en fin d'après-midi, après sa visite à la bibliothèque.
 
 Elle demanda :
 
@@ -6832,13 +6722,13 @@ L'homme la regarda.
 
 — Tu as quel âge ?
 
-— Treize ans.
+— Quinze ans.
 
 — Vraiment ?
 
 — Bientôt.
 
-— Donc douze.
+— Donc quatorze.
 
 — C'est pas important.
 
@@ -6848,41 +6738,83 @@ Mara posa le formulaire d'admission de Teren.
 
 — Mon frère.
 
-L'employé lut.
+L'employé lut, puis lui rendit le formulaire.
 
-Son expression s'adoucit.
+— Ce n'est pas une autorisation de consultation. Pour le registre nominatif, il faut que ton père dépose la demande avec les pièces de famille.
 
-— Ah.
+— Je veux seulement une colonne.
 
-Il regarda autour de lui.
+— Même pour une colonne.
 
-Puis baissa la voix.
+Mara attendit. L'homme appela la personne suivante.
 
-— Attends.
+Elle rentra à l'imprimerie.
 
-Il disparut.
+Jon réglait la presse. Il l'écouta sans lâcher sa clé, puis lui demanda le formulaire.
 
-Mara attendit.
+— Teren sait que tu l'as emporté ?
 
-Dix minutes.
+— Il était sur la table.
 
-Il revint avec un volume.
+— Ce n'est pas ce que je demande.
 
-— Tu ne l'as pas eu de moi.
+Mara posa sa copie de l'article 23 à côté. Jon l'essuya du pouce ; elle avait mis trop d'encre sur le mot « levée ».
 
-— D'accord.
+— S'il y a un avis, on peut demander une réduction. On peut au moins savoir.
 
-— Et tu ne le sors pas d'ici.
+— Tu avais promis de le laisser décider.
 
-— D'accord.
+— Je demande pas de l'inscrire.
 
-— Et si quelqu'un demande—
+Jon relut l'article, puis alla appeler Teren dans l'arrière-boutique. Mara entendit son frère demander quel papier il faudrait encore signer.
 
-— Je sais pas qui vous êtes.
+— Rien pour le concours, répondit Jon. Une consultation du dossier de ta mère. Tu veux que j'y aille ?
 
-L'homme sourit.
+Un silence.
 
-— Tu apprends vite.
+— Va voir. Mais vous déposez rien à ma place.
+
+Jon revint avec le registre familial.
+
+— Tu viens me montrer la référence. Ensuite, les papiers restent avec moi, et on en parle avec lui.
+
+Mara acquiesça. Elle aurait préféré un oui sans conditions.
+
+— Demain, dit Jon. J'ai promis ces convocations pour l'ouverture. Tu m'aides à les finir et je pourrai fermer plus tôt.
+
+Elle reprit son composteur. Jon vérifia la première ligne sans rien dire ; elle avait posé un chiffre à l'envers.
+
+Le lendemain, après les cours, il l'attendait devant l'école avec les actes de famille. Ils se présentèrent aux Archives une heure avant la fermeture.
+
+Devant eux, une femme tenait une liasse dont les plis commençaient à se déchirer. Un jeune homme lui remettait les feuillets dans l'ordre.
+
+— Il faut un extrait, maman. Pas qu'ils te le montrent une troisième fois.
+
+— Je sais.
+
+Elle desserra son col. À son cou pendait une petite plaque noire, ovale. Mara y reconnut l'arbre et les sept cercles. Six rayés.
+
+Elle tira la manche de Jon.
+
+— Comme celle de maman.
+
+La femme les entendit. Elle referma ses doigts sur la plaque.
+
+— C'était à ma mère. Elle venait de Valdorne.
+
+Mara regarda le jeune homme. Il avait cessé de ranger les papiers.
+
+— Ma femme aussi, dit Jon.
+
+On appela la femme. Elle ramassa sa liasse ; son fils prit le feuillet qu'elle avait laissé tomber. Ils s'éloignèrent sans demander ce que les Veyre cherchaient.
+
+Mara garda les yeux sur la porte par laquelle ils étaient passés. Elle avait failli demander si leur plaque avait toujours appartenu à leur famille. Le garçon, lui, avait parlé d'un extrait.
+
+À leur tour, l'employé vérifia les actes, fit signer Jon et apporta le registre des décisions de la Commission. Le dossier complet demeurait classifié.
+
+— Vous pouvez relever une référence. Pour un extrait certifié, il faudra une demande distincte.
+
+Jon s'assit près de Mara. Il posa les actes devant lui et lui laissa chercher la page.
 
 Elle ouvrit.
 
@@ -6912,7 +6844,7 @@ La circulaire.
 
 La recommandation existait.
 
-Teren pouvait demander la réduction.
+Teren pourrait demander la réduction, s'ils obtenaient un extrait recevable. Ce n'était pas encore une réponse des Admissions.
 
 Elle copia la référence.
 

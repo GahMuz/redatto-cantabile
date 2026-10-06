@@ -1,6 +1,6 @@
 # Contrôles
 
-Dernier contrôle : [synthèse critique et audit du dossier](2026-10-06-synthese-critique.md). Trois lectures indépendantes, puis arbitrage ; observations RC-01 à RC-10 ouvertes. Manuscrit inchangé.
+Dernier contrôle : [motif collectif D-018](2026-10-06-motif-synthese.md), trois lectures indépendantes ciblées de SC-045 et dépendances. Aucun problème établi ni réparation supplémentaire demandée. Les contrôles précédents gardent leurs périmètres historiques.
 
 | Date | Rapport | Périmètre lu | Versions / état des sources | Points ouverts |
 | --- | --- | --- | --- | --- |
@@ -11,3 +11,32 @@ Dernier contrôle : [synthèse critique et audit du dossier](2026-10-06-synthese
 | 2026-10-06 | [Synthèse et dossier](2026-10-06-synthese-critique.md) | Rapports arbitrés, scènes décisives relues ; sources et assemblages contrôlés | V1 historique et V2 active distinctes | RC-01 à RC-10 ; révision à décider |
 
 Les rapports proposent des corrections sans les appliquer au roman. Une observation reste ouverte tant que le passage concerné n'a pas été corrigé ou qu'un choix artistique n'a pas été explicitement consigné. Les critiques de forme et de fond restent des appréciations étayées, pas des contradictions automatiques.
+
+
+| Date | Contrôle après révision | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-06 | [Cohérence](2026-10-06-revision-coherence.md) | I–III intégralement, dépendances et raccords | Aucun nouveau P1 ; contradictions visées corrigées |
+| 2026-10-06 | [Fond](2026-10-06-revision-fond.md) | I–III intégralement | Refus et autonomie renforcés ; suggestions P3 |
+| 2026-10-06 | [Forme](2026-10-06-revision-forme.md) | I–III intégralement et ajustements ciblés | Voix/pédagogie améliorées, dosage encore ouvert |
+| 2026-10-06 | [Synthèse](2026-10-06-revision-synthese.md) | Trois rapports arbitrés et scènes relues | RC-01–07 corrigés ; RC-08–10 partiellement ouverts |
+
+| Date | Contrôle après D-016 | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-06 | [Cohérence](2026-10-06-calendrier-bourgeon-coherence.md) | I–III intégralement | J0–J10 et témoignages concordent |
+| 2026-10-06 | [Fond](2026-10-06-calendrier-bourgeon-fond.md) | I–III intégralement | Délais contraignants ; pression politique future P3 |
+| 2026-10-06 | [Forme](2026-10-06-calendrier-bourgeon-forme.md) | I–III intégralement, raccord relu | CF-01 traité ; suggestions P3 |
+| 2026-10-06 | [Synthèse](2026-10-06-calendrier-bourgeon-synthese.md) | Trois rapports arbitrés et mémoire | Aucun nouveau P1/P2 restant établi |
+
+| Date | Contrôle D-017 | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-06 | [Cohérence](2026-10-06-ages-coherence.md) | Scènes d'âge et dépendances | Calculs et raccords traités |
+| 2026-10-06 | [Fond](2026-10-06-ages-fond.md) | Même périmètre ciblé | Démarches, résistances et autonomie compatibles |
+| 2026-10-06 | [Forme](2026-10-06-ages-forme.md) | Même périmètre ciblé | Voix plausibles, remarque P3 sur le doute |
+| 2026-10-06 | [Synthèse](2026-10-06-ages-synthese.md) | Trois lectures arbitrées | Aucun P1/P2 restant établi |
+
+| Date | Contrôle D-018 | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-06 | [Cohérence](2026-10-06-motif-coherence.md) | SC-045 et dépendances du motif | Objets et connaissances distincts |
+| 2026-10-06 | [Fond](2026-10-06-motif-fond.md) | Même périmètre ciblé | Autre famille avec démarche propre |
+| 2026-10-06 | [Forme](2026-10-06-motif-forme.md) | Même périmètre ciblé | Raccord et rencontre naturels |
+| 2026-10-06 | [Synthèse](2026-10-06-motif-synthese.md) | Trois rapports arbitrés | Aucun problème nouveau établi |

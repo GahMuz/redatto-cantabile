@@ -2,6 +2,8 @@
 
 Un atelier d'écriture pour conserver le texte du roman, les choix de l'auteur et une mémoire consultable au fil des chapitres.
 
+Adresse de lecture du roman : [Lire en ligne](https://gahmuz.github.io/redatto-cantabile/).
+
 ## Où trouver quoi
 
 | Chemin | Usage |

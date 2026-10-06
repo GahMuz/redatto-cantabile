@@ -1,6 +1,6 @@
 # Mémoire du roman
 
-Dernière rédaction reçue : [état actualisé du chapitre III](versions/v2/texte/suite-chapitre-03-decret.md), trois chapitres au statut brouillon. La [bible historique de la V1](versions/v1/index.md) contient les premières fiches, lieux, chronologie et fils, exclusivement tirés de la V1 fournie. Ne pas transférer ces faits dans une autre version sans les vérifier.
+Brouillon actif révisé D-015/D-016/D-017/D-018 : [état actualisé du chapitre III](versions/v2/texte/suite-chapitre-03-decret.md), trois chapitres au statut brouillon. La [bible historique de la V1](versions/v1/index.md) contient les premières fiches, lieux, chronologie et fils, exclusivement tirés de la V1 fournie. Ne pas transférer ces faits dans une autre version sans les vérifier.
 
 La [conception V2](versions/v2/index.md) contient les corrections de l'auteur et les propositions successives, dont un plan secret du tome I. Les chapitres reçus sont suivis séparément du plan : ses étapes envisagées ne sont pas automatiquement réalisées. Pour travailler dans la direction V2, lire ses changements et les décisions actives avant les fiches historiques V1.
 
@@ -15,3 +15,7 @@ La [conception V2](versions/v2/index.md) contient les corrections de l'auteur et
 
 Les fiches servent de carte vers le texte. Chaque affirmation renvoie à une scène ou à une décision de l'auteur. Une fiche doit être corrigée lorsque sa source est réécrite.
 [Dernier état II–III](versions/v2/texte/suite-chapitres-02-03.md) : connaissances, famille, enquête et nouveaux fils.
+
+Révision du 6 octobre 2026 : voir [la mémoire des réparations](versions/v2/texte/revision-calendrier-bourgeon.md). Les sources importées restent historiques.
+
+D-017 : âges actifs portés à quatorze ans pour Mara et dix-sept ans pour Teren ; naissance de Teren en 53, présent 70. Voir la [chronologie consolidée](chronologie.md) et les [personnages écrits](versions/v2/texte/personnages.md). Les âges des sources et plans historiques restent ceux de leur version.
