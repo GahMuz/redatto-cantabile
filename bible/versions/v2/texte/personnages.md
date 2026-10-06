@@ -38,7 +38,7 @@ Reine veuve, mère d'Adrien (006, 013). Ferme la place, interdit prélèvements 
 
 ## P-V2-006 — Homme exécuté sous le nom d'Oren Vale
 
-Archiviste selon la fratrie et les pièces judiciaires ; âge d'environ quarante ans estimé par Mara ; cheveux bruns, visage ordinaire différent de la gravure (002). Condamné pour introduction préméditée d'une substance dans le traitement royal, selon la sentence (004). Plaisanterie sur les repas en prison ; intérêt pour une branche avant la chute (004).
+Archiviste selon la fratrie et les pièces judiciaires ; âge d'environ quarante ans estimé par Mara ; cheveux bruns, visage ordinaire différent de la gravure (002). Condamné pour introduction préméditée d'une substance dans le traitement royal, selon la sentence (004). Silence face à la demande de dernières paroles ; regard fixé sur une branche avant la chute (004, D-031). Mara ne sait pas ce qu’il y distingue. Ancienne tirade sur les repas retirée.
 
 Mort constatée par Helven, qui décrit une rupture cervicale ; aucune disparition ni survie montrée à ce stade (013, 019). Helven juge les traces compatibles avec une plume tenue de la main gauche ; dossier dit droitier, sans preuve suffisante d'identité (019). Aux Archives, signatures déclarées authentiques et neuf témoins d'accès ; lettres d'avertissement et procès-verbaux : demandes au roi, puis à Cassian, réponse « Tout le monde » tronquée dans les extraits certifiés ; feuillet intégral renvoie aux décisions des médecins, cuisines et approvisionnements. Demande « trop tard » conservée (020). Distinguer l'homme examiné, les documents attribués à Oren et leur interprétation ; l'origine civile demeure non résolue malgré la reconnaissance du condamné par ses collègues et gardiens (025).
 

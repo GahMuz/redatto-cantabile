@@ -90,3 +90,9 @@ D-029 — 7 octobre 2026, l’auteur approuve explicitement (« ca me va ») la 
 
 
 D-030 — 7 octobre 2026, l’auteur relève que le soupir initial de Teren n’est précédé d’aucune question. Raccord local SC-001 : la phrase générale sur les questions est remplacée par son impatience de livrer les registres et rentrer, déjà établie dans la scène. Âge dix-sept conservé, aucune autre action ou connaissance modifiée. Base 4cf414a, formulation au statut brouillon.
+
+
+D-031 — 7 octobre 2026 : l’auteur critique la tirade comique du pendu puis choisit explicitement « ok pour le silence ». SC-004 : Oren ne répond pas à la demande de dernières paroles, son regard reste sur la branche ; prêtre attend puis bourreau poursuit. Excuses, poids, repas/soupe et appréciation de son humour par Mara retirés. SC-036 : son témoignage évoque le silence et non la soupe. Observation du bourgeon avant arrivée, mort, yeux du pendu et incertitude de Mara sur ce qu’Oren voyait conservés. Base 6b37adb, formulations nouvelles restent brouillon. Contrôle ciblé automatique.
+
+
+D-032 — 7 octobre 2026, consigne de l’auteur : « fusionne automatiquement ». Fusion de la PR #4 autorisée et, pour la suite du travail sur ce roman, fusion automatique des corrections qu’il autorise après vérifications et contrôles requis. Ne pas redemander une fusion de routine. Cette consigne ne choisit pas les directions artistiques encore ouvertes et n’autorise pas une réécriture issue d’une simple critique.

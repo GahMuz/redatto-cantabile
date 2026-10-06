@@ -1,6 +1,8 @@
 # Contrôles
 
-Dernier contrôle : [retouches D-028](2026-10-07-points-synthese.md), trois lectures indépendantes intégrales I–III et raccords finaux ciblés. Points demandés traités dans le brouillon ; voix de Commission, adversaires politiques et confirmation avant-aube restent à affiner. Les rapports antérieurs restent historiques.
+Dernier contrôle ciblé : [silence du pendu D-031](2026-10-07-silence-synthese.md), six scènes lues intégralement par trois lecteurs indépendants ; aucun nouveau problème établi.
+
+Dernier audit général : [retouches D-028](2026-10-07-points-synthese.md), trois lectures indépendantes intégrales I–III et raccords finaux ciblés. Points demandés traités dans le brouillon ; voix de Commission, adversaires politiques et confirmation avant-aube restent à affiner. Les rapports antérieurs restent historiques.
 
 | Date | Rapport | Périmètre lu | Versions / état des sources | Points ouverts |
 | --- | --- | --- | --- | --- |
@@ -63,3 +65,5 @@ Contrôle ciblé du coordinateur après D-026 : [Palen et Mara, RL-16](2026-10-0
 | 2026-10-07 | [Fond](2026-10-07-points-fond.md) | I–III intégralement puis raccords finaux | Causes, enjeux Varos et provenance traités ; adversaires à développer |
 | 2026-10-07 | [Forme](2026-10-07-points-forme.md) | I–III intégralement puis raccords finaux | Voix différenciées et coutures traitées |
 | 2026-10-07 | [Synthèse](2026-10-07-points-synthese.md) | Trois rapports arbitrés, scènes et mémoire | Aucun nouveau P1/P2 restant établi sur D-028 |
+
+D-031 — [Silence du pendu](2026-10-07-silence-synthese.md) : trois lectures indépendantes ciblées de SC-003–005 et SC-035–037, aucun nouveau problème établi.

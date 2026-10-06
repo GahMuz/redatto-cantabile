@@ -48,3 +48,7 @@ La page `index.html` charge directement `manuscrit/index.md` et les fichiers Mar
 Après une modification du texte, actualiser les fiches concernées, la chronologie, les fils narratifs et les index. Invalider les anciens faits dont la scène source a changé ; ne pas seulement ajouter les nouveaux. Actualiser `suivi/etat.md` avec le travail effectué, les points ouverts et les lectures nécessaires à la reprise. Distinguer clairement les fichiers modifiés et ce qui reste à vérifier.
 
 Les demandes de contrôle produisent un rapport étayé ; elles ne donnent pas à elles seules l'autorisation de réécrire le manuscrit. Git conserve les versions enregistrées, mais la création de fichiers n'est pas un commit. Ne pas annoncer une sauvegarde Git ou une synchronisation ChatGPT sans l'avoir effectivement effectuée.
+
+## Fusion des corrections autorisées
+
+D-032 : l’auteur demande de fusionner automatiquement les corrections qu’il autorise, après les vérifications et contrôles requis. Créer et attacher la PR, puis la fusionner sans nouvelle confirmation de routine. Cette autorisation ne sélectionne aucune direction artistique ouverte et ne transforme pas une demande de critique en autorisation de réécriture.

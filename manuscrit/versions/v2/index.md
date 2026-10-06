@@ -21,7 +21,7 @@ I : fragment terminal « — Vraiment » de la première pièce retiré au profi
 | SC-V2-001 | I : « Mara attendait derrière un manteau brun » | Foule, Mara quatorze ans et Teren dix-sept ans, bourgeon repéré pendant l’attente avant arrivée et livraison délaissée |
 | SC-V2-002 | I : « Pendant trois jours » | Affiches, portrait gravé différent, métier d'archiviste |
 | SC-V2-003 | I : « L'Arbre se dressait derrière lui » | Histoire de l'Arbre et procédure de pendaison |
-| SC-V2-004 | I : « Le prêtre leva les mains » | Condamnation, plaisanterie sur la soupe, bourgeon retrouvé avant la chute après observation pendant l’attente |
+| SC-V2-004 | I : « Le prêtre leva les mains » | Condamnation, silence d’Oren face à la demande de dernières paroles, regard sur la branche et bourgeon retrouvé avant la chute |
 | SC-V2-005 | I : « Des milliers. » | Floraison et interprétations ; les enfants rentrent |
 | SC-V2-006 | I : « Sur la tribune royale » | Eléane protège la place et convoque Cassian |
 | SC-V2-007 | I : « Cassian Orme se trouvait effectivement » | Démarches antérieures et refus d’entretien reçu le matin ; jeu, trois reines et convocation |

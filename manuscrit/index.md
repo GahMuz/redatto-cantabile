@@ -30,3 +30,5 @@ Utiliser des identifiants de scène stables tels que SC-001. Ajouter au texte de
 D-026 : [révision de l’enquête antérieure de Cassian](../bible/versions/v2/texte/revision-cassian.md), scènes 007, 016, 020, 022 ; modalités nouvelles au statut brouillon. III inchangé.
 
 D-028 : [retouches de lecture et connaissances actualisées](../bible/versions/v2/texte/revision-points.md), I–III révisés, III toujours fin « O ».
+
+D-031 : silence d’Oren à la demande de dernières paroles (I, SC-004), témoignage de Mara raccordé (III, SC-036). Tirade comique retirée ; les autres états demeurent ceux de D-028/D-030.

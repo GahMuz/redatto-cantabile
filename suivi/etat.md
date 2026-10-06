@@ -65,3 +65,7 @@ D-027 : [RL-16, Palen et Mara](controles/2026-10-07-palen-mara.md). L’antério
 D-029 : suppression du témoignage anticipé et de l’entretien de Palen explicitement approuvée par l’auteur après D-028. SC-013 déjà conforme ; aucune prose modifiée à cette confirmation.
 
 D-030 : raccord local de l’ouverture corrigé : le soupir de Teren exprime l’impatience de livrer les registres, pas une réponse à une question absente. Scène et transition relues, âge inchangé. Correction locale sans nouveau contrôle intégral.
+
+D-031 : silence choisi pour Oren avant pendaison, tirade et échange sur son humour retirés (SC-004). Témoignage de Mara à Darien raccordé (SC-036), index actualisé ; [contrôle ciblé terminé](controles/2026-10-07-silence-synthese.md), trois lecteurs indépendants, aucun nouveau problème établi. Lecteur HTTP et raccords vérifiés. Ni cause de ce silence ni perception du bourgeon par Oren établies.
+
+D-032 : l’auteur demande la fusion automatique des corrections autorisées après vérifications. Fusionner les prochaines PR correspondantes sans nouvelle confirmation ; les choix artistiques non sélectionnés restent à proposer.
