@@ -862,11 +862,43 @@ On apercevait ses fleurs au-dessus des murs de la cour.
 
 — Condamné sur des preuves accablantes.
 
-— J'ai lu le dossier.
+— J'ai lu la synthèse qu'on m'a envoyée. Je t'ai demandé les pièces.
 
-— Et exécuté.
+— Tu les aurais eues.
 
-— J'y viens.
+— Après.
+
+Eléane ne répondit pas tout de suite.
+
+— La Cour avait rendu son jugement. Tu ne m'apportais aucun fait nouveau.
+
+— Je demandais à voir ceux qu'elle avait retenus.
+
+— Tu demandais de retarder l'exécution.
+
+— Aussi.
+
+Elle posa la main sur le dossier d'une chaise.
+
+— Nous ne pouvions pas laisser l'affaire ouverte sur un doute.
+
+Cassian regarda la fenêtre.
+
+— Elle l'est maintenant.
+
+— Et maintenant, il est exécuté.
+
+— Avant que j'aie pu lui parler.
+
+— Tu n'étais pas au procès.
+
+— J'attendais encore les copies quand on m'a annoncé qu'il était fini.
+
+— Tu aurais pu venir.
+
+— Oui.
+
+Il replia le refus d'entretien qu'il venait de tirer de sa poche. Il avait cru pouvoir lire les pièces d'abord, poser ses questions ensuite. Il ne restait que les pièces.
 
 Elle se retourna.
 
@@ -902,21 +934,23 @@ Trois.
 
 — Très rassurant.
 
-— J'aimerais revoir le dossier d'Oren.
+— Je veux le dossier d'Oren. Les originaux, les interrogatoires, les pièces de la défense. Et l'accès aux appartements d'Aldren.
 
-— Pourquoi ?
+— Pour vérifier quoi ?
 
-— Parce qu'il est coupable.
+— Ce que je demandais déjà avant ce matin. Comment mon frère est mort. Et ce qu'Oren a réellement fait.
 
-Eléane fronça les sourcils.
+Eléane regarda les trois cartes.
 
-— Tu viens de—
+— Fais inscrire tes demandes comme vérifications ordonnées par la régence. Je les signerai.
 
-— Je sais.
+— Cette fois ?
 
-Il retourna la première carte.
+— Cette fois, nous devons répondre à toute la ville. Je veux savoir ce qu'on pourra soutenir quand ces fleurs auront fané.
 
-— Les preuves sont excellentes.
+Cassian retourna la première carte.
+
+— Les preuves résumées sont excellentes.
 
 La deuxième.
 
@@ -930,7 +964,7 @@ La troisième.
 
 Cassian regarda les trois reines.
 
-— Alors pourquoi ai-je l'impression d'avoir gagné une partie dont je ne me souviens pas avoir joué la première main ?
+— Alors je veux voir ce qu'on a laissé hors de la synthèse.
 
 ***
 
@@ -1736,7 +1770,7 @@ Helven comprit.
 
 — Ces traces correspondent plutôt à une plume tenue de la main gauche.
 
-— Le dossier dit droitier.
+— La synthèse le donne droitier.
 
 — Ça peut être une erreur.
 
@@ -1764,7 +1798,7 @@ Le fonctionnaire derrière le comptoir pâlit.
 
 — Il est scellé.
 
-Cassian posa son sceau royal.
+Cassian posa son sceau royal et l'autorisation de la régente.
 
 — Plus maintenant.
 
@@ -1810,9 +1844,9 @@ Elle posa les dossiers.
 
 — Le dossier d'instruction.
 
-— Trois volumes ?
+— C'est donc cela qui tenait en huit pages ?
 
-— Le quatrième est aux Archives médicales.
+— Et le quatrième volume est aux Archives médicales.
 
 — Procès rapide.
 
@@ -1862,9 +1896,9 @@ Cassian regarda la signature.
 
 — Authentique.
 
-Il continua.
+La synthèse donnait les numéros de ces pièces, pas leur texte. Il nota le motif de la consultation dans la marge de sa copie.
 
-Pièce 23.
+Puis passa à la pièce 23.
 
 Demande d'accès aux registres pharmaceutiques.
 
@@ -1886,13 +1920,9 @@ Cassian se frotta le menton.
 
 — Non.
 
-— Les témoins ?
+— Les neuf témoins de la synthèse ?
 
 — L'ont reconnu.
-
-— Combien ?
-
-— Neuf.
 
 — Neuf personnes différentes ont vu Oren consulter des documents qui permettraient d'assassiner le roi.
 
@@ -1948,13 +1978,13 @@ Adressée au roi.
 
 **Je dois vous parler de toute urgence concernant plusieurs irrégularités que j'ai découvertes dans vos registres personnels. Je crains que votre sécurité ne soit compromise.**
 
-Cassian s'arrêta.
+Cassian s'arrêta. La synthèse mentionnait trois tentatives d'approcher le roi. Il n'avait pas pu lire les lettres.
 
-— Ça faisait partie de l'accusation ?
+— C'est cela, les tentatives d'entretien ?
 
 — Oui.
 
-— Comment ?
+— On a retenu la demande, pas l'avertissement.
 
 — Le ministère public a considéré qu'il cherchait à obtenir un entretien privé avec le roi.
 
@@ -2079,6 +2109,10 @@ Cassian s'arrêta.
 Il relut.
 
 La pièce sembla soudain devenir très silencieuse.
+
+Il sortit ses huit pages. « Refus de répondre sur les irrégularités alléguées. » Rien sur lui.
+
+Il avait demandé à voir Oren. Oren avait demandé à le voir. Les deux demandes avaient traversé les mêmes services sans se rencontrer.
 
 — Madame Solan.
 
@@ -2700,6 +2734,14 @@ Cassian leva les yeux.
 
 Enfin quelqu'un de vivant.
 
+Cassian posa sa première demande de consultation sur la table.
+
+— Faites inscrire la date à laquelle vous me remettez les pièces.
+
+L'archiviste regarda le papier, puis l'autorisation de la régente.
+
+Il prit son registre.
+
 Cassian ouvrit le dossier.
 
 Aldren souffrait depuis six ans d'arythmie.
@@ -2716,6 +2758,8 @@ Il trouva l'analyse toxicologique.
 
 Aucune substance étrangère.
 
+La synthèse donnait bien la concentration : 18,7. Elle parlait d'une dose excessive de véradine. Aucune mention du reste de l'analyse.
+
 Il la relut.
 
 Puis une troisième fois.
@@ -2726,17 +2770,7 @@ L'archiviste leva les yeux.
 
 — Oui ?
 
-— Où est le poison ?
-
-— Pardon ?
-
-— Mon frère a été empoisonné.
-
-— Oui.
-
-Cassian montra la feuille.
-
-— Alors où est le poison ?
+— La synthèse parle d'empoisonnement. Montrez-moi ce qui établit qu'on lui a ajouté une dose.
 
 L'homme s'approcha.
 
@@ -2746,13 +2780,13 @@ Il indiqua une ligne.
 
 **Concentration de véradine : 18,7 unités.**
 
-— C'est son médicament.
+— Je connais cette ligne. C'est une concentration.
 
-— Oui.
+— L'analyse établit une quantité excessive dans le sang.
 
-— Donc il est mort de son médicament.
+— Et l'administration supplémentaire ?
 
-— D'une dose excessive.
+— Elle ne la montre pas.
 
 — Combien devait-il prendre ?
 
@@ -2766,7 +2800,7 @@ L'archiviste consulta.
 
 Cassian réfléchit.
 
-— Donc quelqu'un a triplé sa dose.
+— Et de ces deux chiffres, on a conclu que quelqu'un avait triplé sa dose.
 
 — C'était la conclusion.
 

@@ -24,7 +24,7 @@ I : fragment terminal « — Vraiment » de la première pièce retiré au profi
 | SC-V2-004 | I : « Le prêtre leva les mains » | Condamnation, plaisanterie sur la soupe, bourgeon retrouvé avant la chute après observation pendant l’attente |
 | SC-V2-005 | I : « Des milliers. » | Floraison et interprétations ; les enfants rentrent |
 | SC-V2-006 | I : « Sur la tribune royale » | Eléane protège la place et convoque Cassian |
-| SC-V2-007 | I : « Cassian Orme se trouvait effectivement » | Jeu, trois reines et convocation |
+| SC-V2-007 | I : « Cassian Orme se trouvait effectivement » | Démarches antérieures et refus d’entretien reçu le matin ; jeu, trois reines et convocation |
 | SC-V2-008 | I : « À quatre rues de là » | Retour à l'atelier ; mensonge de Teren, Corven et récit du bourgeon |
 | SC-V2-009 | I : « L'imprimerie des Veyre » | Bon daté du lundi ; arrestation mardi ; père effrayé |
 | SC-V2-010 | I : « Puis on frappa à la porte » | Rappel des documents ; bon caché puis brûlé ; protection de la vie familiale |
@@ -33,11 +33,11 @@ I : fragment terminal « — Vraiment » de la première pièce retiré au profi
 | SC-V2-013 | II : « Ils étaient neuf » | Conseil, branche coupée, horaires, témoignages divergents et rumeurs |
 | SC-V2-014 | II : « La porte s'ouvrit » | Olven examine la branche ; elle est vivante, origine non expliquée |
 | SC-V2-015 | II : « Un secrétaire entra » | Onze inscriptions ; première signalée à 12 h 17 |
-| SC-V2-016 | II : « Le Conseil dura encore deux heures » | Régence, couronnement dans quatorze jours ; échange Cassian–Eléane |
+| SC-V2-016 | II : « Le Conseil dura encore deux heures » | Régence, couronnement dans quatorze jours ; démarches antérieures de Cassian, absence au procès, autorisations nouvelles |
 | SC-V2-017 | II : « Il commença par les appartements » | Lettres manquantes, trace rectangulaire, interruption de Serdan |
 | SC-V2-018 | II : « Le mur se trouvait » | Merel dit avoir vu un écrivain avant l'aube ; estimation 4 h 45 et odeur d'encre |
 | SC-V2-019 | II : « Ils marchèrent jusqu'à l'échafaud » | Corps descendu sur ordre de Cassian ; Helven ; traces de plume à gauche, porteurs consignés et gardiens convoqués |
-| SC-V2-020 | II : « Les Archives judiciaires occupaient » | Solan, neuf témoins, défense du mandat écartée, feuillets tronqués, demandes d'entretien et Ervan mort |
+| SC-V2-020 | II : « Les Archives judiciaires occupaient » | Solan, confrontation de la synthèse aux originaux ; neuf témoins déjà connus, mandat écarté, feuillets tronqués, appels à Cassian et Ervan mort |
 
 Ces repères suivent les transitions du texte sans insérer d'ancres dans la prose. La [mémoire du texte V2](../../../bible/versions/v2/texte/personnages.md) les utilise comme sources. Voir également les [points repérés à l'import](../../../suivi/controles/2026-10-06-import-v2.md).
 ## Raccords de la suite
@@ -49,7 +49,7 @@ Ces repères suivent les transitions du texte sans insérer d'ancres dans la pro
 | Scène | Chapitre / ouverture | Contenu |
 | --- | --- | --- |
 | SC-V2-021 | II : « Chaque fois que je trouve quelqu'un » | Madame Ervan, accident rapporté, annotations |
-| SC-V2-022 | II : « Une heure plus tard, Cassian » | Archives médicales et accumulation possible |
+| SC-V2-022 | II : « Une heure plus tard, Cassian » | Analyses complètes enfin remises ; concentration déjà connue, absence de substance étrangère et accumulation possible nouvelles |
 | SC-V2-023 | II : « Maître Venn avait trente-deux ans » | Entretien et changements de vie d'Aldren |
 | SC-V2-024 | II : « Où sont consignées ces décisions » | Collecte, théorie abandonnée, registre complet confronté à la requête de défense ; demande signalée à la Sûreté |
 | SC-V2-025 | II : « Il était presque une heure du matin » | Reconnaissances du corps, origine contestée par Lysa alléguée, extrait de décès à vérifier |
@@ -84,3 +84,5 @@ Ces repères suivent les transitions du texte sans insérer d'ancres dans la pro
 | SC-V2-045 | III : archives municipales | J9–J10 : refus, accord de Teren, travail et cours ; autre famille au même motif aux Archives, consultation avec Jon et levée recommandée par Oren |
 
 [Dernière mémoire du texte](../../../bible/versions/v2/texte/suite-chapitre-03-decret.md) : scènes 033–045, connaissances actualisées et procédures.
+
+D-026 : [révision de l’enquête antérieure de Cassian](../../../bible/versions/v2/texte/revision-cassian.md), scènes 007, 016, 020, 022 ; modalités nouvelles au statut brouillon. III inchangé.

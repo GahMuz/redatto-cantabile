@@ -780,7 +780,15 @@ Eléane soupira.
 
 Cassian Orme se trouvait effectivement là où il ne devait pas être.
 
-Il avait trois reines en main et la femme du ministre des Finances sur ses genoux.
+Dans la poche de son manteau, il avait un refus d'entretien avec Oren Vale.
+
+Il l'avait reçu ce matin. Après le jugement, seul le prêtre pouvait encore voir le condamné. Cassian avait fait renvoyer sa demande avec son sceau. La réponse n'avait pas changé.
+
+Depuis la mort d'Aldren, il réclamait les pièces de l'enquête. On lui avait envoyé une synthèse : une concentration mortelle de véradine, les accès d'un archiviste aux documents médicaux, neuf témoins. Il avait demandé les analyses complètes et les procès-verbaux. Le procès s'était achevé avant qu'il les reçoive.
+
+Il avait essayé d'obtenir du temps. La condamnation avait tenu lieu de réponse.
+
+À présent, il avait trois reines en main et la femme du ministre des Finances sur ses genoux.
 
 Il considérait que l'une des deux situations était excellente.
 

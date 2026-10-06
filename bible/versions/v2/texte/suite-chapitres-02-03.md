@@ -8,6 +8,8 @@ Sources : SRC-V2-13 à 16 et [scènes 021 à 032](../../../../manuscrit/versions
 
 Madame Ervan dit avoir vu son mari tomber dans l'escalier après avoir bu presque une bouteille. Cassian accepte provisoirement l'accident ; pas de preuve d'assassinat (021). Il lit les annotations d'Ervan sur la causalité, dont une citation attribuée à Oren : commencer par prouver l'existence d'un meurtre.
 
+D-026 : Cassian connaissait déjà 18,7 par la synthèse judiciaire. Il fait consigner la remise tardive des analyses demandées avant l’exécution. Découvre leur contenu complet et la possibilité d’accumulation, pas la mort de son frère ni le chiffre lui-même (022).
+
 Aux Archives médicales : arythmie d'Aldren depuis six ans selon dossier ; concentration de véradine 18,7, dose attendue six ; absence de substance étrangère et possibilité d'accumulation expliquée par l'archiviste. Ces éléments sont de la médecine fictive du roman, pas une causalité confirmée (022).
 
 Venn, trente-deux ans, remplaçant d'Halden absent depuis deux semaines pour le mariage de sa fille, décrit les flacons préparés et sa vérification des sceaux et étiquettes. Traitement augmenté de six à sept unités par Halden environ trois semaines auparavant, réduit à six par Venn deux jours avant la mort. Venn dit se demander depuis quatre jours s'il est responsable (023).

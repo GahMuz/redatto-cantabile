@@ -55,3 +55,7 @@ Le calendrier J0–J10, les âges quatorze/dix-sept, les délais huit/cinq ans, 
 Les résultats de Lysa, les demandes de Cassian après J1, le sens du signe, le modèle du cuivre, l’expéditeur et la floraison restent ouverts. Le départ de la narration vers Mara ne prouve pas dix jours d’inaction de Cassian. La fin matérielle « O » n’est pas une chute à juger.
 
 Ordre utile désormais : position et motivation de Cassian avant l’exécution (RL-15) ; raccords d’objet et réponses médicales ; vérifications et portée des conclusions ; préparation des coïncidences et fonction de l’ouverture ; voix, répétitions et formulations locales. Ces pistes sont des propositions, pas des choix artistiques acquis. Aucun P1 établi par ces lectures ; aucun score ni garantie d’exhaustivité.
+
+## Évolution après D-026
+
+L’auteur a retenu l’enquête déjà entreprise, entravée par la rapidité de la procédure. RL-15 est traité dans le brouillon I–II, avec [contrôle ciblé](2026-10-07-cassian-synthese.md). Les preuves et alternatives ci-dessus décrivent l’état avant cette révision ; elles restent historiques. RL-01–14 demeurent ouverts.

@@ -1,6 +1,6 @@
 # Chronologie de référence — V2
 
-Mise à jour le 6 octobre 2026. Chapitres I, II et III reçus, III tronqué sur « O ». Cette page suit les révisions autorisées par D-015, D-016, D-017 et D-018 et les repères du brouillon actif. Sources : [chapitres et scènes](../manuscrit/versions/v2/index.md). La [chronologie V1](versions/v1/chronologie.md) reste historique. Le plan secret V2 ne décrit pas des événements accomplis.
+Mise à jour le 7 octobre 2026 (D-026). Chapitres I, II et III reçus, III tronqué sur « O ». Cette page suit les révisions autorisées par D-015, D-016, D-017 et D-018 et les repères du brouillon actif. Sources : [chapitres et scènes](../manuscrit/versions/v2/index.md). La [chronologie V1](versions/v1/chronologie.md) reste historique. Le plan secret V2 ne décrit pas des événements accomplis.
 
 ## Conventions
 
@@ -40,6 +40,8 @@ Séparer narration, document lu, témoignage, déduction et événement annoncé
 | T-V2-019 | Mardi matin puis jeudi | Arrestation puis procès d'Oren | Jon et Mara, SC-009 ; ne fixe pas à lui seul le jour de semaine de J0 |
 | T-V2-020 | Veille de J0, après la mort du roi selon dossier | Mort d'Ervan par chute | Solan puis veuve, SC-020–021 ; accident provisoirement retenu |
 | T-V2-021 | Trois jours de prison ; nom diffusé pendant trois jours | Durée de détention et notoriété récente d'Oren | Examen SC-019 et narration SC-002 ; pas une connaissance universelle de sa famille |
+| T-V2-039 | Depuis la mort d’Aldren, avant J0 | Cassian demande les pièces, reçoit une synthèse, demande analyses et procès-verbaux ; procès terminé avant réception. Demande de délai refusée par Eléane ; Cassian n’est pas au procès, ayant attendu les copies | SC-007 et 016, D-026 ; dates des demandes non fixées |
+| T-V2-040 | Matin J0, après le jugement, avant floraison | Refus d’entretien avec Oren, renouvelé malgré le sceau de Cassian ; accès réservé au prêtre après jugement | SC-007 ; règle invoquée pour ce condamné, pas code juridique universel |
 
 La date de mort d'Aldren reste à fixer. Le récit de Darien dit désormais « des années plus tard » ; date exacte du déplacement non fixée. Oren, quarante et un ans au présent selon son dossier, aurait vingt-quatre ans lors des examens de 53 ; ce calcul ne prouve pas son identité de naissance.
 
@@ -73,6 +75,7 @@ Le récit alterne des branches : leur succession dans le chapitre ne prouve pas 
 
 | Information | Événement | Acquisition montrée | Limite |
 | --- | --- | --- | --- |
+| Pièces avant/après floraison | Démarches avant J0 puis autorisation SC-016 | Cassian connaît déjà la concentration 18,7, les accès, les neuf témoins, trois tentatives d’entretien et mention « droitier » par synthèse. À J0, consulte enfin originaux et analyses complètes | N’avait lu ni lettres ni appels à son nom ; reçoit mandat, réponses omises et hypothèse d’accumulation en SC-020/022 ; identité et cause non établies |
 | Bon antérieur à l'arrestation | Lundi | Mara/Jon J0, SC-009 ; Darien obtient des dates J1, SC-027 | Cassian ne l'apprend pas automatiquement |
 | Gaucher/droitier puis Lysa | J0, visite à la morgue rapportée | Cassian J0 puis nuit J0–J1, SC-019, 025 | Reconnaissance de l'homme par collègues et gardiens rapportée ; origine et extrait de Lysa à vérifier |
 | Rapport anatomique | Examen non daté exactement | Darien/Varos J1, SC-028 | Mara n'en dispose pas |

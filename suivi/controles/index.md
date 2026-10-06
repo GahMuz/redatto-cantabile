@@ -1,6 +1,6 @@
 # Contrôles
 
-Dernier contrôle : [lecture générale du 7 octobre 2026](2026-10-07-lecture-synthese.md), trois lectures indépendantes intégrales I–III et arbitrage des retours de l’auteur. Plusieurs raccords et réserves P2 ouverts ; aucune prose modifiée. Les rapports antérieurs restent historiques.
+Dernier contrôle : [révision de Cassian D-026](2026-10-07-cassian-synthese.md), trois lectures indépendantes intégrales I–II et raccords finaux ciblés. RL-15 traité dans le brouillon ; RL-01–14 de la lecture générale restent ouverts. Les rapports antérieurs restent historiques.
 
 | Date | Rapport | Périmètre lu | Versions / état des sources | Points ouverts |
 | --- | --- | --- | --- | --- |
@@ -47,3 +47,10 @@ Les rapports proposent des corrections sans les appliquer au roman. Une observat
 | 2026-10-07 | [Fond](2026-10-07-lecture-fond.md) | I–III intégralement | Conclusions, compétences, intérêts, adversaires, provenance |
 | 2026-10-07 | [Forme](2026-10-07-lecture-forme.md) | I–III intégralement | Voix, leçons, image des cartes et focalisation locale |
 | 2026-10-07 | [Synthèse](2026-10-07-lecture-synthese.md) | Trois rapports arbitrés, passages relus | RL-01–15 ouverts ; complément sur la motivation de Cassian, aucune réécriture |
+
+| Date | Contrôle D-026 | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-07 | [Cohérence](2026-10-07-cassian-coherence.md) | I–II intégralement puis deux raccords finaux | Motivation, obstacles et savoir raccordés |
+| 2026-10-07 | [Fond](2026-10-07-cassian-fond.md) | I–II intégralement, avant deux derniers raccords locaux | RL-15 traité ; responsabilité préservée |
+| 2026-10-07 | [Forme](2026-10-07-cassian-forme.md) | I–II intégralement puis amorce médicale finale | Raccord corrigé ; dosage du résumé P3 |
+| 2026-10-07 | [Synthèse](2026-10-07-cassian-synthese.md) | Trois rapports arbitrés, passages et mémoire | Aucun nouveau P1/P2 sur D-026 ; RL-01–14 ouverts |
