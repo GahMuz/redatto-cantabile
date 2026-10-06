@@ -30,7 +30,7 @@
 
 L'auteur apprécie les pistes 10–14 : intelligences et aveuglements distincts ; erreurs avec conséquences ; tension réelle entre prudence de Varos et initiative de Darien ; demandes qui alertent un adversaire ; alliances nécessaires et usages politiques d'hypothèses fragiles ; voix différentes et informations transmises par des tâches ; bénéfice réel de la Concorde, blessure persistante et coût du cynisme ; histoire collective et circulation par l'imprimerie.
 
-Ces préférences guident une prochaine passe ou une continuation choisie. Elles ne prouvent pas qu'une alliance, une manipulation de Cassian, une riposte ou une occasion sauvée par Darien a déjà eu lieu. Le motif collectif et le métier de Jon restent retenus. 14B, qui supprimerait la correspondance entre matrice et plaque familiale, est une alternative à arbitrer, non une correction appliquée en parallèle de 14A.
+Ces préférences guident une prochaine passe ou une continuation choisie. Elles ne prouvent pas qu'une alliance, une manipulation de Cassian, une riposte ou une occasion sauvée par Darien a déjà eu lieu. Le motif collectif et le métier de Jon restent retenus. D-018 retient ensuite explicitement 14A : une autre famille est rencontrée aux Archives (SC-045, J10), avec sa propre démarche et une plaque au même motif. 14B n’est plus une alternative en attente.
 
 ## Limites à préserver
 

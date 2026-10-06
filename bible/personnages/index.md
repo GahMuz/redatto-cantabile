@@ -1,6 +1,6 @@
 # Personnages
 
-Brouillon actif révisé D-015/D-016/D-017 : [personnages V2](../versions/v2/texte/personnages.md). Voir les [personnages historiques de la V1](../versions/v1/index.md) ; leurs faits ne sont pas automatiquement actuels.
+Brouillon actif révisé D-015/D-016/D-017/D-018 : [personnages V2](../versions/v2/texte/personnages.md). Voir les [personnages historiques de la V1](../versions/v1/index.md) ; leurs faits ne sont pas automatiquement actuels.
 
 | Identifiant | Nom et alias | Fiche | Première scène active | Dernière mise à jour |
 | --- | --- | --- | --- | --- |

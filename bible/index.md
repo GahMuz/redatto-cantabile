@@ -1,6 +1,6 @@
 # Mémoire du roman
 
-Brouillon actif révisé D-015/D-016/D-017 : [état actualisé du chapitre III](versions/v2/texte/suite-chapitre-03-decret.md), trois chapitres au statut brouillon. La [bible historique de la V1](versions/v1/index.md) contient les premières fiches, lieux, chronologie et fils, exclusivement tirés de la V1 fournie. Ne pas transférer ces faits dans une autre version sans les vérifier.
+Brouillon actif révisé D-015/D-016/D-017/D-018 : [état actualisé du chapitre III](versions/v2/texte/suite-chapitre-03-decret.md), trois chapitres au statut brouillon. La [bible historique de la V1](versions/v1/index.md) contient les premières fiches, lieux, chronologie et fils, exclusivement tirés de la V1 fournie. Ne pas transférer ces faits dans une autre version sans les vérifier.
 
 La [conception V2](versions/v2/index.md) contient les corrections de l'auteur et les propositions successives, dont un plan secret du tome I. Les chapitres reçus sont suivis séparément du plan : ses étapes envisagées ne sont pas automatiquement réalisées. Pour travailler dans la direction V2, lire ses changements et les décisions actives avant les fiches historiques V1.
 

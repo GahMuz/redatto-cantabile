@@ -6784,7 +6784,33 @@ Mara acquiesça. Elle aurait préféré un oui sans conditions.
 
 Elle reprit son composteur. Jon vérifia la première ligne sans rien dire ; elle avait posé un chiffre à l'envers.
 
-Le lendemain, après les cours, il l'attendait devant l'école avec les actes de famille. Ils se présentèrent aux Archives une heure avant la fermeture. L'employé vérifia les actes, fit signer Jon et apporta le registre des décisions de la Commission. Le dossier complet demeurait classifié.
+Le lendemain, après les cours, il l'attendait devant l'école avec les actes de famille. Ils se présentèrent aux Archives une heure avant la fermeture.
+
+Devant eux, une femme tenait une liasse dont les plis commençaient à se déchirer. Un jeune homme lui remettait les feuillets dans l'ordre.
+
+— Il faut un extrait, maman. Pas qu'ils te le montrent une troisième fois.
+
+— Je sais.
+
+Elle desserra son col. À son cou pendait une petite plaque noire, ovale. Mara y reconnut l'arbre et les sept cercles. Six rayés.
+
+Elle tira la manche de Jon.
+
+— Comme celle de maman.
+
+La femme les entendit. Elle referma ses doigts sur la plaque.
+
+— C'était à ma mère. Elle venait de Valdorne.
+
+Mara regarda le jeune homme. Il avait cessé de ranger les papiers.
+
+— Ma femme aussi, dit Jon.
+
+On appela la femme. Elle ramassa sa liasse ; son fils prit le feuillet qu'elle avait laissé tomber. Ils s'éloignèrent sans demander ce que les Veyre cherchaient.
+
+Mara garda les yeux sur la porte par laquelle ils étaient passés. Elle avait failli demander si leur plaque avait toujours appartenu à leur famille. Le garçon, lui, avait parlé d'un extrait.
+
+À leur tour, l'employé vérifia les actes, fit signer Jon et apporta le registre des décisions de la Commission. Le dossier complet demeurait classifié.
 
 — Vous pouvez relever une référence. Pour un extrait certifié, il faudra une demande distincte.
 

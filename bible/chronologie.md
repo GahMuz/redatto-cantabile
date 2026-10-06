@@ -1,6 +1,6 @@
 # Chronologie de référence — V2
 
-Mise à jour le 6 octobre 2026. Chapitres I, II et III reçus, III tronqué sur « O ». Cette page suit les révisions autorisées par D-015, D-016 et D-017 et les repères du brouillon actif. Sources : [chapitres et scènes](../manuscrit/versions/v2/index.md). La [chronologie V1](versions/v1/chronologie.md) reste historique. Le plan secret V2 ne décrit pas des événements accomplis.
+Mise à jour le 6 octobre 2026. Chapitres I, II et III reçus, III tronqué sur « O ». Cette page suit les révisions autorisées par D-015, D-016, D-017 et D-018 et les repères du brouillon actif. Sources : [chapitres et scènes](../manuscrit/versions/v2/index.md). La [chronologie V1](versions/v1/chronologie.md) reste historique. Le plan secret V2 ne décrit pas des événements accomplis.
 
 ## Conventions
 
@@ -115,3 +115,7 @@ Voir [critique de cohérence](../suivi/controles/2026-10-06-critique-coherence.m
 Avant une scène, consulter les lignes pertinentes : jour, événements parallèles, informations déjà acquises, temps de trajet/transmission connus et échéances. Une distance inconnue ne permet pas d'affirmer un trajet instantané.
 
 Après import ou réécriture, actualiser événements, sources, révélations et échéances affectés. Garder les identifiants T-V2 et A-T stables quand une date change ; vérifier les scènes dépendantes avant de fermer un arbitrage. Les suppléments conservent leur couverture historique et renvoient ici pour le calendrier consolidé.
+
+## Motif partagé — D-018
+
+SC-033 : Jon rapporte des plaques chez d’autres pensionnaires de Saint-Avelle. SC-044, J9 : Varos rapporte le signe chez plusieurs déplacés. SC-045, J10 : Mara et Jon rencontrent une femme et son fils venus pour un extrait ; ils voient une plaque au même motif, que la femme dit héritée de sa mère de Valdorne. Observation et origine rapportée distinctes. Leur démarche n’aboutit pas dans le texte ; noms, nature du dossier et sens du signe restent inconnus. Varos/Darien n’apprennent pas cette rencontre.

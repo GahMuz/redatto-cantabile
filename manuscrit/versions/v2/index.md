@@ -1,6 +1,6 @@
 # Manuscrit V2 — chapitres reçus
 
-Trois chapitres assemblés à partir de douze pièces, importés le 6 octobre 2026. Statut : **brouillon actif révisé selon D-015, D-016 et D-017**, sans confirmation qu'il s'agit de la version définitive. Les sources brutes et le commit fa8cc16 conservent l'état avant révision. Sources et demandes de continuation : SRC-V2-05 à 23 (11, 12 et 20 sont des doublons) dans le [registre](../../../sources/index.md).
+Trois chapitres assemblés à partir de douze pièces, importés le 6 octobre 2026. Statut : **brouillon actif révisé selon D-015, D-016, D-017 et D-018**, sans confirmation qu'il s'agit de la version définitive. Les sources brutes et le commit fa8cc16 conservent l'état avant révision. Sources et demandes de continuation : SRC-V2-05 à 23 (11, 12 et 20 sont des doublons) dans le [registre](../../../sources/index.md).
 
 | Identifiant | Titre / copie de lecture | Sources | Fin reçue |
 | --- | --- | --- | --- |
@@ -81,6 +81,6 @@ Ces repères suivent les transitions du texte sans insérer d'ancres dans la pro
 | SC-V2-042 | III : « À l’école, Mara garda le formulaire » puis bibliothèque | Circulaire 14-7-B et recommandation antérieure |
 | SC-V2-043 | III : réponse reçue par Varos | Refus d'accès et opérations en cours, hypothèses |
 | SC-V2-044 | III : Darien, rapport puis atelier | Corlan Esve, portrait 771 daté 59, variantes et motif collectif ; expertise après découverte |
-| SC-V2-045 | III : archives municipales | J9–J10 : refus à Mara, accord limité de Teren, travail et cours avant consultation avec Jon ; levée recommandée par Oren |
+| SC-V2-045 | III : archives municipales | J9–J10 : refus, accord de Teren, travail et cours ; autre famille au même motif aux Archives, consultation avec Jon et levée recommandée par Oren |
 
 [Dernière mémoire du texte](../../../bible/versions/v2/texte/suite-chapitre-03-decret.md) : scènes 033–045, connaissances actualisées et procédures.

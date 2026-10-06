@@ -1,6 +1,6 @@
 # Contrôles
 
-Dernier contrôle : [âges D-017](2026-10-06-ages-synthese.md), trois lectures indépendantes ciblées et raccords relus. Aucun P1/P2 restant établi. Le [contrôle intégral D-016](2026-10-06-calendrier-bourgeon-synthese.md) reste la référence pour le calendrier et le bourgeon.
+Dernier contrôle : [motif collectif D-018](2026-10-06-motif-synthese.md), trois lectures indépendantes ciblées de SC-045 et dépendances. Aucun problème établi ni réparation supplémentaire demandée. Les contrôles précédents gardent leurs périmètres historiques.
 
 | Date | Rapport | Périmètre lu | Versions / état des sources | Points ouverts |
 | --- | --- | --- | --- | --- |
@@ -33,3 +33,10 @@ Les rapports proposent des corrections sans les appliquer au roman. Une observat
 | 2026-10-06 | [Fond](2026-10-06-ages-fond.md) | Même périmètre ciblé | Démarches, résistances et autonomie compatibles |
 | 2026-10-06 | [Forme](2026-10-06-ages-forme.md) | Même périmètre ciblé | Voix plausibles, remarque P3 sur le doute |
 | 2026-10-06 | [Synthèse](2026-10-06-ages-synthese.md) | Trois lectures arbitrées | Aucun P1/P2 restant établi |
+
+| Date | Contrôle D-018 | Périmètre | État |
+| --- | --- | --- | --- |
+| 2026-10-06 | [Cohérence](2026-10-06-motif-coherence.md) | SC-045 et dépendances du motif | Objets et connaissances distincts |
+| 2026-10-06 | [Fond](2026-10-06-motif-fond.md) | Même périmètre ciblé | Autre famille avec démarche propre |
+| 2026-10-06 | [Forme](2026-10-06-motif-forme.md) | Même périmètre ciblé | Raccord et rencontre naturels |
+| 2026-10-06 | [Synthèse](2026-10-06-motif-synthese.md) | Trois rapports arbitrés | Aucun problème nouveau établi |
