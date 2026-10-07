@@ -63,3 +63,5 @@ Mort constatée par Helven, qui décrit une rupture cervicale ; aucune dispariti
 Duc d'Avel et ministre des Lois : rôles écrits, noms personnels non donnés. Duc de Salerne et couple du ministre des Finances retirés du texte actif en D-033. Varos et Darien apparaissent désormais au III avec un garçon non nommé (027–029). Alessa et Lucern restent absents des passages reçus.
 
 D-028, Mara : yeux ouverts et blanc injecté de sang perçus après la pendaison (004–005) ; image intrusive distrait du bourgeon jusqu’au récit à Jon (008), revient devant les affiches et lors de sa réflexion III. Pas de regard vivant dirigé vers elle ni de preuve de survie. [Mémoire des retouches](revision-points.md).
+
+D-034 : SC-001 développe les perceptions concrètes de Mara, les rappels de livraison de Teren et leurs provocations avec moins de répliques. SC-007 fait éprouver l’attente à Cassian ; démarche, erreur et savoir restent D-026/D-033. [Mémoire stylistique](revision-equilibre.md) ; aucune nouvelle confidence d’Oren ou de sa famille.

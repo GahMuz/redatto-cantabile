@@ -2,165 +2,37 @@
 
 ## Chapitre I — Le pendu
 
-Mara attendait derrière un manteau brun dont le col lui arrivait au nez. Les gardes n'étaient pas encore sortis du palais.
+Mara attendait derrière un manteau brun dont le col lui arrivait au nez. Chaque fois qu'elle trouvait un espace pour regarder, quelqu'un venait le boucher. Devant elle, la laine gardait une odeur de sueur ; derrière, un coude lui appuyait entre les omoplates. Elle déplaça un pied et sentit celui de Teren sous sa semelle.
 
-Teren soupira.
-
-À dix-sept ans, Teren aurait préféré livrer les registres et rentrer plutôt que de rester coincé dans cette foule.
-
-Mara lui donna un coup de coude.
-
-Il lui écrasa le pied.
-
-Elle lui écrasa le sien.
-
-Un homme derrière eux protesta.
-
-— Vous pourriez arrêter ?
-
-Mara se retourna.
-
-— Il a commencé.
-
-— Je me fous de savoir qui a commencé.
-
-— C'est généralement ce que disent ceux qui arrivent après.
-
-L'homme ouvrit la bouche.
-
-Teren entraîna sa sœur plus loin.
+Il soupira et lui rendit le coup. À dix-sept ans, il aurait préféré livrer les registres et rentrer plutôt que de rester coincé là. Mara lui donna un coup de coude ; leur voisin protesta. Teren la tira entre deux manteaux avant qu'elle ait fini de lui expliquer qui avait commencé.
 
 — Un jour, tu vas dire ça à quelqu'un qui te cassera les dents.
 
 — Tu pourras enfin placer un mot.
 
-Teren lui prit le poignet et la tira entre deux manteaux.
+Il garda son poignet dans sa main jusqu'à ce qu'ils aient gagné quelques mètres. Mara se dégagea. D'ici, elle voyait une partie de l'échafaud, mais il suffisait que l'homme devant elle tourne la tête pour que le bois disparaisse.
 
-— Essaie déjà de garder les pieds au sol.
+Aux fenêtres du palais et de l'ancien tribunal, les spectateurs se penchaient les uns sur les autres. Il y en avait jusque sur les toits. Des enfants s'étaient installés entre les ailes de pierre des gargouilles, jambes pendantes au-dessus du vide. Mara regarda leurs places avec envie ; Teren suivit son regard et lui reprit la manche.
 
-Ils gagnèrent quelques mètres dans la foule.
+Une vendeuse de petits pains avançait de biais dans la foule, son panier levé à hauteur d'épaule. L'odeur arrivait avant elle. Plus loin, un homme proposait de la bière ; un autre agitait des bouts de corde qu'il disait avoir récupérés après de précédentes exécutions. Mara essaya d'en suivre un des yeux. Tous avaient la même longueur, tous avaient l'air neufs. Elle aurait voulu lui demander combien de condamnés tenait une bobine, mais Teren la poussait déjà devant lui.
 
-La place du Roi était pleine.
+Il lui rappela les registres à livrer avant midi. Elle annonça qu'il était onze heures et désigna le soleil, assez haut pour qu'on doive plisser les yeux. Teren n'y crut pas. Elle non plus ; elle espérait seulement qu'il cesserait de compter le temps. Quand elle corrigea son estimation en midi et demi, il jura, et elle sourit malgré le poids des gens autour d'eux.
 
-Les fenêtres étaient pleines.
+L'arche du palais restait vide. Mara se hissa sur la pointe des pieds, puis renonça. Rien ne commençait. Les conversations lui parvenaient par morceaux, aussitôt recouvertes par d'autres ; près de son oreille, un homme mâchait quelque chose. Elle tourna la tête vers l'Arbre.
 
-Les balcons étaient pleins.
+Ses branches dépassaient la foule. Sans les feuilles, on pouvait suivre chaque fourche, chaque coude, jusqu'aux extrémités les plus fines. Mara choisit la branche basse qui revenait vers le tronc et la parcourut des yeux. Au bout, une petite saillie accrochait la lumière autrement que le bois.
 
-Les toits étaient pleins.
-
-Même les gargouilles de l'ancien tribunal portaient des enfants assis entre leurs ailes de pierre.
-
-Une femme vendait des petits pains.
-
-Un homme vendait de la bière.
-
-Un autre vendait des morceaux de corde en prétendant qu'ils provenaient de précédentes exécutions.
-
-Mara se demanda combien de fois on pouvait vendre la même corde avant qu'elle cesse d'avoir pendu quelqu'un.
-
-Elle en conclut que cela dépendait probablement davantage du client que de la corde.
-
-— Papa va nous tuer, dit Teren.
-
-— Seulement s'il sait.
-
-— On devait livrer les registres avant midi.
-
-— Il est onze heures.
-
-— Comment tu sais ?
-
-Mara indiqua le soleil.
-
-Teren leva les yeux.
-
-— Tu ne sais pas lire l'heure avec le soleil.
-
-— Toi non plus.
-
-— Alors pourquoi tu dis onze heures ?
-
-— Parce que ça te rassure.
-
-Teren la regarda.
-
-— Pas du tout.
-
-— Alors midi et demi.
-
-Il jura.
-
-Mara sourit.
-
-Elle aimait son frère.
-
-Elle aimait surtout l'emmerder.
-
-L'arche du palais restait vide. Mara se hissa sur la pointe des pieds, puis renonça. On ne faisait même pas entrer les gardes.
-
-Au-dessus de l'échafaud, les branches de l'Arbre dépassaient les têtes. Elle suivit leurs coudes, leurs fourches, la plus basse qui revenait vers le tronc. Au bout, une petite saillie lui sembla différente.
-
-Un bourgeon.
-
-Minuscule.
-
-Presque invisible.
-
-Au bout d'une branche morte.
-
-Mara plissa les yeux.
-
-Vert.
+Elle plissa les yeux. Un bourgeon. Il était si petit qu'elle le perdait dès qu'une tête passait devant, mais, lorsqu'il réapparaissait, elle retrouvait cette pointe de vert.
 
 Elle tira la manche de Teren.
 
-— Regarde.
+— Regarde. Là-haut, sur la branche qui revient vers le tronc.
 
-— Quoi ?
+Il leva les yeux. Elle lui indiqua la gauche, puis essaya de guider son regard avec le doigt. Il se baissa pour voir dans la même direction qu'elle ; quelqu'un les heurta, son épaule cacha la branche et Mara dut recommencer.
 
-— Là-haut.
+Devant eux, un cri annonça les gardes. La foule se resserra d'un seul mouvement. Mara fut poussée contre son frère ; cette fois, elle s'accrocha à son bras pour garder les pieds au sol.
 
-— Où ?
-
-— Sur la branche.
-
-— Quelle branche ?
-
-— Celle qui ressemble à un bras.
-
-Teren leva les yeux.
-
-Toutes les branches ressemblaient à des bras.
-
-— Très utile.
-
-— À gauche.
-
-— Ta gauche ou la mienne ?
-
-Mara le regarda.
-
-— On a la même gauche, imbécile.
-
-Devant eux, quelqu'un cria :
-
-— Ils arrivent !
-
-La foule se contracta.
-
-Mara fut poussée contre Teren.
-
-Des gardes débouchèrent sur la place.
-
-Douze hommes.
-
-Puis un prêtre.
-
-Puis le condamné.
-
-Oren Vale.
-
-Il avançait sans chercher personne dans la foule. Mara se hissa derrière l'épaule de Teren pour voir son visage.
+Douze hommes débouchèrent sur la place, suivis d'un prêtre et du condamné. Le bruit changea autour d'elle : ceux qui plaisantaient réclamaient maintenant qu'on les laisse voir. Entre les épaules, Mara aperçut le visage d'Oren Vale. Il avançait sans chercher personne dans la foule. Elle se hissa derrière Teren pour mieux le voir.
 
 ***
 
@@ -658,73 +530,43 @@ Eléane soupira.
 
 Cassian Orme attendait dans le vestibule de la prison.
 
-Sur la table, son refus d'entretien avec Oren Vale portait la marque de son sceau. Il l'avait reçu ce matin, renvoyé, puis apporté lui-même. Le directeur l'avait fait attendre pendant qu'il vérifiait l'ordre de la Cour.
+Le banc longeait un mur de pierre, hors de la lumière qui tombait de la porte extérieure. Il s'y était assis, puis relevé. À présent, il restait près de la table, une main posée sur le refus d'entretien avec Oren Vale. La feuille portait la marque de son sceau. Reçue ce matin, renvoyée, puis apportée en personne, elle commençait à s'user aux plis.
 
-Depuis la mort d'Aldren, Cassian réclamait les pièces de l'enquête. On lui avait envoyé une synthèse : une concentration mortelle de véradine, les accès d'un archiviste aux documents médicaux, neuf témoins. Il avait demandé les analyses complètes et les procès-verbaux. Le procès s'était achevé avant qu'il les reçoive.
+Le directeur était parti vérifier l'ordre de la Cour. Derrière la porte intérieure, des pas s'étaient éloignés ; depuis, Cassian n'entendait que les bruits de la rue. À chaque passage devant la prison, il tournait la tête, puis revenait au papier.
 
-La porte intérieure s'ouvrit.
+Depuis la mort d'Aldren, il réclamait les pièces de l'enquête. Une synthèse lui était parvenue : une concentration mortelle de véradine, les accès d'un archiviste aux documents médicaux, neuf témoins. Il avait demandé les analyses complètes et les procès-verbaux. Le procès s'était achevé avant qu'il les reçoive. Il connaissait assez le dossier pour préparer des questions, pas assez pour répondre à celles qui le ramenaient ici.
 
-Le directeur posa un registre près du refus.
-
-— Après le jugement, seul le prêtre était autorisé à le voir.
-
-Cassian resta debout.
+La porte intérieure s'ouvrit enfin. Le directeur posa un registre près du refus et expliqua qu'après le jugement, seul le prêtre était autorisé à voir le condamné. Cassian attendit qu'il termine. L'homme gardait un doigt entre les pages, prêt à refermer le volume.
 
 — Et maintenant ?
 
 — L'escorte est partie pour la place. Il n'est plus ici.
 
-Cassian regarda la porte par laquelle l'homme venait d'entrer.
-
-— Depuis combien de temps ?
-
-Le directeur lui montra l'heure inscrite au registre.
-
-Cassian avait été dans ce vestibule au moment du départ.
+Cassian regarda derrière lui, vers la porte restée ouverte. Il demanda l'heure du départ. Le directeur tourna le registre et lui montra l'inscription ; Cassian avait été dans ce vestibule à ce moment-là. Il aurait pu sortir, suivre l'escorte, au moins voir l'homme. Il avait attendu qu'on lui réponde.
 
 — Vous auriez pu me le dire.
 
-— Vous demandiez un entretien autorisé, monseigneur. Je ne pouvais pas l'accorder.
-
-Il poussa le refus vers lui. La réponse n'avait pas changé.
-
-Cassian reprit le papier.
+Le directeur répéta qu'il ne pouvait pas accorder l'entretien et poussa le refus vers lui. Cassian ne reprit pas tout de suite la feuille.
 
 — Faites inscrire mon arrivée et l'heure de cette réponse. Sur ma demande, pas seulement dans votre registre.
 
-Le directeur hésita, puis prit sa plume. Cassian attendit qu'il ait signé.
+L'homme hésita, puis ouvrit son encrier. Cassian regarda la plume avancer sous les lignes qu'il avait déjà lues. Il attendit la signature, reprit le papier et sortit.
 
-Dehors, un jeune garde du palais cherchait son chemin entre les voitures arrêtées devant la prison. Il reconnut Cassian sur les marches.
+Sur les marches, il dut s'arrêter pour laisser passer une voiture. Le jour lui fit fermer les yeux. Quand il les rouvrit, un jeune garde du palais se faufilait entre les véhicules arrêtés devant la prison. Il reconnut Cassian et vint lui transmettre la convocation de la reine au Conseil.
 
-— Monseigneur. La reine vous demande au Conseil.
-
-Cassian plia la feuille.
-
-— L'exécution est terminée ?
-
-— Oui.
-
-Il ne bougea pas tout de suite. Il aurait voulu connaître la voix de cet homme autrement que par ce que les greffiers en avaient conservé.
+Cassian demanda si l'exécution était terminée. Elle l'était. Il resta sur la marche, la feuille pliée dans sa main. Il aurait voulu connaître la voix d'Oren autrement que par ce que les greffiers en avaient conservé.
 
 — Il a dit quelque chose ?
 
 — Je l'ignore. On m'a envoyé vous chercher dès que l'Arbre a fleuri.
 
-Cassian leva les yeux vers lui.
+Cassian leva les yeux. Le garde précisa qu'il s'agissait bien de l'Arbre de la place : des feuilles et des fleurs, pendant l'exécution. Il parlait vite, comme s'il craignait de n'être pas cru. Cassian l'écouta jusqu'au bout. Derrière eux, les voitures se remettaient en mouvement ; une roue racla le bord de la marche.
 
-— L'Arbre de la place ?
-
-— Oui, monseigneur. Des feuilles et des fleurs. Pendant l'exécution.
-
-Les cloches commencèrent à sonner. Cassian regarda le refus dans sa main, puis le rangea à l'intérieur de son manteau.
+Les cloches commencèrent à sonner. Il sentit le papier se froisser sous ses doigts, desserra la main et le rangea à l'intérieur de son manteau.
 
 — La mort a été constatée ?
 
-— Le capitaine Serdan pourra vous répondre.
-
-— Allons le trouver.
-
-Il descendit les marches avec le garde.
+Le garde le renvoya au capitaine Serdan. Cassian descendit les marches avec lui pour aller le trouver.
 
 ***
 

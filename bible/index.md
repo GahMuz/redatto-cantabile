@@ -25,3 +25,5 @@ D-026 : [révision de l’enquête antérieure de Cassian](versions/v2/texte/rev
 D-028 : [retouches de lecture et connaissances actualisées](versions/v2/texte/revision-points.md), I–III révisés, III toujours fin « O ».
 
 D-033 : [Cassian en prison et retrait des cartes](versions/v2/texte/revision-prison.md), I–II et titre II révisés ; démarches de D-026 préservées, III inchangé.
+
+D-034 : [première révision de l’équilibre dialogue/récit](versions/v2/texte/revision-equilibre.md), SC-001 et SC-007 ; intrigue et transmissions conservées, autres scènes encore à reprendre selon cette orientation.
