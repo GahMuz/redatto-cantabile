@@ -131,3 +131,5 @@ SC-033 : Jon rapporte des plaques chez d’autres pensionnaires de Saint-Avelle.
 - SC-013 : gardes situent feuilles à chute/après ou n’ont pas regardé. Aucun n’atteste un début avant ; Cassian n’apprend pas l’observation précise de Mara. Palen et entretien retirés (RL-16).
 
 D-031 : SC-004, demande de dernières paroles suivie du silence d’Oren et du geste du prêtre avant exécution. SC-036, Mara rappelle le silence pour situer l’ordre des événements, sans durée mesurée ; ancien repère de la soupe retiré. Observation pendant attente, mort et horaires J0 inchangés.
+
+D-034 : SC-001 et SC-007 rééquilibrées en récit/actions/perceptions. T-V2-038/022 et T-V2-040 conservent leur ordre : bourgeon avant arrivée, Cassian attendant durant départ de l’escorte ; estimation de l’heure par Mara explicitement incertaine, aucun horaire nouveau. Aucun bruit entendu en prison n’identifie l’escorte.

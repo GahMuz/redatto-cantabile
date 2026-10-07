@@ -1,6 +1,8 @@
 # Contrôles
 
-Dernier contrôle : [Cassian à la prison D-033](2026-10-07-prison-synthese.md), trois lectures indépendantes intégrales I–II ; réserve spatiale PC-01 corrigée, aucun nouveau P1/P2 établi sur la révision.
+Dernier contrôle : [équilibre dialogue/récit D-034](2026-10-07-equilibre-synthese.md), trois lectures indépendantes ciblées SC-001–007 et raccords ; répétition EQ-F01 corrigée, aucun nouveau P1/P2 établi.
+
+Contrôle précédent : [Cassian à la prison D-033](2026-10-07-prison-synthese.md), trois lectures indépendantes intégrales I–II ; réserve spatiale PC-01 corrigée, aucun nouveau P1/P2 établi sur la révision.
 
 Contrôle ciblé précédent : [silence du pendu D-031](2026-10-07-silence-synthese.md), six scènes lues intégralement par trois lecteurs indépendants ; aucun nouveau problème établi.
 

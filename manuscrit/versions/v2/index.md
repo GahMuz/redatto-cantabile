@@ -90,3 +90,5 @@ D-026 : [révision de l’enquête antérieure de Cassian](../../../bible/versio
 D-028 : [retouches de lecture et connaissances actualisées](../../../bible/versions/v2/texte/revision-points.md), I–III révisés, III toujours fin « O ».
 
 D-033 : [dernier refus en prison](../../../bible/versions/v2/texte/revision-prison.md), motif des cartes retiré I–II et titre II « Les pièces » ; III inchangé.
+
+D-034 : [équilibre dialogue/récit](../../../bible/versions/v2/texte/revision-equilibre.md), SC-001 et SC-007 seulement : échanges secondaires indirects, perception de la foule et attente en prison développées. Repères et chronologie conservés ; II–III inchangés.

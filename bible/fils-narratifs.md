@@ -24,3 +24,5 @@ D-028 : [retouches de lecture et connaissances actualisées](versions/v2/texte/r
 D-031 : Oren garde le silence avant pendaison et regarde la branche (SC-004), récit de Mara raccordé (SC-036). Motivation et perception demeurent inconnues ; aucun nouveau message ou signe ajouté.
 
 D-033 : [Cassian en prison et retrait des cartes](versions/v2/texte/revision-prison.md), I–II et titre II révisés ; démarches de D-026 préservées, III inchangé.
+
+D-034 : [première révision de l’équilibre dialogue/récit](versions/v2/texte/revision-equilibre.md), SC-001 et SC-007 ; intrigue et transmissions conservées, autres scènes encore à reprendre selon cette orientation.
